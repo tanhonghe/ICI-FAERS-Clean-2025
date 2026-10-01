@@ -1,0 +1,19 @@
+.DS_Store
+.Rhistory
+.RData
+Rplots.pdf
+.Rproj.user/
+
+# FDA raw extracts are large and should be downloaded from FDA or stored locally.
+raw/*
+!raw/README.md
+!raw/2025/
+raw/2025/*
+!raw/2025/.gitkeep
+
+# Large intermediate staging files are reproducible from raw FAERS zip files.
+data/interim/
+
+# Temporary runtime artifacts.
+tmp/
+*.tmp
