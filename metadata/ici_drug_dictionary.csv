@@ -1,0 +1,30 @@
+raw_name,standard_name,brand_name,ici_class,target,matching_strategy,include,notes
+pembrolizumab,pembrolizumab,Keytruda,PD-1,PD-1,token,true,Generic name
+keytruda,pembrolizumab,Keytruda,PD-1,PD-1,token,true,Brand name
+mk-3475,pembrolizumab,Keytruda,PD-1,PD-1,token,true,Development code
+sch 900475,pembrolizumab,Keytruda,PD-1,PD-1,token,true,Development code
+lambrolizumab,pembrolizumab,Keytruda,PD-1,PD-1,token,true,Former name
+nivolumab,nivolumab,Opdivo,PD-1,PD-1,token,true,Generic name
+opdivo,nivolumab,Opdivo,PD-1,PD-1,token,true,Brand name
+bms-936558,nivolumab,Opdivo,PD-1,PD-1,token,true,Development code
+mdx-1106,nivolumab,Opdivo,PD-1,PD-1,token,true,Development code
+ono-4538,nivolumab,Opdivo,PD-1,PD-1,token,true,Development code
+cemiplimab,cemiplimab,Libtayo,PD-1,PD-1,token,true,Generic name
+libtayo,cemiplimab,Libtayo,PD-1,PD-1,token,true,Brand name
+regn2810,cemiplimab,Libtayo,PD-1,PD-1,token,true,Development code
+dostarlimab,dostarlimab,Jemperli,PD-1,PD-1,token,true,Generic name
+jemperli,dostarlimab,Jemperli,PD-1,PD-1,token,true,Brand name
+tsr-042,dostarlimab,Jemperli,PD-1,PD-1,token,true,Development code
+atezolizumab,atezolizumab,Tecentriq,PD-L1,PD-L1,token,true,Generic name
+tecentriq,atezolizumab,Tecentriq,PD-L1,PD-L1,token,true,Brand name
+mpdl3280a,atezolizumab,Tecentriq,PD-L1,PD-L1,token,true,Development code
+durvalumab,durvalumab,Imfinzi,PD-L1,PD-L1,token,true,Generic name
+imfinzi,durvalumab,Imfinzi,PD-L1,PD-L1,token,true,Brand name
+medi4736,durvalumab,Imfinzi,PD-L1,PD-L1,token,true,Development code
+avelumab,avelumab,Bavencio,PD-L1,PD-L1,token,true,Generic name
+bavencio,avelumab,Bavencio,PD-L1,PD-L1,token,true,Brand name
+msb0010718c,avelumab,Bavencio,PD-L1,PD-L1,token,true,Development code
+ipilimumab,ipilimumab,Yervoy,CTLA-4,CTLA-4,token,true,Generic name
+yervoy,ipilimumab,Yervoy,CTLA-4,CTLA-4,token,true,Brand name
+mdx-010,ipilimumab,Yervoy,CTLA-4,CTLA-4,token,true,Development code
+mdx-101,ipilimumab,Yervoy,CTLA-4,CTLA-4,token,true,Development code

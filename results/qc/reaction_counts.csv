@@ -1,0 +1,101 @@
+reaction_pt,n_rows,n_cases
+Death,3566,3565
+Off label use,2955,2920
+Malignant neoplasm progression,2809,2793
+Diarrhoea,2144,2084
+Fatigue,1537,1511
+Rash,1443,1419
+Pyrexia,1418,1392
+Decreased appetite,1246,1229
+Nausea,1211,1189
+Hypothyroidism,1086,1078
+Asthenia,1061,1044
+Hypertension,981,967
+Drug ineffective,933,932
+Neuropathy peripheral,921,915
+Anaemia,927,914
+Disease progression,873,871
+Interstitial lung disease,876,868
+Neutropenia,867,852
+Malaise,790,778
+Therapy partial responder,780,772
+Pneumonia,765,751
+Acute kidney injury,730,729
+Immune-mediated enterocolitis,722,708
+Colitis,713,703
+Adrenal insufficiency,705,702
+Vomiting,709,699
+Pruritus,689,683
+Thrombocytopenia,682,678
+Dyspnoea,667,661
+Febrile neutropenia,645,639
+Pneumonitis,637,631
+Weight decreased,636,631
+Platelet count decreased,613,604
+Cytokine release syndrome,588,586
+Arthralgia,582,565
+Myocarditis,562,561
+Hepatic function abnormal,556,555
+Constipation,527,522
+Renal impairment,497,495
+Palmar-plantar erythrodysaesthesia syndrome,470,459
+Myelosuppression,466,457
+Neutrophil count decreased,466,456
+Pain,453,453
+Proteinuria,444,435
+Pancytopenia,426,425
+Product use in unapproved indication,427,424
+Immune-mediated lung disease,425,421
+Inappropriate schedule of product administration,652,413
+Immune-mediated hepatic disorder,413,412
+Liver disorder,408,408
+Sepsis,398,397
+Hepatitis,395,393
+Product use issue,401,390
+General physical health deterioration,385,380
+Stomatitis,378,375
+Hyperthyroidism,366,366
+Immune-mediated myocarditis,366,365
+Headache,366,362
+Cardiac failure,361,360
+Immune-mediated hepatitis,354,351
+Hypotension,345,345
+Cough,335,333
+Erythema,339,331
+Blood pressure increased,323,323
+Hepatic cytolysis,320,318
+Dizziness,314,312
+Alanine aminotransferase increased,316,311
+Alopecia,309,309
+Skin disorder,308,306
+Abdominal pain,303,303
+Myositis,303,303
+Hepatocellular carcinoma,303,302
+Ascites,301,300
+Urinary tract infection,309,299
+Immune-mediated dermatitis,286,286
+Aspartate aminotransferase increased,289,284
+Condition aggravated,282,281
+Myalgia,284,281
+Type 1 diabetes mellitus,284,280
+Immune-mediated hypothyroidism,278,277
+Immune-mediated adverse reaction,276,275
+Cholangitis,273,273
+Septic shock,273,273
+Immune-mediated adrenal insufficiency,272,272
+Leukopenia,270,270
+Respiratory failure,268,268
+Taste disorder,271,267
+Dehydration,264,262
+Pleural effusion,262,261
+Pulmonary embolism,259,258
+Diabetic ketoacidosis,255,255
+Back pain,250,250
+White blood cell count decreased,254,250
+Oedema peripheral,249,248
+Intentional product use issue,248,247
+Renal failure,246,246
+Infection,243,242
+Rash maculo-papular,241,238
+Tubulointerstitial nephritis,231,231
+Hepatotoxicity,228,228

@@ -1,0 +1,8 @@
+outc_cod,outcome_label,serious_outcome_component,notes
+DE,Death,true,FAERS outcome code
+LT,Life-threatening,true,FAERS outcome code
+HO,Hospitalization - initial or prolonged,true,FAERS outcome code
+DS,Disability,true,FAERS outcome code
+CA,Congenital anomaly,true,FAERS outcome code
+RI,Required intervention to prevent permanent impairment or damage,true,FAERS outcome code
+OT,Other serious or important medical event,false,Tracked separately as other_outcome in the analysis-ready table

@@ -1,0 +1,8 @@
+outc_cod,outcome_label,serious_outcome_component,n_rows,n_cases
+OT,Other serious or important medical event,FALSE,25498,25497
+HO,Hospitalization - initial or prolonged,TRUE,14315,14314
+DE,Death,TRUE,8043,8042
+LT,Life-threatening,TRUE,2609,2609
+DS,Disability,TRUE,566,566
+RI,Required intervention to prevent permanent impairment or damage,TRUE,66,66
+CA,Congenital anomaly,TRUE,11,11

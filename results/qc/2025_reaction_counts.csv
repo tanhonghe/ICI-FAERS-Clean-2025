@@ -1,0 +1,5007 @@
+reaction_pt,n_rows,n_cases
+Death,3566,3565
+Off label use,2955,2920
+Malignant neoplasm progression,2809,2793
+Diarrhoea,2144,2084
+Fatigue,1537,1511
+Rash,1443,1419
+Pyrexia,1418,1392
+Decreased appetite,1246,1229
+Nausea,1211,1189
+Hypothyroidism,1086,1078
+Asthenia,1061,1044
+Hypertension,981,967
+Drug ineffective,933,932
+Neuropathy peripheral,921,915
+Anaemia,927,914
+Disease progression,873,871
+Interstitial lung disease,876,868
+Neutropenia,867,852
+Malaise,790,778
+Therapy partial responder,780,772
+Pneumonia,765,751
+Acute kidney injury,730,729
+Immune-mediated enterocolitis,722,708
+Colitis,713,703
+Adrenal insufficiency,705,702
+Vomiting,709,699
+Pruritus,689,683
+Thrombocytopenia,682,678
+Dyspnoea,667,661
+Febrile neutropenia,645,639
+Pneumonitis,637,631
+Weight decreased,636,631
+Platelet count decreased,613,604
+Cytokine release syndrome,588,586
+Arthralgia,582,565
+Myocarditis,562,561
+Hepatic function abnormal,556,555
+Constipation,527,522
+Renal impairment,497,495
+Palmar-plantar erythrodysaesthesia syndrome,470,459
+Myelosuppression,466,457
+Neutrophil count decreased,466,456
+Pain,453,453
+Proteinuria,444,435
+Pancytopenia,426,425
+Product use in unapproved indication,427,424
+Immune-mediated lung disease,425,421
+Inappropriate schedule of product administration,652,413
+Immune-mediated hepatic disorder,413,412
+Liver disorder,408,408
+Sepsis,398,397
+Hepatitis,395,393
+Product use issue,401,390
+General physical health deterioration,385,380
+Stomatitis,378,375
+Hyperthyroidism,366,366
+Immune-mediated myocarditis,366,365
+Headache,366,362
+Cardiac failure,361,360
+Immune-mediated hepatitis,354,351
+Hypotension,345,345
+Cough,335,333
+Erythema,339,331
+Blood pressure increased,323,323
+Hepatic cytolysis,320,318
+Dizziness,314,312
+Alanine aminotransferase increased,316,311
+Alopecia,309,309
+Skin disorder,308,306
+Abdominal pain,303,303
+Myositis,303,303
+Hepatocellular carcinoma,303,302
+Ascites,301,300
+Urinary tract infection,309,299
+Immune-mediated dermatitis,286,286
+Aspartate aminotransferase increased,289,284
+Condition aggravated,282,281
+Myalgia,284,281
+Type 1 diabetes mellitus,284,280
+Immune-mediated hypothyroidism,278,277
+Immune-mediated adverse reaction,276,275
+Cholangitis,273,273
+Septic shock,273,273
+Immune-mediated adrenal insufficiency,272,272
+Leukopenia,270,270
+Respiratory failure,268,268
+Taste disorder,271,267
+Dehydration,264,262
+Pleural effusion,262,261
+Pulmonary embolism,259,258
+Diabetic ketoacidosis,255,255
+Back pain,250,250
+White blood cell count decreased,254,250
+Oedema peripheral,249,248
+Intentional product use issue,248,247
+Renal failure,246,246
+Infection,243,242
+Rash maculo-papular,241,238
+Tubulointerstitial nephritis,231,231
+Hepatotoxicity,228,228
+Dry mouth,230,227
+Dysphonia,230,227
+Hyponatraemia,227,225
+Thyroid disorder,224,224
+Stevens-Johnson syndrome,223,223
+Hepatic enzyme increased,222,219
+Toxic epidermal necrolysis,218,218
+Gastrointestinal disorder,217,216
+Fall,213,212
+Mucosal inflammation,218,212
+Diabetes mellitus,211,211
+Pulmonary toxicity,209,208
+Blood creatinine increased,211,207
+Infusion related reaction,213,205
+COVID-19,204,204
+Pain in extremity,213,204
+Thyroiditis,204,204
+Dysphagia,205,202
+Pemphigoid,200,199
+Product dose omission issue,201,199
+Muscular weakness,199,198
+Immune-mediated myositis,193,193
+Myasthenia gravis,193,192
+Haemophagocytic lymphohistiocytosis,196,191
+Metastases to central nervous system,191,191
+Adverse event,190,190
+Pancreatitis,190,190
+Multiple organ dysfunction syndrome,188,188
+Paraesthesia,186,185
+Hyperglycaemia,185,184
+Toxicity to various agents,179,179
+Abdominal pain upper,180,178
+Oedema,177,177
+Fulminant type 1 diabetes mellitus,176,176
+Enterocolitis,176,175
+Chills,175,172
+Epistaxis,171,171
+Atrial fibrillation,171,170
+Haemoglobin decreased,175,170
+Neoplasm progression,169,169
+Drug eruption,170,168
+Hepatic failure,166,166
+Cholestasis,164,164
+Hypoaesthesia,166,164
+Lung disorder,164,164
+No adverse event,160,160
+C-reactive protein increased,161,159
+Cerebral infarction,158,158
+Chest pain,158,158
+Drug-induced liver injury,158,158
+Skin toxicity,160,158
+Troponin increased,159,158
+Confusional state,156,155
+Dry skin,157,155
+Hypokalaemia,154,152
+Rash pruritic,150,150
+Drug ineffective for unapproved indication,149,149
+Peripheral swelling,151,148
+Gait disturbance,147,147
+Hospitalisation,161,142
+Arthritis,143,141
+Dysgeusia,143,141
+Encephalitis,142,141
+Haemorrhage,141,141
+Drug effective for unapproved indication,137,137
+Hypophysitis,136,135
+Renal disorder,135,135
+Insomnia,133,133
+Cerebrovascular accident,132,132
+Hypersensitivity,132,131
+Metastases to liver,133,131
+Thrombosis,131,131
+Pneumonia aspiration,131,130
+Blister,129,129
+Adrenocorticotropic hormone deficiency,128,128
+Cardiac arrest,130,127
+Myocardial infarction,127,127
+Blood pressure decreased,126,126
+Loss of consciousness,125,125
+Blood bilirubin increased,125,123
+Non-small cell lung cancer,122,122
+Oxygen saturation decreased,122,122
+Somnolence,122,122
+Lymphadenopathy,123,119
+Metastases to lung,119,119
+Skin exfoliation,121,119
+Blood creatine phosphokinase increased,121,118
+Cholecystitis,118,117
+Metastases to bone,118,117
+Dermatitis,119,116
+Hypopituitarism,116,116
+Rheumatoid arthritis,116,116
+Urticaria,118,116
+Erythema multiforme,116,115
+Nephritis,115,115
+Anaphylactic reaction,114,114
+Immune-mediated cholangitis,114,114
+Product storage error,114,114
+Blood thyroid stimulating hormone increased,115,113
+Immune thrombocytopenia,113,113
+Tachycardia,114,113
+Altered state of consciousness,114,112
+Hypoxia,113,112
+Deep vein thrombosis,114,111
+Disseminated intravascular coagulation,110,110
+Gastrointestinal haemorrhage,109,109
+Immune-mediated encephalitis,109,109
+Jaundice,110,108
+Neoplasm malignant,108,108
+Drug intolerance,107,107
+Haematotoxicity,106,106
+Pericardial effusion,107,106
+Radiotherapy,112,106
+Immune-mediated thyroiditis,104,104
+Dermatitis bullous,104,103
+Ill-defined disorder,104,103
+Immune-mediated renal disorder,103,103
+Immune-mediated hypophysitis,102,102
+Therapeutic product effect incomplete,101,101
+Cardiotoxicity,100,100
+Hyperkalaemia,100,100
+Intestinal perforation,101,100
+Secondary adrenocortical insufficiency,100,100
+Polyneuropathy,99,99
+Psoriasis,102,99
+Blood glucose increased,102,98
+Ejection fraction decreased,97,97
+Feeding disorder,97,97
+Myocarditis-myositis-myasthenia gravis overlap syndrome,97,97
+Seizure,97,97
+Hypophagia,96,96
+Illness,96,96
+Weight increased,96,96
+Acute myocardial infarction,95,95
+Autoimmune hepatitis,96,95
+Radiation pneumonitis,97,95
+Drug hypersensitivity,94,94
+Immune-mediated myasthenia gravis,94,94
+Oropharyngeal pain,96,94
+Tumour lysis syndrome,94,94
+Tumour pseudoprogression,94,93
+Drug interaction,93,92
+Inflammation,92,92
+Dyspnoea exertional,91,91
+Adverse drug reaction,90,90
+Agranulocytosis,90,90
+Immune-mediated nephritis,91,90
+Immune-mediated pancreatitis,89,89
+Pancreatitis acute,89,89
+Acute respiratory failure,88,88
+Cerebral haemorrhage,88,88
+Lichenoid keratosis,89,88
+Pneumocystis jirovecii pneumonia,89,88
+Pneumothorax,89,88
+Gastrointestinal toxicity,87,87
+Muscle spasms,87,87
+Eczema,88,86
+Encephalopathy,85,85
+Toxic skin eruption,86,85
+Transaminases increased,88,85
+Hypertransaminasaemia,84,84
+Anaphylactic shock,84,83
+Metastases to lymph nodes,83,83
+Nephropathy toxic,83,83
+Renal tubular necrosis,83,83
+Hepatic cirrhosis,82,82
+Abdominal discomfort,82,81
+Cognitive disorder,79,79
+Haemoptysis,81,79
+Eastern Cooperative Oncology Group performance status worsened,78,78
+Incorrect dose administered,78,78
+Dry eye,78,77
+Haematuria,77,77
+Neurotoxicity,78,77
+Tremor,77,77
+Abdominal distension,76,76
+Anxiety,76,76
+Gastrooesophageal reflux disease,76,76
+Cytopenia,75,75
+Eosinophilia,75,75
+Guillain-Barre syndrome,75,75
+Influenza,75,75
+Liver function test increased,75,75
+Polymyalgia rheumatica,75,75
+Skin ulcer,75,75
+Therapy non-responder,75,75
+Hepatic encephalopathy,74,74
+Ileus,74,74
+Nephrotic syndrome,74,74
+Bone pain,74,73
+Enteritis,73,73
+Haematochezia,74,73
+Hypothalamo-pituitary disorder,73,73
+Large intestine perforation,74,73
+Liver injury,73,73
+Surgery,74,73
+Syncope,73,73
+Visual impairment,73,73
+Colitis ulcerative,72,72
+Dyspepsia,73,72
+Uveitis,72,72
+Vision blurred,73,72
+Blood alkaline phosphatase increased,74,71
+Febrile bone marrow aplasia,71,71
+Oesophageal varices haemorrhage,71,71
+Pyelonephritis,71,71
+Cholangitis sclerosing,70,70
+Pneumonia bacterial,72,70
+Polyarthritis,70,70
+Pulmonary mass,70,70
+Herpes zoster,69,69
+Hypomagnesaemia,69,69
+Delirium,68,68
+Hepatitis cholestatic,68,68
+Nasopharyngitis,68,68
+Chest discomfort,68,67
+Depressed level of consciousness,68,67
+Skin reaction,68,67
+Thrombotic microangiopathy,67,67
+Atrioventricular block complete,67,66
+Heart rate increased,66,66
+Pulmonary oedema,66,66
+Adrenal disorder,65,65
+Memory impairment,65,65
+Acute myeloid leukaemia,64,64
+Respiratory distress,64,64
+Tumour haemorrhage,64,64
+Bacteraemia,63,63
+Blood pressure systolic increased,63,63
+Acute respiratory distress syndrome,62,62
+Feeling abnormal,63,62
+Hyperhidrosis,63,62
+Impaired healing,62,62
+Ischaemic stroke,62,62
+Lung neoplasm malignant,62,62
+Melaena,62,62
+Metastasis,62,62
+Rash erythematous,62,62
+Cardio-respiratory arrest,61,61
+Diplopia,61,61
+Gastrointestinal perforation,61,61
+Intestinal obstruction,62,61
+Organising pneumonia,61,61
+Skin lesion,61,61
+Cellulitis,60,60
+Eyelid ptosis,60,60
+Inappropriate antidiuretic hormone secretion,60,60
+Palpitations,60,60
+Flushing,61,59
+Gamma-glutamyltransferase increased,59,59
+Gastritis,60,59
+Haematemesis,59,59
+Immune-mediated arthritis,59,59
+Meningitis,59,59
+Rhabdomyolysis,59,59
+Blood sodium decreased,60,58
+Cardiomyopathy,58,58
+Speech disorder,60,58
+Hypoglycaemia,57,57
+Immune-mediated endocrinopathy,57,57
+Movement disorder,58,57
+Sudden death,57,57
+Treatment failure,57,57
+Cardiac disorder,56,56
+Depression,58,56
+Dysuria,56,56
+Rectal haemorrhage,56,56
+Shock haemorrhagic,56,56
+Ageusia,55,55
+Gastric ulcer,55,55
+Shock,55,55
+Varices oesophageal,55,55
+Acute hepatic failure,55,54
+Dysarthria,55,54
+Encephalitis autoimmune,54,54
+Immune-mediated gastritis,54,54
+Liver abscess,55,54
+Small intestinal perforation,54,54
+Therapy cessation,54,54
+Drug reaction with eosinophilia and systemic symptoms,53,53
+Duodenal ulcer,53,53
+Hydronephrosis,54,53
+Leukocytosis,53,53
+Posterior reversible encephalopathy syndrome,53,53
+Gait inability,52,52
+Osteonecrosis of jaw,52,52
+Productive cough,52,52
+Chronic kidney disease,51,51
+Cortisol decreased,51,51
+Drug resistance,51,51
+Hyperbilirubinaemia,51,51
+Immune-mediated hyperthyroidism,51,51
+Mobility decreased,51,51
+Neoplasm,51,51
+Pulmonary fibrosis,51,51
+Adrenocortical insufficiency acute,50,50
+Mouth ulceration,50,50
+Stress cardiomyopathy,50,50
+Swelling,50,50
+Therapy interrupted,50,50
+Arrhythmia,49,49
+Immune system disorder,49,49
+Autoimmune haemolytic anaemia,49,48
+Blood lactate dehydrogenase increased,49,48
+Cardiogenic shock,48,48
+Deafness,48,48
+Electrocardiogram QT prolonged,48,48
+Embolism,49,48
+Epilepsy,48,48
+Hypocalcaemia,48,48
+Jaundice cholestatic,48,48
+Metabolic acidosis,48,48
+Oesophagitis,48,48
+Urinary retention,48,48
+Balance disorder,47,47
+Hypoalbuminaemia,47,47
+Oral pain,47,47
+Vitiligo,47,47
+Amylase increased,46,46
+Blood pressure fluctuation,46,46
+Disease recurrence,46,46
+Malnutrition,47,46
+Diastolic dysfunction,45,45
+Joint swelling,48,45
+Peripheral sensory neuropathy,45,45
+Rash papular,45,45
+Bicytopenia,45,44
+Cancer pain,44,44
+Cytomegalovirus infection,44,44
+Female genital tract fistula,44,44
+Hot flush,44,44
+Hypercalcaemia,45,44
+Nervous system disorder,44,44
+Peritonitis,44,44
+Pollakiuria,44,44
+Sleep disorder,44,44
+Bronchopulmonary aspergillosis,43,43
+Chronic obstructive pulmonary disease,43,43
+Ketoacidosis,43,43
+Autoimmune thyroiditis,42,42
+Azotaemia,43,42
+Cataract,42,42
+Heart rate decreased,44,42
+Immunotoxicity,42,42
+Recurrent cancer,42,42
+Respiratory disorder,42,42
+Atelectasis,41,41
+Blood corticotrophin decreased,41,41
+Sjogren's syndrome,41,41
+Upper gastrointestinal haemorrhage,41,41
+Angina pectoris,40,40
+Autoimmune colitis,40,40
+Biliary obstruction,40,40
+Blood potassium decreased,40,40
+Blood thyroid stimulating hormone decreased,43,40
+Cardiac failure congestive,40,40
+Hepatitis acute,40,40
+Influenza like illness,40,40
+Staphylococcal infection,40,40
+Type 2 diabetes mellitus,40,40
+Blood albumin decreased,41,39
+Brain fog,39,39
+Immune-mediated uveitis,39,39
+Mixed liver injury,39,39
+Pericarditis,39,39
+Physical deconditioning,39,39
+White blood cell count increased,39,39
+Cystitis,38,38
+Metastatic malignant melanoma,38,38
+Portal vein thrombosis,39,38
+Post procedural complication,38,38
+Second primary malignancy,38,38
+Facial paralysis,37,37
+Lipase increased,37,37
+Neck pain,37,37
+Photosensitivity reaction,37,37
+Red blood cell count decreased,37,37
+Upper respiratory tract infection,39,37
+Clostridium difficile infection,36,36
+Metastases to peritoneum,36,36
+Musculoskeletal stiffness,36,36
+Respiratory tract infection,36,36
+Treatment noncompliance,36,36
+Bone marrow failure,35,35
+Clostridium difficile colitis,35,35
+Electrolyte imbalance,35,35
+Generalised oedema,35,35
+Haemorrhoids,35,35
+Myasthenic syndrome,35,35
+Neutropenic sepsis,35,35
+Protein urine present,35,35
+Rash macular,35,35
+Rebound effect,36,35
+Sinusitis,35,35
+Transitional cell carcinoma metastatic,35,35
+Brain oedema,34,34
+Disorientation,34,34
+Dysstasia,34,34
+Feeling cold,34,34
+Hepatocellular injury,34,34
+Lethargy,34,34
+Lichen planus,34,34
+Oral candidiasis,34,34
+Acute coronary syndrome,33,33
+Cardiac dysfunction,33,33
+Extremity necrosis,33,33
+Fluid retention,33,33
+Gastroenteritis,33,33
+Hallucination,33,33
+Lacrimation increased,33,33
+Liver function test abnormal,33,33
+Lung opacity,34,33
+Lymphocyte count decreased,33,33
+Meningitis aseptic,33,33
+Thrombophlebitis migrans,33,33
+Tumour hyperprogression,33,33
+Fungal infection,32,32
+Glucocorticoid deficiency,32,32
+Hepatic cancer,32,32
+Hepatic steatosis,32,32
+Immunodeficiency,33,32
+Neoplasm recurrence,32,32
+Neuralgia,32,32
+Swelling face,32,32
+Underdose,33,32
+Ventricular tachycardia,32,32
+Acne,31,31
+Blood potassium increased,31,31
+Cholecystitis acute,31,31
+Dermatitis exfoliative generalised,31,31
+Duodenitis,31,31
+Eating disorder,31,31
+Faeces discoloured,31,31
+Metastatic neoplasm,31,31
+Product prescribing issue,31,31
+Small cell lung cancer,31,31
+Vertigo,31,31
+Amnesia,30,30
+Atrioventricular block,30,30
+Autoimmune disorder,30,30
+Bacterial infection,30,30
+Bradycardia,30,30
+Cholelithiasis,30,30
+Diverticulitis,31,30
+Hemiparesis,30,30
+Hospice care,30,30
+Hyperthermia,30,30
+Intestinal ischaemia,30,30
+Myelodysplastic syndrome,30,30
+Rhinorrhoea,30,30
+Transient ischaemic attack,30,30
+Troponin I increased,30,30
+Urosepsis,30,30
+Abdominal pain lower,29,29
+Blood glucose decreased,29,29
+Blood pressure diastolic decreased,29,29
+Coma,29,29
+Dementia,29,29
+Flatulence,29,29
+Hepatic lesion,29,29
+Infectious pleural effusion,29,29
+Laboratory test abnormal,29,29
+Presyncope,29,29
+Skin erosion,29,29
+Small intestinal obstruction,29,29
+Thirst,29,29
+Aphasia,28,28
+Aplasia pure red cell,28,28
+Blood urea increased,28,28
+Bronchitis,28,28
+Colitis microscopic,28,28
+Fracture,29,28
+Haemolytic anaemia,28,28
+Nephrectomy,29,28
+Portal hypertension,28,28
+Skin discolouration,28,28
+Tumour rupture,30,28
+Viral infection,28,28
+Cardiac failure acute,28,27
+Coronary artery disease,27,27
+Diabetes mellitus inadequate control,27,27
+Diarrhoea haemorrhagic,27,27
+Endocrine disorder,27,27
+Full blood count decreased,27,27
+Hypertensive crisis,27,27
+Immune-mediated neuropathy,27,27
+Malignant neoplasm oligoprogression,27,27
+Overdose,27,27
+Performance status decreased,27,27
+Peripheral ischaemia,27,27
+Renal cell carcinoma,27,27
+Sinus tachycardia,27,27
+Blood pressure abnormal,26,26
+Blood test abnormal,26,26
+Candida infection,26,26
+Colitis ischaemic,26,26
+Conjunctivitis,26,26
+Contusion,26,26
+Coronavirus infection,26,26
+Dysaesthesia,26,26
+Eye pain,26,26
+Feeling hot,26,26
+Infusion site extravasation,26,26
+Joint stiffness,26,26
+Left ventricular dysfunction,26,26
+Loss of personal independence in daily activities,26,26
+Lower respiratory tract infection,26,26
+Lung adenocarcinoma,26,26
+Mental status changes,26,26
+Metastases to meninges,26,26
+Muscle atrophy,26,26
+Paraneoplastic neurological syndrome,27,26
+Subacute cutaneous lupus erythematosus,26,26
+Thyrotoxic crisis,26,26
+Biliary dilatation,25,25
+Blindness,25,25
+Compression fracture,25,25
+Dermatitis allergic,25,25
+Erysipelas,25,25
+Glomerular filtration rate decreased,26,25
+Hiccups,25,25
+Hyperpyrexia,25,25
+Immune-mediated cystitis,26,25
+Malignant melanoma,25,25
+Musculoskeletal pain,25,25
+Neutrophil count increased,25,25
+Pancreatic disorder,26,25
+Systemic candida,25,25
+Tinnitus,26,25
+Vasculitis,25,25
+Blood calcium decreased,24,24
+Blood magnesium decreased,24,24
+Capillary leak syndrome,24,24
+Cell death,24,24
+Central nervous system lesion,24,24
+Duodenal perforation,24,24
+Gastric haemorrhage,24,24
+Gingival bleeding,24,24
+Lymphadenopathy mediastinal,26,24
+Metastases to pleura,24,24
+Nasal congestion,24,24
+Night sweats,24,24
+Pallor,25,24
+Purpura,24,24
+Renal injury,24,24
+Sarcoid-like reaction,25,24
+Tumour marker increased,24,24
+Venous thrombosis,24,24
+Ataxia,23,23
+Burning sensation,24,23
+COVID-19 pneumonia,23,23
+Cardiac tamponade,23,23
+Dermatitis acneiform,23,23
+Dermatomyositis,23,23
+Device related infection,23,23
+Hyperkeratosis,23,23
+Immune-mediated mucositis,24,23
+Incorrect product administration duration,23,23
+Injection site pain,23,23
+Liver carcinoma ruptured,23,23
+Myocardial injury,23,23
+Paraneoplastic syndrome,23,23
+Pleurisy,23,23
+Pulmonary alveolar haemorrhage,23,23
+Radiation necrosis,23,23
+Silent thyroiditis,23,23
+Tooth disorder,23,23
+Unresponsive to stimuli,23,23
+Arthropathy,22,22
+Bacterial sepsis,22,22
+Cholestatic liver injury,22,22
+Circulatory collapse,22,22
+Cytokine storm,22,22
+Eye disorder,22,22
+Fistula,22,22
+Gastritis erosive,22,22
+Hair colour changes,22,22
+Hernia,22,22
+Hypoacusis,22,22
+Immune effector cell-associated neurotoxicity syndrome,22,22
+Insurance issue,22,22
+Linear IgA disease,22,22
+Lung consolidation,22,22
+Lymphopenia,22,22
+Motor dysfunction,22,22
+Musculoskeletal chest pain,22,22
+Neutrophilia,22,22
+Non-small cell lung cancer recurrent,23,22
+Oral herpes,22,22
+Osteomyelitis,22,22
+Overlap syndrome,22,22
+Paralysis,22,22
+Poor venous access,23,22
+Post procedural infection,22,22
+Proctitis,22,22
+Sialoadenitis,22,22
+Skin irritation,22,22
+Wound,22,22
+Alpha 1 foetoprotein increased,21,21
+Aphonia,21,21
+Aplastic anaemia,21,21
+Autoimmune myocarditis,21,21
+Autoimmune myositis,21,21
+Blood disorder,21,21
+Blood urine present,21,21
+Carcinoembryonic antigen increased,22,21
+Cytomegalovirus colitis,21,21
+Cytomegalovirus enterocolitis,21,21
+Discomfort,21,21
+Enanthema,21,21
+Endocarditis,21,21
+Full blood count abnormal,22,21
+Glossodynia,21,21
+Hepatitis fulminant,21,21
+Ileus paralytic,21,21
+Immune-mediated oesophagitis,21,21
+Immune-mediated pancytopenia,21,21
+Mastectomy,21,21
+Mental disorder,21,21
+Oesophageal candidiasis,21,21
+Product preparation error,21,21
+Pulmonary hypertension,21,21
+Vascular access complication,23,21
+Adverse reaction,20,20
+Alanine aminotransferase abnormal,20,20
+Autoimmune pancreatitis,20,20
+Cachexia,20,20
+Cardiovascular disorder,20,20
+Coagulopathy,20,20
+Colon cancer,20,20
+Graves' disease,20,20
+Ischaemia,20,20
+Lung abscess,20,20
+Lung neoplasm,20,20
+Malignant pleural effusion,20,20
+Oral fungal infection,26,20
+Scleroderma,20,20
+Splenomegaly,20,20
+Supraventricular tachycardia,20,20
+Systemic lupus erythematosus,20,20
+Therapeutic response decreased,20,20
+Ulcer,20,20
+Ventricular extrasystoles,20,20
+Acidosis,19,19
+Atrial flutter,19,19
+Autoimmune hypothyroidism,19,19
+Bile duct stenosis,19,19
+Bladder cancer,19,19
+Blood triglycerides increased,19,19
+Flank pain,19,19
+Gastrointestinal wall thickening,19,19
+Granuloma,19,19
+Haemorrhage intracranial,19,19
+Haemorrhagic stroke,19,19
+Immunosuppression,19,19
+Impaired gastric emptying,20,19
+Internal haemorrhage,19,19
+Iron deficiency anaemia,19,19
+Metastases to adrenals,19,19
+Metastases to spine,19,19
+Migraine,19,19
+Myocardial ischaemia,19,19
+Myopathy,19,19
+Necrosis,19,19
+Oesophageal carcinoma,19,19
+Optic neuritis,19,19
+Optic neuropathy,19,19
+Protein total decreased,19,19
+Pseudocellulitis,22,19
+Psoriatic arthropathy,19,19
+Sicca syndrome,19,19
+Tenderness,19,19
+Throat irritation,20,19
+Thyroid hormones increased,19,19
+Tumour necrosis,19,19
+Unevaluable event,19,19
+Urinary incontinence,19,19
+Vanishing bile duct syndrome,19,19
+Vascular device infection,19,19
+Abdominal abscess,18,18
+Abscess,18,18
+Angioedema,18,18
+Appendicitis,18,18
+Arteriospasm coronary,18,18
+Blood cholesterol increased,18,18
+Blood iron decreased,18,18
+Chemotherapy,18,18
+Cholangiocarcinoma,18,18
+Cutaneous lupus erythematosus,18,18
+Device dislocation,19,18
+Disturbance in attention,18,18
+Endometrial cancer recurrent,18,18
+Escherichia infection,18,18
+Fixed eruption,18,18
+Gastritis haemorrhagic,18,18
+Haemoglobin abnormal,18,18
+Hepatic cyst,18,18
+Hepatic mass,18,18
+Hypersomnia,18,18
+Hypothermia,18,18
+Immune-mediated gastrointestinal disorder,18,18
+Keratoacanthoma,18,18
+Lung infiltration,19,18
+Microvascular coronary artery disease,18,18
+Myocardial necrosis marker increased,18,18
+Nodule,18,18
+Product preparation issue,18,18
+Pulmonary tuberculosis,18,18
+Pyoderma gangrenosum,18,18
+Renal tubular injury,18,18
+Restlessness,18,18
+Skin hyperpigmentation,18,18
+Squamous cell carcinoma of skin,18,18
+Systemic inflammatory response syndrome,19,18
+Thyroid function test abnormal,18,18
+Transplant rejection,18,18
+Tuberculosis,18,18
+Visual acuity reduced,18,18
+Asthma,17,17
+Bleeding varicose vein,17,17
+Dermatitis psoriasiform,17,17
+Drug effect less than expected,17,17
+Eosinophil count increased,17,17
+Extravasation,17,17
+Lymphangiosis carcinomatosa,17,17
+Neutropenic colitis,17,17
+Oedematous pancreatitis,17,17
+Oxygen therapy,19,17
+Pancreatic failure,17,17
+Pneumonia fungal,17,17
+Prerenal failure,17,17
+Pulmonary artery thrombosis,17,17
+Road traffic accident,17,17
+Sensitive skin,17,17
+Subarachnoid haemorrhage,17,17
+Thrombotic thrombocytopenic purpura,17,17
+Transfusion,18,17
+Tumour associated fever,17,17
+Tumour thrombosis,17,17
+Urogenital fistula,17,17
+Vaginal haemorrhage,17,17
+Wheezing,17,17
+Aspartate aminotransferase abnormal,16,16
+Central hypothyroidism,16,16
+Cerebral disorder,17,16
+Cholangitis acute,16,16
+Cutaneous vasculitis,16,16
+Eosinophilic fasciitis,16,16
+Escherichia bacteraemia,16,16
+Fibrin D dimer increased,16,16
+Gastrointestinal inflammation,16,16
+Gastrointestinal necrosis,16,16
+General physical condition abnormal,16,16
+Gingival pain,16,16
+Gingivitis,16,16
+Glycosylated haemoglobin increased,16,16
+Haematoma,16,16
+Hidradenitis,16,16
+Hypoaesthesia oral,16,16
+Inability to afford medication,16,16
+Left ventricular failure,16,16
+Limb injury,18,16
+Metastatic renal cell carcinoma,16,16
+Neuroendocrine carcinoma of the skin,16,16
+Ocular hyperaemia,16,16
+Osteolysis,17,16
+Osteoporosis,16,16
+Prescribed overdose,16,16
+Prescribed underdose,16,16
+Pulmonary congestion,16,16
+Pulmonary haemorrhage,16,16
+Rash pustular,16,16
+Renal tubular disorder,16,16
+Skin atrophy,16,16
+Triple negative breast cancer,16,16
+Abdominal infection,15,15
+Acute polyneuropathy,15,15
+Adrenalitis,15,15
+Anal abscess,15,15
+Anal fistula,15,15
+Angiopathy,15,15
+Blood corticotrophin increased,15,15
+Brain neoplasm,15,15
+Bronchospasm,15,15
+Chronic gastritis,15,15
+Cyanosis,15,15
+Decubitus ulcer,15,15
+Frequent bowel movements,15,15
+Hand dermatitis,15,15
+Hemiplegia,15,15
+Hyperleukocytosis,15,15
+Hypophosphataemia,15,15
+Immune-mediated neurological disorder,15,15
+Immune-mediated vasculitis,15,15
+Lactic acidosis,15,15
+Limb discomfort,15,15
+Liver transplant rejection,15,15
+Lymphadenectomy,15,15
+Mass,15,15
+Muscle contractions involuntary,15,15
+Oesophageal stenosis,15,15
+Oral discomfort,15,15
+Oral disorder,15,15
+Papilloedema,15,15
+Pneumatosis intestinalis,15,15
+Steroid diabetes,15,15
+Subdural haematoma,15,15
+Tachypnoea,15,15
+Tongue discomfort,15,15
+Troponin T increased,15,15
+Wrong technique in product usage process,15,15
+Anuria,14,14
+Aspergillus infection,14,14
+Autoimmune lung disease,14,14
+Brain natriuretic peptide increased,14,14
+Breast cancer recurrent,14,14
+Central venous catheterisation,14,14
+Diabetes insipidus,14,14
+Duodenal ulcer haemorrhage,14,14
+Face oedema,14,14
+Gingival swelling,14,14
+Glomerulonephritis rapidly progressive,14,14
+Hyperglycaemic hyperosmolar nonketotic syndrome,14,14
+Hypertriglyceridaemia,14,14
+Immune-mediated encephalopathy,14,14
+Jugular vein thrombosis,14,14
+KL-6 increased,14,14
+Keratitis,14,14
+Localised infection,14,14
+Mean cell volume increased,14,14
+Metastases to skin,14,14
+Mitral valve incompetence,14,14
+Mucosal disorder,14,14
+Nephrolithiasis,14,14
+Oropharyngeal discomfort,14,14
+Osteonecrosis,14,14
+Pain in jaw,14,14
+Pancreatic enzymes increased,14,14
+Peripheral T-cell lymphoma unspecified,14,14
+Primary adrenal insufficiency,14,14
+Progressive multifocal leukoencephalopathy,14,14
+Pulmonary arterial hypertension,14,14
+Renal function test abnormal,14,14
+Rib fracture,14,14
+Scab,15,14
+Stress,14,14
+Superinfection,14,14
+Therapy change,14,14
+Thrombocytosis,14,14
+Tonsillitis,14,14
+Venoocclusive liver disease,14,14
+Ventricular dysfunction,14,14
+Ventricular fibrillation,14,14
+Aortic aneurysm,13,13
+Aortic arteriosclerosis,13,13
+Autoimmune nephritis,13,13
+Bedridden,13,13
+Blindness unilateral,13,13
+Body temperature decreased,13,13
+Body temperature increased,13,13
+Breast pain,13,13
+Bronchiectasis,13,13
+Bundle branch block right,13,13
+Cerebral atrophy,13,13
+Cheilitis,13,13
+Congenital aplasia,13,13
+Crohn's disease,13,13
+Cutaneous symptom,13,13
+Cystitis haemorrhagic,14,13
+Decreased activity,13,13
+Economic problem,13,13
+Embolism venous,13,13
+Endocrine toxicity,13,13
+Engraftment syndrome,13,13
+Femur fracture,13,13
+Gastric perforation,13,13
+Gastrointestinal anastomotic leak,13,13
+Glossitis,13,13
+Gout,13,13
+Henoch-Schonlein purpura,13,13
+Hepatitis B reactivation,13,13
+Hypercapnia,13,13
+Hypersensitivity pneumonitis,13,13
+Hypokinesia,13,13
+Irritability,13,13
+Large intestine infection,13,13
+Livedo reticularis,13,13
+Lymphadenitis,13,13
+Mouth haemorrhage,13,13
+Myasthenia gravis crisis,13,13
+Non-small cell lung cancer metastatic,13,13
+Osteoarthritis,13,13
+Pharyngitis,13,13
+Pigmentation disorder,13,13
+Platelet count abnormal,13,13
+Poor peripheral circulation,13,13
+Pseudomonas infection,13,13
+Psychotic disorder,13,13
+Retinal detachment,13,13
+Rheumatic disorder,13,13
+Serum ferritin increased,13,13
+Skin burning sensation,13,13
+Spinal osteoarthritis,14,13
+Swollen tongue,13,13
+Systemic scleroderma,13,13
+Thyroxine free increased,13,13
+Transitional cell carcinoma,13,13
+Type I hypersensitivity,13,13
+Weight fluctuation,13,13
+Acute generalised exanthematous pustulosis,12,12
+Adrenal neoplasm,12,12
+Agitation,12,12
+Arteriosclerosis,12,12
+Arteriosclerosis coronary artery,12,12
+Arthritis bacterial,12,12
+Bile duct stone,12,12
+Biliary tract infection,12,12
+Bilirubin conjugated increased,13,12
+Blood pressure diastolic increased,12,12
+Bundle branch block left,12,12
+Cardiomegaly,12,12
+Catheter site infection,12,12
+Chromaturia,12,12
+Cold sweat,12,12
+Coordination abnormal,12,12
+Cortisol abnormal,12,12
+Cortisol increased,12,12
+Decreased immune responsiveness,12,12
+Depressed mood,12,12
+Diverticulum intestinal,12,12
+Dizziness postural,12,12
+Ear pain,13,12
+Emotional distress,12,12
+Emphysema,12,12
+Fungaemia,12,12
+Gastric cancer,12,12
+Gastrointestinal oedema,12,12
+Haematocrit decreased,12,12
+Haemolysis,12,12
+Haemorrhagic diathesis,12,12
+Head injury,12,12
+Hepatectomy,12,12
+Hepatic enzyme abnormal,12,12
+Hepatomegaly,12,12
+Hydrocephalus,12,12
+Hyperuricaemia,12,12
+Hypovolaemic shock,12,12
+Immune-mediated cholestasis,12,12
+Immune-mediated pericarditis,12,12
+Kidney infection,12,12
+Left ventricular hypertrophy,12,12
+Leukaemia,12,12
+Malignant ascites,12,12
+Musculoskeletal disorder,12,12
+Myelitis,12,12
+Myopericarditis,12,12
+Oral mucosa erosion,12,12
+Oral mucosal blistering,12,12
+Orthostatic hypotension,12,12
+Pain of skin,12,12
+Panic attack,12,12
+Papule,12,12
+Paraesthesia oral,12,12
+Peroneal nerve palsy,12,12
+Pneumomediastinum,12,12
+Primary hypothyroidism,12,12
+Procedural pain,12,12
+Raynaud's phenomenon,12,12
+Red blood cell transfusion,16,12
+Renal cancer,12,12
+Restless legs syndrome,12,12
+Retching,12,12
+Temperature intolerance,12,12
+Urine odour abnormal,12,12
+Vocal cord paralysis,12,12
+White blood cell count abnormal,12,12
+Acquired haemophilia,11,11
+Activities of daily living decreased,11,11
+Addison's disease,11,11
+Anal fissure,11,11
+Aortitis,11,11
+Appetite disorder,11,11
+Arterial intramural haematoma,11,11
+Asphyxia,11,11
+Atypical mycobacterial infection,11,11
+Bell's palsy,11,11
+Blood calcium increased,11,11
+Bone disorder,11,11
+Breast cancer metastatic,11,11
+Device occlusion,11,11
+Empyema,11,11
+Endometrial cancer,11,11
+Failure to thrive,11,11
+Gastrointestinal infection,11,11
+Gastrointestinal motility disorder,11,11
+Haemoperitoneum,11,11
+Head discomfort,11,11
+Hilar lymphadenopathy,11,11
+Hyperammonaemia,11,11
+Hypoxic-ischaemic encephalopathy,11,11
+Klebsiella infection,11,11
+Lip swelling,11,11
+Localised oedema,11,11
+Monoparesis,11,11
+Myeloproliferative neoplasm,11,11
+Myoclonus,11,11
+Oesophageal disorder,11,11
+Pathological fracture,11,11
+Peripheral motor neuropathy,11,11
+Peripheral sensorimotor neuropathy,11,11
+Pharyngeal inflammation,11,11
+Photophobia,11,11
+Pneumonia viral,11,11
+Procalcitonin increased,11,11
+Product quality issue,11,11
+Pseudomembranous colitis,11,11
+Pulmonary resection,11,11
+Rash morbilliform,11,11
+Rash vesicular,11,11
+Renal cyst,11,11
+Respiratory arrest,11,11
+Salivary hyposecretion,11,11
+Sarcoidosis,11,11
+Scleroedema,11,11
+Sensory disturbance,11,11
+Sensory loss,11,11
+Sinus disorder,11,11
+Skin fissures,11,11
+Staphylococcal sepsis,11,11
+Synovitis,11,11
+Throat tightness,11,11
+Toothache,11,11
+Vogt-Koyanagi-Harada disease,11,11
+Abnormal loss of weight,10,10
+Acute pulmonary oedema,12,10
+Aggression,10,10
+Amaurosis,10,10
+Aortic thrombosis,10,10
+Aphthous ulcer,10,10
+Arterial haemorrhage,10,10
+Aspiration,10,10
+Bacterial abdominal infection,10,10
+Bile duct cancer,10,10
+Blood chloride decreased,11,10
+Blood chloride increased,10,10
+Blood creatinine abnormal,10,10
+Blood pressure systolic decreased,10,10
+Bone marrow disorder,10,10
+C-reactive protein abnormal,10,10
+Carbohydrate antigen 125 increased,10,10
+Cardiac failure chronic,10,10
+Cerebral ischaemia,10,10
+Cervix cancer metastatic,10,10
+Choking,10,10
+Cryoglobulinaemia,10,10
+Culture urine positive,10,10
+Cyst,10,10
+Diabetic metabolic decompensation,10,10
+Drug tolerance decreased,10,10
+Electrocardiogram ST segment elevation,10,10
+Eructation,10,10
+Escherichia test positive,10,10
+Eye movement disorder,10,10
+Eye swelling,10,10
+Faecaloma,10,10
+Femoral neck fracture,10,10
+Fournier's gangrene,10,10
+Generalised tonic-clonic seizure,10,10
+Genital haemorrhage,10,10
+Glomerulonephritis,10,10
+Graft versus host disease,10,10
+Haematological infection,10,10
+Hodgkin's disease,10,10
+Hyperlipasaemia,10,10
+Hypervolaemia,10,10
+Hypovolaemia,10,10
+Inflammatory marker increased,10,10
+Intentional product misuse,10,10
+Interleukin level increased,10,10
+Leukoderma,10,10
+Lichen planus pemphigoides,10,10
+Lower gastrointestinal haemorrhage,10,10
+Lumbar vertebral fracture,10,10
+Mental impairment,10,10
+Monoplegia,10,10
+N-terminal prohormone brain natriuretic peptide increased,10,10
+Ocular toxicity,11,10
+Odynophagia,10,10
+Oliguria,10,10
+Onycholysis,10,10
+Ototoxicity,10,10
+Pelvic pain,10,10
+Pelvic venous thrombosis,10,10
+Peripheral coldness,10,10
+Personality change,10,10
+Positron emission tomogram abnormal,10,10
+Product administration interrupted,10,10
+Prostate cancer,10,10
+Pulmonary fistula,10,10
+Pustular psoriasis,10,10
+Rectal perforation,10,10
+Rectal ulcer,10,10
+Renal cell carcinoma recurrent,10,10
+Retroperitoneal fibrosis,10,10
+Rhinitis,10,10
+Seasonal allergy,10,10
+Skin infection,10,10
+Spinal disorder,10,10
+Squamous cell carcinoma,10,10
+Suspected counterfeit product,11,10
+Thyroid hormones decreased,10,10
+Toxic encephalopathy,10,10
+Tumour embolism,10,10
+Urinary tract obstruction,10,10
+Vascular pseudoaneurysm,10,10
+Vena cava thrombosis,10,10
+Visual field defect,10,10
+Abnormal faeces,9,9
+Abscess limb,10,9
+Accidental exposure to product,9,9
+Adenocarcinoma metastatic,9,9
+Antiphospholipid antibodies positive,9,9
+Aortic stenosis,9,9
+Behaviour disorder,9,9
+Benign prostatic hyperplasia,9,9
+Bladder cancer recurrent,10,9
+Blood creatine increased,9,9
+Blood creatine phosphokinase MB increased,9,9
+Blood thyroid stimulating hormone abnormal,9,9
+Candida test positive,9,9
+Cardiac ventricular thrombosis,9,9
+Carpal tunnel syndrome,9,9
+Cervix carcinoma recurrent,9,9
+Clostridium colitis,9,9
+Colorectal cancer metastatic,9,9
+Defaecation urgency,9,9
+Duodenal stenosis,9,9
+Enteritis infectious,9,9
+Epidermal necrosis,10,9
+Epstein-Barr virus infection,9,9
+Euglycaemic diabetic ketoacidosis,9,9
+Exercise tolerance decreased,9,9
+Furuncle,9,9
+Haemodynamic instability,9,9
+Hepatic infection,9,9
+Hyperaesthesia,9,9
+Hypereosinophilic syndrome,9,9
+Hypogeusia,9,9
+Hypogonadism,9,9
+Hypoproteinaemia,9,9
+Hypotonia,9,9
+Hysterectomy,9,9
+IIIrd nerve paralysis,11,9
+Idiopathic interstitial pneumonia,9,9
+Immune reconstitution inflammatory syndrome,9,9
+Infusion site pain,10,9
+Intestinal haemorrhage,9,9
+Large intestinal obstruction,9,9
+Low density lipoprotein increased,9,9
+Lung cancer metastatic,9,9
+Maternal exposure during pregnancy,9,9
+Mean cell haemoglobin increased,9,9
+Medication error,9,9
+Muscle tightness,9,9
+Nail disorder,9,9
+Nasal dryness,9,9
+Neurological symptom,9,9
+Neuromyelitis optica spectrum disorder,9,9
+Normocytic anaemia,9,9
+Obstruction gastric,9,9
+Oesophageal adenocarcinoma,9,9
+Opportunistic infection,9,9
+Panniculitis,9,9
+Paralysis recurrent laryngeal nerve,9,9
+Paraneoplastic encephalomyelitis,9,9
+Pelvic abscess,9,9
+Pemphigus,9,9
+Peritoneal neoplasm,9,9
+Pneumonia pneumococcal,9,9
+Polymyositis,9,9
+Product availability issue,9,9
+Product distribution issue,9,9
+Pulmonary sarcoidosis,9,9
+Pulmonary sepsis,9,9
+Pulmonary thrombosis,9,9
+Quality of life decreased,9,9
+Retinopathy,9,9
+Right ventricular failure,9,9
+SARS-CoV-2 test positive,9,9
+Sarcopenia,9,9
+Secretion discharge,9,9
+Seroma,9,9
+Serous retinal detachment,9,9
+Staphylococcal bacteraemia,9,9
+Status epilepticus,9,9
+Suicidal ideation,9,9
+Thyroxine decreased,9,9
+Thyroxine free decreased,9,9
+Tracheostomy,9,9
+Transfusion-related circulatory overload,9,9
+Ureteric obstruction,9,9
+Ventricular hypokinesia,9,9
+Vitreous floaters,9,9
+Wound dehiscence,9,9
+Wrong dose,9,9
+Acquired gene mutation,8,8
+Activated PI3 kinase delta syndrome,8,8
+Acute interstitial pneumonitis,8,8
+Anaemia macrocytic,8,8
+Ankylosing spondylitis,8,8
+Antiphospholipid syndrome,8,8
+Antisynthetase syndrome,8,8
+Autoimmune arthritis,8,8
+Axillary lymphadenectomy,8,8
+Bladder tamponade,8,8
+Blood culture positive,8,8
+Blood glucose abnormal,8,8
+Blood phosphorus decreased,8,8
+Blood potassium abnormal,8,8
+Bone lesion,8,8
+Brain abscess,8,8
+Bronchial fistula,8,8
+Bursitis,8,8
+Campylobacter gastroenteritis,8,8
+Cancer surgery,8,8
+Carbohydrate antigen 19-9 increased,8,8
+Catheter site thrombosis,8,8
+Chylothorax,8,8
+Circumstance or information capable of leading to medication error,8,8
+Clear cell renal cell carcinoma,8,8
+Coronary artery stenosis,8,8
+Cytomegalovirus test positive,8,8
+Cytomegalovirus viraemia,8,8
+Deafness neurosensory,8,8
+Dementia Alzheimer's type,8,8
+Dermo-hypodermitis,8,8
+Device malfunction,8,8
+Duodenal ulcer perforation,8,8
+Electrocardiogram abnormal,8,8
+Endocarditis noninfective,8,8
+Enterocolitis haemorrhagic,8,8
+Epiglottitis,8,8
+Escherichia urinary tract infection,8,8
+Eye irritation,8,8
+Faecal vomiting,8,8
+Fibrosis,8,8
+Frustration tolerance decreased,8,8
+Gallbladder disorder,8,8
+Granulocytopenia,8,8
+Heart rate irregular,8,8
+Hepatic haemorrhage,8,8
+Hepatic necrosis,8,8
+Hepatitis B,8,8
+Hepatobiliary disease,8,8
+Herpes simplex,8,8
+Heteroplasia,8,8
+High density lipoprotein decreased,8,8
+Hip fracture,8,8
+Humerus fracture,9,8
+Hyperadrenocorticism,8,8
+Hyperphosphataemia,8,8
+Immune-mediated myelitis,8,8
+Immune-mediated optic neuritis,8,8
+Incontinence,8,8
+Incorrect route of product administration,8,8
+Infected neoplasm,8,8
+Intentional dose omission,8,8
+Intervertebral disc protrusion,10,8
+Invasive ductal breast carcinoma,8,8
+Joint range of motion decreased,8,8
+Leukoencephalopathy,8,8
+Long QT syndrome,8,8
+Lymphoedema,8,8
+Lymphoma,8,8
+Mantle cell lymphoma,8,8
+Metabolic encephalopathy,8,8
+Metastases to pancreas,8,8
+Miller Fisher syndrome,8,8
+Morphoea,8,8
+Mucosal erosion,8,8
+Muscle disorder,8,8
+Musculoskeletal discomfort,8,8
+Necrotising fasciitis,8,8
+Nephrogenic anaemia,8,8
+Nephropathy,8,8
+Neutrophil count abnormal,8,8
+Neutrophil toxic granulation present,8,8
+Oesophageal cancer metastatic,8,8
+Orthopnoea,8,8
+Otitis media acute,8,8
+Paraneoplastic dermatomyositis,8,8
+Parkinson's disease,8,8
+Perforation,8,8
+Periorbital swelling,9,8
+Peripheral arterial occlusive disease,8,8
+Poisoning,8,8
+Polycythaemia,8,8
+Poor quality sleep,8,8
+Protein induced by vitamin K absence or antagonist II increased,8,8
+Radiculopathy,8,8
+Renal infarct,8,8
+Renal mass,8,8
+Retinal haemorrhage,8,8
+Sciatica,8,8
+Sensation of foreign body,8,8
+Serositis,8,8
+Skin abrasion,8,8
+Skin necrosis,10,8
+Small intestinal haemorrhage,8,8
+Spinal cord disorder,8,8
+Spinal fracture,8,8
+Spinal stenosis,8,8
+Staphylococcus test positive,9,8
+Steroid withdrawal syndrome,8,8
+Streptococcal bacteraemia,8,8
+Sudden hearing loss,8,8
+Supraventricular extrasystoles,8,8
+Therapeutic product effect decreased,8,8
+Tongue ulceration,8,8
+Tricuspid valve incompetence,8,8
+Tumour invasion,8,8
+Tumour perforation,8,8
+Ulcerative keratitis,8,8
+Vaginal discharge,8,8
+Varicose vein,8,8
+Visceral venous thrombosis,8,8
+Actinic keratosis,7,7
+Acute on chronic liver failure,7,7
+Adenocarcinoma,7,7
+Adenocarcinoma gastric,7,7
+Alopecia scarring,7,7
+Anal incontinence,7,7
+Apathy,7,7
+Areflexia,7,7
+Arterial thrombosis,7,7
+Atrioventricular block first degree,7,7
+Atypical pneumonia,7,7
+Autoimmune retinopathy,7,7
+Basal cell carcinoma,7,7
+Biliary tract disorder,7,7
+Blood bilirubin abnormal,7,7
+Blood loss anaemia,7,7
+Blood uric acid increased,7,7
+Breast cancer,7,7
+Chronic graft versus host disease,7,7
+Chronic inflammatory demyelinating polyradiculoneuropathy,7,7
+Clostridium test positive,7,7
+Conjunctival hyperaemia,7,7
+Cytomegalovirus infection reactivation,7,7
+Demyelinating polyneuropathy,7,7
+Demyelination,7,7
+Dermatitis atopic,7,7
+Dermatitis exfoliative,7,7
+Dermatosis,7,7
+Dilated cardiomyopathy,7,7
+Disease complication,7,7
+Diverticular perforation,7,7
+Dyskinesia,7,7
+Electrocardiogram ST segment depression,7,7
+End stage renal disease,7,7
+Eosinophil count decreased,7,7
+Eosinophilic pneumonia,7,7
+Erectile dysfunction,7,7
+Evans syndrome,7,7
+Exfoliative rash,7,7
+Eye pruritus,7,7
+Eyelid oedema,7,7
+Folliculitis,7,7
+Gallbladder enlargement,7,7
+Gamma-glutamyltransferase abnormal,7,7
+Gastric ulcer haemorrhage,7,7
+Gastric varices haemorrhage,7,7
+Haemobilia,7,7
+Haemorrhagic ascites,7,7
+Haemorrhoidal haemorrhage,7,7
+Haemothorax,7,7
+Heart failure with reduced ejection fraction,7,7
+Hepatitis C,7,7
+Hodgkin's disease recurrent,7,7
+Immune-mediated cytopenia,8,7
+Impaired quality of life,7,7
+Infusion site erythema,7,7
+Infusion site reaction,7,7
+Intercepted product storage error,7,7
+International normalised ratio increased,7,7
+Intestinal pseudo-obstruction,7,7
+Intraductal proliferative breast lesion,7,7
+Iridocyclitis,7,7
+Lip dry,7,7
+Lipodystrophy acquired,7,7
+Lung adenocarcinoma recurrent,7,7
+Lung adenocarcinoma stage IV,7,7
+Lymphocytic hypophysitis,7,7
+Macular oedema,7,7
+Meningioma,7,7
+Middle insomnia,7,7
+Musculoskeletal toxicity,7,7
+Myelin oligodendrocyte glycoprotein antibody-associated disease,7,7
+Myocardial fibrosis,7,7
+Nail discolouration,7,7
+Necrotic lymphadenopathy,7,7
+Nephritis allergic,7,7
+Nocturia,7,7
+Nodular regenerative hyperplasia,7,7
+Norovirus infection,7,7
+Obstruction,7,7
+Oesophageal carcinoma recurrent,7,7
+Oral mucosal eruption,7,7
+Pancreatic carcinoma,7,7
+Periodontitis,7,7
+Pharyngeal swelling,7,7
+Platelet count increased,7,7
+Pneumoperitoneum,7,7
+Polychondritis,7,7
+Polyserositis,7,7
+Post procedural haemorrhage,7,7
+Postoperative wound infection,7,7
+Procedural haemorrhage,7,7
+Proctalgia,7,7
+Product dose omission in error,7,7
+Product temperature excursion issue,7,7
+Prostatomegaly,7,7
+Protein urine,7,7
+Pulmonary cavitation,7,7
+Pulmonary infarction,7,7
+Pulmonary septal thickening,7,7
+Pyelonephritis acute,7,7
+Radiation injury,7,7
+Renal cancer metastatic,7,7
+Respiration abnormal,7,7
+Respiratory tract infection viral,7,7
+Retroperitoneal haematoma,7,7
+SJS-TEN overlap,7,7
+Scar,7,7
+Scleroderma-like reaction,7,7
+Secondary hypogonadism,7,7
+Small cell carcinoma,7,7
+Spinal pain,7,7
+Squamous cell carcinoma of lung,7,7
+Superinfection bacterial,7,7
+Terminal state,7,7
+Therapeutic response unexpected,7,7
+Thyroid mass,7,7
+Thyroiditis subacute,7,7
+Tongue oedema,7,7
+Tracheal fistula,7,7
+Transitional cell carcinoma recurrent,7,7
+Ureteral stent insertion,7,7
+Urinary bladder haemorrhage,7,7
+Viral rash,7,7
+Yellow skin,7,7
+Abscess intestinal,6,6
+Accelerated hypertension,6,6
+Acquired tracheo-oesophageal fistula,6,6
+Acute febrile neutrophilic dermatosis,6,6
+Acute motor-sensory axonal neuropathy,6,6
+Acute stress disorder,6,6
+Adenocarcinoma of the cervix,6,6
+Adrenomegaly,6,6
+Agonal respiration,6,6
+Alcoholism,6,6
+Ammonia increased,6,6
+Angina unstable,6,6
+Anti-neutrophil cytoplasmic antibody positive vasculitis,6,6
+Aortic dissection,6,6
+Arterial occlusive disease,6,6
+Bladder catheterisation,6,6
+Bladder transitional cell carcinoma,6,6
+Blepharitis,6,6
+Blood creatinine decreased,6,6
+Blood lactate dehydrogenase abnormal,6,6
+Blood lactic acid increased,6,6
+Brain radiation necrosis,6,6
+Breast conserving surgery,6,6
+Cholangitis infective,6,6
+Coeliac disease,6,6
+Communication disorder,6,6
+Complication associated with device,6,6
+Conduction disorder,6,6
+Coronary artery occlusion,6,6
+Decompensated hypothyroidism,6,6
+Dental caries,6,6
+Dialysis,7,6
+Diplegia,6,6
+Discouragement,6,6
+Disseminated mucormycosis,6,6
+Diverticulum intestinal haemorrhagic,6,6
+Drug dependence,6,6
+Dry throat,6,6
+Dyspnoea at rest,6,6
+Embolism arterial,6,6
+Encephalomyelitis,6,6
+Endocarditis staphylococcal,6,6
+Erythema nodosum,6,6
+Expired product administered,6,6
+Exposure via skin contact,6,6
+Fear,6,6
+Fine motor skill dysfunction,6,6
+Fistula of small intestine,6,6
+Fluid intake reduced,6,6
+Focal nodular hyperplasia,6,6
+Food intolerance,6,6
+Fungal endocarditis,6,6
+Fusarium infection,6,6
+Gallbladder cancer,6,6
+Gallbladder rupture,6,6
+Gastrointestinal stenosis,6,6
+Genital ulceration,6,6
+Gingival recession,6,6
+"Hallucination, visual",6,6
+Hepatic rupture,6,6
+Hepatitis toxic,6,6
+Hepatorenal syndrome,6,6
+Herpes virus infection,6,6
+Hypoparathyroidism,6,6
+IgA nephropathy,6,6
+Immune-mediated proctitis,6,6
+Immunoglobulin G4 related disease,6,6
+Impaired work ability,6,6
+Inguinal hernia,6,6
+Initial insomnia,6,6
+Injury,6,6
+Interstitial lung abnormality,6,6
+Intervertebral discitis,6,6
+Intracranial mass,6,6
+Intracranial tumour haemorrhage,6,6
+Iron deficiency,6,6
+Lacunar infarction,7,6
+Laryngeal oedema,6,6
+Lichen sclerosus,6,6
+Liver ablation,6,6
+Lower limb fracture,6,6
+Lung carcinoma cell type unspecified recurrent,6,6
+Lupus-like syndrome,6,6
+Mania,6,6
+Mastitis,6,6
+Melanocytic naevus,6,6
+Melanoma recurrent,6,6
+Mesenteric panniculitis,6,6
+Metastases to abdominal cavity,6,6
+Monocyte count increased,6,6
+Multi-organ disorder,6,6
+Muscle fatigue,6,6
+Myelitis transverse,6,6
+Myocardial oedema,6,6
+Neurological decompensation,6,6
+Non-small cell lung cancer stage IV,6,6
+Obliterative bronchiolitis,6,6
+Oncologic complication,6,6
+Onychomadesis,6,6
+Ophthalmoplegia,6,6
+Orbital myositis,7,6
+Partial seizures,6,6
+Peripheral vein thrombosis,6,6
+Peritoneal disorder,6,6
+Petechiae,6,6
+Pleurisy bacterial,6,6
+Pneumonia klebsiella,6,6
+Pneumonia pseudomonal,6,6
+Pneumothorax spontaneous,6,6
+Polydipsia,6,6
+Polyuria,6,6
+Potentiating drug interaction,6,6
+Product dispensing error,6,6
+Product physical issue,6,6
+Protein-losing gastroenteropathy,6,6
+Pseudomonal bacteraemia,6,6
+Pseudomonas test positive,6,6
+Pulmonary granuloma,6,6
+Pulmonary valve incompetence,6,6
+Pure white cell aplasia,6,6
+Pustule,6,6
+Quadriparesis,6,6
+Rales,6,6
+Rash maculovesicular,6,6
+Red cell distribution width increased,6,6
+Refusal of treatment by patient,6,6
+Renal ischaemia,6,6
+Renal tubular acidosis,6,6
+Renal vein thrombosis,6,6
+Respiratory alkalosis,6,6
+Respiratory syncytial virus infection,6,6
+Retroperitoneal lymphadenopathy,6,6
+Salivary hypersecretion,6,6
+Seronegative arthritis,6,6
+Severe cutaneous adverse reaction,6,6
+Shock symptom,6,6
+Sinus bradycardia,6,6
+Skin mass,6,6
+Splenic infarction,6,6
+Superior vena cava syndrome,6,6
+Swelling of eyelid,6,6
+T-cell lymphoma,6,6
+Thyroxine increased,8,6
+Tissue infiltration,6,6
+Tumour pain,6,6
+Type IV hypersensitivity reaction,6,6
+Ulcer haemorrhage,6,6
+Ulcerative gastritis,6,6
+Ureteric stenosis,6,6
+Varicose vein ruptured,6,6
+Vitamin B12 deficiency,6,6
+Vitamin D deficiency,6,6
+Walking aid user,6,6
+Yersinia infection,6,6
+AST/ALT ratio abnormal,5,5
+Abdominal adhesions,5,5
+Abnormal behaviour,5,5
+Activated partial thromboplastin time prolonged,5,5
+Acute cholecystitis necrotic,5,5
+Acute graft versus host disease in skin,5,5
+Acute promyelocytic leukaemia,5,5
+Anaphylactoid shock,5,5
+Anaplastic large cell lymphoma T- and null-cell types,5,5
+Anger,5,5
+Angle closure glaucoma,5,5
+Ankle fracture,5,5
+Anorexia nervosa,5,5
+Anosmia,5,5
+Aortic valve calcification,5,5
+Aortic valve sclerosis,5,5
+Appendicitis perforated,5,5
+Apraxia,5,5
+Autoimmune dermatitis,5,5
+Autonomic nervous system imbalance,5,5
+Bipolar disorder,5,5
+Bladder disorder,5,5
+Blood creatine phosphokinase abnormal,5,5
+Blood folate decreased,5,5
+Blood phosphorus increased,5,5
+Blood sodium increased,5,5
+Bone cancer,5,5
+Bronchiolitis,5,5
+Cancer fatigue,5,5
+Cardiopulmonary failure,5,5
+Carditis,5,5
+Catheter placement,6,5
+Central nervous system vasculitis,5,5
+Cerebellar haemorrhage,5,5
+Cerebral amyloid angiopathy,5,5
+Cerebrovascular disorder,5,5
+Cervix carcinoma stage IV,5,5
+Cholecystectomy,5,5
+Cholecystitis chronic,5,5
+Chondritis,5,5
+Chondrocalcinosis,5,5
+Choroiditis,5,5
+Chronic hepatic failure,5,5
+Contraindicated product administered,5,5
+Coronary artery thrombosis,5,5
+Coronavirus pneumonia,5,5
+Coronavirus test positive,5,5
+Costochondritis,5,5
+Cranial nerve palsies multiple,5,5
+Cushing's syndrome,5,5
+Cytomegalovirus gastritis,5,5
+Device issue,5,5
+Diaphragmatic paralysis,5,5
+Diverticulitis intestinal perforated,5,5
+Drain placement,15,5
+Duodenal obstruction,5,5
+Dyslalia,5,5
+Ear discomfort,5,5
+Eczema nummular,5,5
+Endocrine ophthalmopathy,5,5
+Endometrial cancer stage IV,5,5
+Endotracheal intubation,5,5
+Enterococcal bacteraemia,5,5
+Enterococcal infection,5,5
+Enterococcus test positive,5,5
+Escherichia sepsis,5,5
+Extradural haematoma,5,5
+Extrasystoles,5,5
+Eye haemorrhage,5,5
+Eye inflammation,5,5
+Faecal occult blood positive,5,5
+Faeces hard,5,5
+Faeces soft,5,5
+Febrile infection,6,5
+Fungal skin infection,5,5
+Gangrene,5,5
+Gastric antral vascular ectasia,5,5
+Gastric varices,5,5
+Gastroenteritis radiation,5,5
+Gastrointestinal injury,5,5
+Gastrointestinal pain,5,5
+Gene mutation,5,5
+Gene mutation identification test positive,5,5
+Giant cell arteritis,5,5
+Gingival erythema,5,5
+Glucose tolerance impaired,5,5
+Granulocyte count decreased,5,5
+Groin pain,5,5
+Gynaecomastia,5,5
+Haemangioma of liver,5,5
+Haemorrhage urinary tract,5,5
+Heart rate abnormal,5,5
+Heat illness,5,5
+Hepatic neoplasm,5,5
+Hepatorenal failure,5,5
+Hiatus hernia,5,5
+Hypercalcaemia of malignancy,5,5
+Hyperparathyroidism,5,5
+Hypertensive emergency,5,5
+Hyporeflexia,5,5
+Incorrect dosage administered,5,5
+Infectious thyroiditis,5,5
+Infusion site bruising,5,5
+Injection site inflammation,5,5
+Injection site swelling,5,5
+Intensive care,5,5
+Interleukin-2 receptor increased,5,5
+Intra-abdominal fluid collection,5,5
+Intra-abdominal haemorrhage,5,5
+Intracranial aneurysm,5,5
+Intracranial pressure increased,5,5
+Investigation abnormal,5,5
+Ischaemic hepatitis,5,5
+Large intestinal stenosis,5,5
+Loose tooth,5,5
+Lymphocyte percentage decreased,5,5
+Magnetic resonance imaging head abnormal,5,5
+Malignant transformation,5,5
+Marasmus,5,5
+Mastication disorder,5,5
+Mean platelet volume decreased,5,5
+Megacolon,5,5
+Meningitis bacterial,5,5
+Metastases to kidney,5,5
+Metastases to soft tissue,5,5
+Mononeuropathy multiplex,5,5
+Mood altered,5,5
+Mouth swelling,5,5
+Mucocutaneous disorder,5,5
+Mucocutaneous rash,5,5
+Mucocutaneous toxicity,5,5
+Multiple injuries,5,5
+Multiple sclerosis,6,5
+Muscle twitching,5,5
+Myocarditis infectious,5,5
+Neurodegenerative disorder,5,5
+Neuroendocrine carcinoma,5,5
+Neurogenic bladder,5,5
+Noninfective gingivitis,5,5
+Obstructive airways disorder,5,5
+Obstructive sleep apnoea syndrome,5,5
+Ocular myasthenia,5,5
+Oesophageal haemorrhage,5,5
+Oesophageal perforation,6,5
+Omentectomy,5,5
+Optic nerve injury,5,5
+Oral lichen planus,5,5
+Otitis externa,5,5
+Oxygen saturation abnormal,5,5
+Pancreatic carcinoma metastatic,5,5
+Panic disorder,5,5
+Paronychia,5,5
+Parotitis,5,5
+Peptic ulcer,5,5
+Pericarditis malignant,5,5
+Perineal fistula,5,5
+Peripheral venous disease,5,5
+Peritonitis bacterial,5,5
+Pharyngeal ulceration,5,5
+Platelet transfusion,5,5
+Pneumobilia,5,5
+Pneumonia influenzal,5,5
+Polyradiculoneuropathy,5,5
+Portal hypertensive gastropathy,5,5
+Post procedural fever,6,5
+Postrenal failure,5,5
+Precursor T-lymphoblastic lymphoma/leukaemia,5,5
+Product administered to patient of inappropriate age,5,5
+Product communication issue,5,5
+Product substitution issue,5,5
+Prostatic disorder,5,5
+Pulmonary air leakage,5,5
+Pulse abnormal,5,5
+Radiation oesophagitis,5,5
+Radiation skin injury,5,5
+Remission not achieved,5,5
+Rosacea,5,5
+Rotator cuff syndrome,5,5
+Scleroderma renal crisis,5,5
+Serum ferritin abnormal,5,5
+Shoulder fracture,5,5
+Sinus node dysfunction,5,5
+Skin fibrosis,5,5
+Skin hypertrophy,5,5
+Skin laceration,5,5
+Skin weeping,5,5
+Sluggishness,5,5
+Small intestine carcinoma,5,5
+Socioeconomic precarity,5,5
+Sputum retention,5,5
+Streptococcus test positive,5,5
+Subcutaneous abscess,5,5
+Subcutaneous emphysema,5,5
+Superior vena cava occlusion,5,5
+Tenosynovitis,5,5
+Thoracic vertebral fracture,5,5
+Thrombocytopenic purpura,5,5
+Tongue blistering,5,5
+Tongue disorder,5,5
+Tracheal stenosis,5,5
+Treatment delayed,5,5
+Tri-iodothyronine decreased,5,5
+Ureteritis,5,5
+Ureterolithiasis,5,5
+Urinary bladder rupture,5,5
+Urinary occult blood positive,5,5
+Urinary tract infection bacterial,5,5
+Uterine perforation,5,5
+VIth nerve paralysis,5,5
+Vaginal infection,5,5
+Vascular compression,5,5
+Vein disorder,5,5
+Wernicke's encephalopathy,5,5
+Wound complication,5,5
+Abdominal hernia,4,4
+Abdominal lymphadenopathy,4,4
+Abdominal rigidity,4,4
+Abscess neck,4,4
+Acrochordon,4,4
+Adult T-cell lymphoma/leukaemia,4,4
+Adult failure to thrive,4,4
+Affect lability,4,4
+Akathisia,4,4
+Albuminuria,4,4
+Alopecia areata,4,4
+Anal haemorrhage,4,4
+Anal ulcer,4,4
+Anaphylactoid reaction,4,4
+Anhidrosis,4,4
+Anti-glomerular basement membrane disease,4,4
+Antibiotic level above therapeutic,4,4
+Aortic valve incompetence,4,4
+Apnoea,4,4
+Arterial disorder,4,4
+Aspartate aminotransferase,4,4
+Atrial thrombosis,4,4
+Atrioventricular block second degree,4,4
+Auditory disorder,4,4
+Autoimmune anaemia,4,4
+Autonomic neuropathy,4,4
+Axillary pain,4,4
+B-cell small lymphocytic lymphoma,4,4
+Bacterial translocation,4,4
+Basophil count decreased,4,4
+Beta haemolytic streptococcal infection,4,4
+Bladder hypertrophy,4,4
+Bladder irritation,4,4
+Blood albumin abnormal,4,4
+Blood corticotrophin abnormal,4,4
+Blood electrolytes abnormal,4,4
+Blood electrolytes decreased,4,4
+Blood magnesium abnormal,4,4
+Blood pressure inadequately controlled,4,4
+Body temperature abnormal,4,4
+Bone neoplasm,4,4
+Bradyphrenia,4,4
+Brain contusion,4,4
+Brain injury,4,4
+Breast swelling,4,4
+Breath sounds abnormal,4,4
+C-reactive protein decreased,4,4
+Cancer cells present,4,4
+Cardiac hypertrophy,4,4
+Cardiac output decreased,4,4
+Carotid artery thrombosis,4,4
+Catatonia,4,4
+Cervix carcinoma,4,4
+Chapped lips,4,4
+Chronic cutaneous lupus erythematosus,4,4
+Colectomy,4,4
+Colorectal adenoma,4,4
+Colostomy,4,4
+Congestive hepatopathy,4,4
+Conjunctival haemorrhage,4,4
+Contrast media allergy,4,4
+Coombs negative haemolytic anaemia,4,4
+Coombs positive haemolytic anaemia,4,4
+Corneal perforation,4,4
+Cranial nerve disorder,4,4
+Critical illness,4,4
+Cutaneous sarcoidosis,4,4
+Cytomegalovirus hepatitis,4,4
+Defaecation disorder,4,4
+Delusion,4,4
+Depressive symptom,4,4
+Dermal cyst,4,4
+Device ineffective,4,4
+Device related sepsis,4,4
+Device related thrombosis,4,4
+Diabetic ketosis,4,4
+Diabetic nephropathy,4,4
+Disseminated aspergillosis,4,4
+Ear pruritus,4,4
+Eastern Cooperative Oncology Group performance status abnormal,4,4
+Ecchymosis,4,4
+Ectopic ACTH syndrome,4,4
+Eczema asteatotic,4,4
+Electrolyte depletion,4,4
+Endophthalmitis,4,4
+Eosinophilic oesophagitis,4,4
+Erosive duodenitis,4,4
+Erythrodermic psoriasis,4,4
+Eyelid margin crusting,4,4
+Facial pain,4,4
+Fasciitis,4,4
+Feeling drunk,4,4
+Folate deficiency,4,4
+Food aversion,4,4
+Gastric ulcer perforation,4,4
+Gastroenteritis viral,4,4
+Gastrostomy,4,4
+Glaucoma,4,4
+Glycosylated haemoglobin abnormal,4,4
+Goitre,4,4
+Granulomatosis with polyangiitis,4,4
+Haemoglobin increased,4,4
+Hair disorder,4,4
+Helicobacter infection,4,4
+Hepatic cancer metastatic,4,4
+Hepatic pain,4,4
+Hepatitis viral,4,4
+Hernia repair,4,4
+Hip arthroplasty,5,4
+Hormone level abnormal,4,4
+Hunger,4,4
+Hydrothorax,4,4
+Hyperamylasaemia,4,4
+Hypercoagulation,4,4
+Hypermetabolism,4,4
+Hypernatraemia,4,4
+Hypochloraemia,4,4
+Immune-mediated scleritis,4,4
+Impaired insulin secretion,4,4
+Impetigo,4,4
+Implant site infection,4,4
+Increased appetite,4,4
+Inflammatory bowel disease,4,4
+Inflammatory pseudotumour,4,4
+Influenza A virus test positive,4,4
+Infusion site rash,4,4
+Infusion site swelling,4,4
+Intensive care unit acquired weakness,4,4
+Intercepted product preparation error,4,4
+Intermenstrual bleeding,4,4
+Intestinal metastasis,4,4
+Intestinal ulcer,4,4
+Intra-abdominal haematoma,4,4
+Intussusception,4,4
+Iritis,4,4
+Kidney enlargement,4,4
+Kidney transplant rejection,4,4
+Klebsiella bacteraemia,4,4
+Klebsiella urinary tract infection,4,4
+Knee arthroplasty,4,4
+Labelled drug-disease interaction issue,4,4
+Laparotomy,4,4
+Large intestinal ulcer,4,4
+Laryngitis,4,4
+Lichen planopilaris,4,4
+Lid lag,4,4
+Liver transplant,4,4
+Loss of proprioception,4,4
+Lymph node tuberculosis,4,4
+Lymphocyte count increased,4,4
+Madarosis,4,4
+Malignant gastrointestinal obstruction,4,4
+Malignant hypertension,4,4
+Medical device site infection,4,4
+Metastases to oesophagus,4,4
+Methaemoglobinaemia,4,4
+Micturition disorder,4,4
+Micturition urgency,4,4
+Mucosal dryness,4,4
+Mucosal toxicity,4,4
+Mucous membrane pemphigoid,4,4
+Multiple fractures,4,4
+Muscle abscess,4,4
+Muscle injury,4,4
+Muscle rigidity,4,4
+Mycobacterial infection,4,4
+Nasal ulcer,4,4
+Neck mass,4,4
+Necrotising oesophagitis,4,4
+Neovascular age-related macular degeneration,4,4
+Nephritic syndrome,4,4
+Nephrostomy,4,4
+Nerve compression,4,4
+Neuritis,4,4
+Neuromyopathy,4,4
+Neuromyotonia,4,4
+Neutropenic infection,4,4
+Nuchal rigidity,4,4
+Ocular discomfort,4,4
+Oesophageal ulcer,4,4
+Oesophageal wall hypertrophy,4,4
+Oesophageal-pulmonary fistula,4,4
+Olfactory dysfunction,4,4
+Onychoclasis,4,4
+Optic ischaemic neuropathy,4,4
+Oral infection,4,4
+Orchitis,4,4
+Ovarian cancer recurrent,4,4
+Palliative care,4,4
+Pancreatitis necrotising,4,4
+Paraplegia,4,4
+Parosmia,4,4
+Parvovirus B19 infection,4,4
+Patella fracture,4,4
+Pelvic fracture,4,4
+Penile discomfort,4,4
+Periodontal disease,4,4
+Peritoneal abscess,4,4
+Photopsia,4,4
+Plasma cell myeloma,4,4
+Platelet disorder,4,4
+Pleocytosis,4,4
+Pleural thickening,4,4
+Pneumatosis,6,4
+Pneumonectomy,4,4
+Pneumonia cytomegaloviral,4,4
+Pneumonitis chemical,4,4
+Portal vein occlusion,4,4
+Portal venous gas,4,4
+Post herpetic neuralgia,4,4
+Postoperative wound complication,4,4
+Potassium wasting nephropathy,4,4
+Product prescribing error,4,4
+Product supply issue,5,4
+Prurigo,4,4
+Psychiatric symptom,4,4
+Pulmonary calcification,4,4
+Pulmonary nocardiosis,4,4
+Pulse absent,4,4
+Pulseless electrical activity,4,4
+Quadriplegia,4,4
+Rectal cancer,4,4
+Red blood cell count increased,4,4
+Renal cancer recurrent,4,4
+Renal pain,4,4
+Renal transplant failure,4,4
+Respiratory depression,4,4
+Respiratory muscle weakness,4,4
+Respiratory tract congestion,4,4
+Retinal artery occlusion,4,4
+Retroperitoneal abscess,4,4
+Rhinovirus infection,4,4
+Schizophrenia,4,4
+Scleritis,4,4
+Septic pulmonary embolism,4,4
+Skin cancer,4,4
+Skin induration,4,4
+Skin plaque,4,4
+Skin tightness,4,4
+Skin warm,4,4
+Skin wound,4,4
+Skin wrinkling,4,4
+Sleep disorder due to a general medical condition,4,4
+Small cell lung cancer metastatic,4,4
+Soft tissue disorder,4,4
+Soft tissue infection,4,4
+Sphincter of Oddi dysfunction,4,4
+Spinal cord compression,4,4
+Splenic abscess,4,4
+Spontaneous bacterial peritonitis,4,4
+Sputum discoloured,4,4
+Squamous cell carcinoma of the cervix,4,4
+Stasis dermatitis,4,4
+Stent placement,4,4
+Substance-induced psychotic disorder,4,4
+Suicide attempt,4,4
+Superficial vein thrombosis,4,4
+Suspected COVID-19,4,4
+Suture related complication,4,4
+Temporomandibular pain and dysfunction syndrome,4,4
+Thinking abnormal,4,4
+Thrombophlebitis,4,4
+Thyroid cancer,4,4
+Tongue erythema,4,4
+Tooth loss,4,4
+Toxic erythema of chemotherapy,4,4
+Tracheal mass,4,4
+Troponin abnormal,4,4
+Tumour excision,4,4
+Type 3 diabetes mellitus,4,4
+Upper gastrointestinal perforation,4,4
+Upper limb fracture,4,4
+Urinary occult blood,4,4
+Urinary tract disorder,4,4
+Urinary tract infection pseudomonal,4,4
+Urine protein/creatinine ratio increased,4,4
+Uterine cancer,4,4
+Varicella virus test positive,4,4
+Vascular encephalopathy,4,4
+Vasculitis necrotising,4,4
+Vasogenic cerebral oedema,4,4
+Venoocclusive disease,4,4
+Vertebral foraminal stenosis,4,4
+Vertebral lesion,4,4
+Viral myocarditis,4,4
+Viral upper respiratory tract infection,4,4
+Vitamin B12 decreased,4,4
+Vulval ulceration,4,4
+Wound evisceration,4,4
+Xeroderma,4,4
+Abdominal mass,3,3
+Abdominal sepsis,3,3
+Abdominal wall mass,3,3
+Accidental overdose,3,3
+Achromotrichia acquired,3,3
+Acute graft versus host disease in liver,3,3
+Acute leukaemia,3,3
+Acute sinusitis,3,3
+Adenocarcinoma of colon,3,3
+Administration site extravasation,3,3
+Alanine aminotransferase,3,3
+Alanine aminotransferase decreased,3,3
+Alcohol withdrawal syndrome,3,3
+Alveolitis,3,3
+Amyotrophic lateral sclerosis,3,3
+Anal sphincter atony,3,3
+Anastomotic leak,3,3
+Anastomotic ulcer haemorrhage,3,3
+Aneurysm,3,3
+Angular cheilitis,3,3
+Anisocoria,3,3
+Anorectal varices haemorrhage,3,3
+Antiacetylcholine receptor antibody positive,3,3
+Antinuclear antibody,3,3
+Aortic valve stenosis,3,3
+Apoptosis,3,3
+Appendiceal abscess,3,3
+Appendicectomy,3,3
+Arrhythmia induced cardiomyopathy,3,3
+Arteritis,3,3
+Autoimmune cholangitis,3,3
+Autoimmune encephalopathy,3,3
+Autoimmune thyroid disorder,3,3
+Autoimmune vasculitis,3,3
+Back disorder,3,3
+Bacterial pyelonephritis,3,3
+Bile duct cancer recurrent,3,3
+Bladder irrigation,7,3
+Bladder neoplasm,3,3
+Bladder perforation,3,3
+Blood alkaline phosphatase decreased,3,3
+Blood creatine phosphokinase decreased,3,3
+Blood immunoglobulin G increased,3,3
+Blood sodium abnormal,3,3
+Blood urea decreased,3,3
+Bone marrow oedema,3,3
+Bradykinesia,3,3
+Brain death,3,3
+Breast mass,3,3
+Bronchial wall thickening,3,3
+Bronchopneumopathy,3,3
+Bronchostenosis,3,3
+Bulbar palsy,3,3
+CSF protein increased,3,3
+Cardiac death,3,3
+Central nervous system infection,3,3
+Central nervous system inflammation,3,3
+Central nervous system lymphoma,3,3
+Cerebellar ataxia,3,3
+Cerebellar atrophy,3,3
+Cerebellar syndrome,3,3
+Cerebral artery embolism,3,3
+Cerebral thrombosis,3,3
+Cerebral venous sinus thrombosis,3,3
+Cerebral venous thrombosis,3,3
+Choking sensation,3,3
+Chronic graft versus host disease in intestine,3,3
+Chronic graft versus host disease in lung,3,3
+Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids,3,3
+Chronic myeloid leukaemia,3,3
+Chronic respiratory failure,3,3
+Clavicle fracture,3,3
+Clostridial infection,3,3
+Clostridial sepsis,3,3
+Clostridium bacteraemia,3,3
+Coagulation test abnormal,3,3
+Colitis erosive,3,3
+Colon injury,3,3
+Colonic abscess,3,3
+Coma hepatic,3,3
+Connective tissue disease-associated interstitial lung disease,3,3
+Corneal graft failure,3,3
+Coronary angioplasty,3,3
+Cranial nerve paralysis,3,3
+Creatinine renal clearance increased,3,3
+Crepitations,3,3
+Crying,3,3
+Cryptitis,3,3
+Cystitis bacterial,3,3
+Cystitis radiation,3,3
+Cytokine abnormal,3,3
+Deafness bilateral,3,3
+Dermatitis herpetiformis,3,3
+Dermatitis infected,3,3
+Device connection issue,3,3
+Discontinued product administered,3,3
+Disseminated tuberculosis,3,3
+Drooling,3,3
+Dropped head syndrome,3,3
+Drowning,3,3
+Dysbiosis,3,3
+Dyschezia,3,3
+Ear congestion,3,3
+Ear haemorrhage,3,3
+Ear infection,3,3
+Effusion,3,3
+Ejection fraction abnormal,3,3
+Electrocardiogram T wave inversion,3,3
+Endocarditis bacterial,3,3
+Enterocutaneous fistula,3,3
+Enzyme level increased,3,3
+Eosinophil percentage decreased,3,3
+Eosinophilic granulomatosis with polyangiitis,3,3
+Epidermolysis bullosa,4,3
+Epididymitis,3,3
+Essential hypertension,3,3
+Essential thrombocythaemia,3,3
+Executive dysfunction,3,3
+Exostosis,3,3
+Extensor plantar response,3,3
+Eye discharge,3,3
+Eye operation,3,3
+Eyelid disorder,3,3
+Eyelid pain,3,3
+Face injury,3,3
+Facial asymmetry,3,3
+Facial paresis,3,3
+Faeces pale,3,3
+Fanconi syndrome,3,3
+Fat tissue increased,3,3
+Feeling of body temperature change,3,3
+Feeling of despair,3,3
+Fractured sacrum,3,3
+Functional gastrointestinal disorder,3,3
+Fungal myositis,3,3
+Fungal oesophagitis,3,3
+Gastrectomy,3,3
+Gastric infection,3,3
+Gastric stenosis,3,3
+Gastroenteritis Escherichia coli,3,3
+Gastrointestinal mucosal disorder,3,3
+Gastrointestinal neoplasm,3,3
+Gastrointestinal scarring,3,3
+Gastrointestinal stromal tumour,3,3
+Gastrointestinal tract adenoma,3,3
+Gastrointestinal tube insertion,3,3
+General symptom,3,3
+Genital erythema,3,3
+Gingival discomfort,3,3
+Gingival disorder,3,3
+Glomerular filtration rate abnormal,3,3
+Glomerulonephritis proliferative,3,3
+Granulomatous dermatitis,3,3
+Groin abscess,3,3
+HER2 positive breast cancer,3,3
+Haematopoietic stem cell mobilisation,4,3
+Haemodialysis,3,3
+Haemophilus infection,3,3
+Hand fracture,3,3
+Haptoglobin decreased,3,3
+Head and neck cancer,3,3
+Heart failure with preserved ejection fraction,3,3
+Hemianopia homonymous,3,3
+Hepatic atrophy,3,3
+Hepatic ischaemia,3,3
+Hepatitis E,3,3
+Hepatitis G,3,3
+Herpes simplex encephalitis,3,3
+Herpes simplex oesophagitis,3,3
+Herpes simplex reactivation,3,3
+Herpes zoster meningitis,3,3
+Hodgkin's disease refractory,3,3
+Hordeolum,3,3
+Hyperammonaemic encephalopathy,3,3
+Hypercholesterolaemia,3,3
+Hypercreatinaemia,3,3
+Hypermutation,3,3
+Hyperphosphatasaemia,3,3
+Hypogammaglobulinaemia,3,3
+Hypopharyngeal cancer,3,3
+Hypopnoea,3,3
+Idiopathic intracranial hypertension,3,3
+Idiosyncratic drug reaction,3,3
+Iliac artery perforation,3,3
+Immobile,3,3
+Immobilisation syndrome,3,3
+Incision site discharge,3,3
+Incoherent,3,3
+Infarction,3,3
+Infrequent bowel movements,3,3
+Ingrowing nail,3,3
+Injection site rash,3,3
+Insulin C-peptide decreased,3,3
+Intentional underdose,3,3
+Intertrigo,3,3
+Intestinal prolapse,3,3
+Iris adhesions,3,3
+Irritable bowel syndrome,3,3
+Ischaemic cholecystitis,3,3
+Itching scar,3,3
+Joint effusion,3,3
+Klebsiella sepsis,3,3
+Kounis syndrome,3,3
+Laboratory test interference,3,3
+Laryngectomy,3,3
+Latent tuberculosis,3,3
+Left atrial dilatation,3,3
+Leukocyturia,3,3
+Lip blister,3,3
+Lip oedema,3,3
+Listless,3,3
+Liver transplant failure,3,3
+Loss of therapeutic response,3,3
+Lower respiratory tract congestion,3,3
+Lumbar radiculopathy,3,3
+Lung cyst,3,3
+Lymphocytic infiltration,3,3
+Lymphocytosis,3,3
+Lymphoid tissue hyperplasia,3,3
+Lymphoma transformation,3,3
+Macule,3,3
+Male sexual dysfunction,3,3
+Maternal exposure before pregnancy,3,3
+Mediastinitis,3,3
+Melanosis,3,3
+Meningitis Escherichia,3,3
+Meningitis viral,3,3
+Mental fatigue,3,3
+Metabolic disorder,3,3
+Metabolic function test abnormal,4,3
+Metastases to chest wall,3,3
+Metastases to pelvis,3,3
+Metastatic carcinoma of the bladder,3,3
+Microcytic anaemia,3,3
+Microcytosis,3,3
+Miliaria,3,3
+Miosis,3,3
+Mixed adenoneuroendocrine carcinoma,3,3
+Mood swings,3,3
+Morvan syndrome,3,3
+Mucosal haemorrhage,3,3
+Multiple-drug resistance,3,3
+Muscle rupture,3,3
+Mycobacterium avium complex infection,3,3
+Mycobacterium tuberculosis complex test positive,3,3
+Myoclonic epilepsy,3,3
+Myoglobin blood increased,3,3
+Myopathy toxic,3,3
+Near death experience,3,3
+Neoplasm prostate,3,3
+Neuralgic amyotrophy,3,3
+Neuropsychological symptoms,3,3
+Neutrophilic dermatosis,3,3
+Nocardiosis,3,3
+Non-cardiac chest pain,3,3
+Nutritional condition abnormal,3,3
+Obstructive pancreatitis,3,3
+Oesophageal obstruction,3,3
+Oesophagobronchial fistula,3,3
+Oesophagomediastinal fistula,3,3
+Ophthalmic herpes zoster,3,3
+Optic atrophy,3,3
+Optic perineuritis,3,3
+Oral lichenoid reaction,3,3
+Pancreatic atrophy,3,3
+Paradoxical drug reaction,3,3
+Paraparesis,3,3
+Parathyroid disorder,3,3
+Parietal lobe stroke,3,3
+Parkinsonism,3,3
+Parvovirus B19 test positive,3,3
+Parvovirus infection,3,3
+Pathogen resistance,3,3
+Patient elopement,3,3
+Pelvic neoplasm,3,3
+Perforation bile duct,3,3
+Periostitis,3,3
+Peripheral artery occlusion,3,3
+Peripheral artery stenosis,3,3
+Peripheral artery thrombosis,3,3
+Peripheral circulatory failure,3,3
+Peritonectomy,3,3
+Peritonsillitis,3,3
+Petit mal epilepsy,3,3
+Pituitary-dependent Cushing's syndrome,3,3
+Plasmapheresis,3,3
+Pleural disorder,3,3
+Pneumocystis jirovecii infection,3,3
+Pneumonia parainfluenzae viral,3,3
+Pneumonia staphylococcal,3,3
+Polyomavirus viraemia,3,3
+Polyp,3,3
+Portal shunt,3,3
+Postmenopausal haemorrhage,3,3
+Postoperative abscess,3,3
+Product complaint,3,3
+Prostate cancer metastatic,3,3
+Prostatitis,3,3
+Protein total abnormal,3,3
+Protein total increased,3,3
+Prothrombin time prolonged,3,3
+Pruritus allergic,3,3
+Pruritus genital,3,3
+Pseudomonal sepsis,3,3
+Psoas abscess,3,3
+Psychomotor hyperactivity,3,3
+Psychomotor retardation,3,3
+Pulmonary function test decreased,3,3
+Pulmonary veno-occlusive disease,3,3
+Pyelitis,3,3
+Radius fracture,3,3
+Recall phenomenon,3,3
+Rectal abscess,3,3
+Red blood cell count abnormal,3,3
+Red blood cell sedimentation rate increased,3,3
+Renal atrophy,3,3
+Renal neoplasm,3,3
+Resorption bone increased,3,3
+Respiratory rate increased,3,3
+Retinal vasculitis,3,3
+Rhinalgia,3,3
+Rhinitis allergic,3,3
+Roseolovirus test positive,4,3
+Sacral pain,3,3
+Scratch,3,3
+Secondary cerebellar degeneration,3,3
+Sexually transmitted disease,3,3
+Skin bacterial infection,3,3
+Skin fragility,3,3
+Skin injury,3,3
+Skin papilloma,3,3
+Slow speech,3,3
+Small cell lung cancer extensive stage,3,3
+Small cell lung cancer recurrent,3,3
+Small intestinal stenosis,3,3
+Soft tissue mass,3,3
+Soft tissue neoplasm,3,3
+Soft tissue swelling,3,3
+Sopor,3,3
+Spinal cord injury,3,3
+Spinal cord neoplasm,3,3
+Spinal operation,3,3
+Splenic calcification,3,3
+Squamous cell carcinoma antigen increased,3,3
+Squamous cell carcinoma of head and neck,3,3
+Starvation ketoacidosis,3,3
+Stent removal,3,3
+Steroid therapy,3,3
+Stomatitis necrotising,3,3
+Strabismus,3,3
+Streptococcal infection,3,3
+Stupor,3,3
+Subcorneal pustular dermatosis,3,3
+Subdural haemorrhage,3,3
+Suffocation feeling,3,3
+Synovial cyst,3,3
+Systemic immune activation,3,3
+Tachyarrhythmia,3,3
+Takayasu's arteritis,3,3
+Tendon disorder,3,3
+Tendonitis,3,3
+Tension headache,3,3
+Tertiary adrenal insufficiency,3,3
+Testicular pain,3,3
+Testicular swelling,3,3
+Therapy responder,3,3
+Thermal burn,3,3
+Thrombosis in device,3,3
+Thrombotic cerebral infarction,3,3
+Thrombotic stroke,3,3
+Tinea pedis,3,3
+Tonsil cancer,3,3
+Tooth abscess,3,3
+Tooth extraction,3,3
+Tracheal haemorrhage,3,3
+Tracheal obstruction,3,3
+Tracheo-oesophageal fistula,3,3
+Transcatheter arterial chemoembolisation,3,3
+Transient acantholytic dermatosis,3,3
+Traumatic fracture,3,3
+Traumatic lung injury,3,3
+Traumatic subarachnoid haemorrhage,3,3
+Tri-iodothyronine free decreased,3,3
+Tryptase increased,3,3
+Tumour marker abnormal,3,3
+Ulcerative duodenitis,3,3
+Umbilical hernia,3,3
+Urge incontinence,3,3
+Urinary bladder atrophy,3,3
+Urinary tract infection staphylococcal,3,3
+Urine output decreased,3,3
+Urticaria pigmentosa,3,3
+Varicella zoster virus infection,3,3
+Vascular occlusion,3,3
+Vascular pseudoaneurysm ruptured,3,3
+Vascular stent thrombosis,3,3
+Vena cava embolism,3,3
+Ventricular arrhythmia,3,3
+Vitamin D decreased,3,3
+Vitreous haemorrhage,3,3
+Vocal cord disorder,3,3
+Vulvitis,3,3
+Vulvovaginal burning sensation,3,3
+Weight abnormal,3,3
+White blood cells urine positive,3,3
+White matter lesion,3,3
+Wound infection,3,3
+Wound secretion,3,3
+Xerophthalmia,3,3
+Xerosis,3,3
+Abdominal neoplasm,2,2
+Abortion induced,2,2
+Abortion late,2,2
+Abscess drainage,5,2
+Accident,2,2
+Acquired amegakaryocytic thrombocytopenia,2,2
+Acquired diaphragmatic eventration,2,2
+Acute disseminated encephalomyelitis,2,2
+Acute graft versus host disease,2,2
+Acute graft versus host disease in intestine,2,2
+Acute lung injury,2,2
+Adhesion,2,2
+Adjustment disorder,2,2
+Adrenal adenoma,2,2
+Adrenal gland cancer,2,2
+Adrenal haemorrhage,2,2
+Adrenal mass,2,2
+Adrenalectomy,2,2
+Age-related macular degeneration,2,2
+Aldolase increased,2,2
+Allergic bronchopulmonary mycosis,2,2
+Alloimmune hepatitis,2,2
+Amaurosis fugax,2,2
+Amenorrhoea,2,2
+Ammonia abnormal,2,2
+Amyloidosis,2,2
+Anaemia of malignant disease,2,2
+Anaemia postoperative,2,2
+Anal fissure haemorrhage,2,2
+Anastomotic stenosis,2,2
+Androgen deficiency,2,2
+Angioplasty,2,2
+Anorectal discomfort,2,2
+Anorectal disorder,2,2
+Anti-neuronal antibody,2,2
+Antibiotic associated colitis,2,2
+Antibody test positive,2,2
+Antinuclear antibody increased,2,2
+Aortic aneurysm rupture,2,2
+Aortic disorder,2,2
+Aortic perforation,2,2
+Aortic wall hypertrophy,2,2
+Arterial injury,2,2
+Artery dissection,2,2
+Arthritis reactive,2,2
+Aspartate aminotransferase decreased,2,2
+Aspiration pleural cavity,2,2
+Asthenopia,2,2
+Asthmatic crisis,2,2
+Atypical parkinsonism,2,2
+Autoimmune neuropathy,2,2
+Autoimmune neutropenia,2,2
+B-cell lymphoma,2,2
+BK virus infection,2,2
+Bacillus infection,2,2
+Back injury,2,2
+Bacterial diarrhoea,2,2
+Bacterial vaginosis,2,2
+Balanoposthitis,2,2
+Base excess decreased,2,2
+Bile acids increased,2,2
+Biliary catheter insertion,2,2
+Biliary cyst,2,2
+Biliary fistula,2,2
+Bladder outlet obstruction,2,2
+Bladder transitional cell carcinoma recurrent,2,2
+Blood albumin increased,2,2
+Blood beta-D-glucan increased,2,2
+Blood beta-D-glucan positive,2,2
+Blood bicarbonate decreased,2,2
+Blood bilirubin decreased,2,2
+Blood chloride abnormal,2,2
+Blood cholinesterase decreased,2,2
+Blood creatine abnormal,2,2
+Blood creatine decreased,2,2
+Blood fibrinogen increased,2,2
+Blood insulin increased,2,2
+Blood ketone body,2,2
+Blood magnesium increased,2,2
+Blood phosphorus abnormal,2,2
+Blood pressure immeasurable,2,2
+Blood pressure measurement,2,2
+Blood prolactin decreased,2,2
+Blood thyroid stimulating hormone,2,2
+Blood urea abnormal,2,2
+Blood uric acid decreased,2,2
+Body fat disorder,2,2
+Body mass index increased,2,2
+Bone development abnormal,2,2
+Bone loss,2,2
+Bowel movement irregularity,2,2
+Bowen's disease,2,2
+Brachytherapy to vagina,3,2
+Brain cancer metastatic,2,2
+Brain compression,2,2
+Brain herniation,2,2
+Brain natriuretic peptide decreased,2,2
+Brain operation,2,2
+Brain stem haemorrhage,2,2
+Brain stem infarction,2,2
+Breast cyst,2,2
+Breast operation,2,2
+Breast tenderness,2,2
+Bronchial hyperreactivity,2,2
+Bronchitis chronic,2,2
+Budd-Chiari syndrome,2,2
+Bundle branch block,2,2
+C3 glomerulopathy,2,2
+CSF test abnormal,2,2
+Calculus urinary,2,2
+Campylobacter infection,2,2
+Candida sepsis,2,2
+Cardiac ablation,2,2
+Cardiac function disturbance postoperative,2,2
+Cardiomyopathy acute,2,2
+Carotid arteriosclerosis,2,2
+Carotid artery occlusion,2,2
+Cataract operation,2,2
+Catheter site extravasation,2,2
+Central nervous system lupus,2,2
+Cerebellar infarction,2,2
+Cerebellar stroke,2,2
+Cerebral artery stenosis,2,2
+Cerebral haematoma,2,2
+Cerebral microhaemorrhage,2,2
+Cerebral radiation injury,2,2
+Cerebral small vessel ischaemic disease,3,2
+Cerebrospinal fluid leakage,2,2
+Cervical vertebral fracture,2,2
+Chest X-ray abnormal,2,2
+Cholangiostomy,2,2
+Cholecystitis infective,2,2
+Cholelithiasis obstructive,2,2
+Choroidal effusion,2,2
+Choroidal neovascularisation,2,2
+Chronic pigmented purpura,2,2
+Clubbing,2,2
+Coagulation time prolonged,2,2
+Cold-stimulus headache,2,2
+Collateral circulation,2,2
+Colon operation,2,2
+Colonic fistula,2,2
+Colony stimulating factor therapy,2,2
+Colorectal cancer,2,2
+Colorectal cancer recurrent,2,2
+Colour blindness acquired,2,2
+Computerised tomogram abdomen abnormal,2,2
+Computerised tomogram kidney abnormal,2,2
+Computerised tomogram pelvis abnormal,2,2
+Computerised tomogram thorax abnormal,2,2
+Contact stomatitis,2,2
+Cor pulmonale,2,2
+Corneal disorder,2,2
+Coronary artery embolism,2,2
+Craniocerebral injury,2,2
+Creatinine renal clearance decreased,2,2
+Cutaneous lymphoma,2,2
+Cyanosis central,2,2
+Cystitis interstitial,2,2
+Cystitis klebsiella,2,2
+Cystitis noninfective,2,2
+Cytomegalovirus gastrointestinal ulcer,2,2
+Cytotoxic lesions of corpus callosum,2,2
+Deafness unilateral,2,2
+Death of relative,2,2
+Defect conduction intraventricular,2,2
+Degenerative bone disease,2,2
+Dementia with Lewy bodies,2,2
+Dental care,2,2
+Dental operation,2,2
+Dermatitis diaper,2,2
+Device leakage,2,2
+Device use error,2,2
+Diabetic coma,2,2
+Diabetic hyperosmolar coma,2,2
+Diabetic ketoacidotic hyperglycaemic coma,2,2
+Diaphragmatic disorder,2,2
+Diastasis recti abdominis,2,2
+Diffuse large B-cell lymphoma,2,2
+Dilatation atrial,2,2
+Discoloured vomit,2,2
+Diverticulum,2,2
+Dizziness exertional,2,2
+Dorsal root ganglionopathy,2,2
+Drain site complication,2,2
+Drainage,2,2
+Drug dose omission by device,2,2
+Drug level decreased,2,2
+Drug level increased,2,2
+Drug resistance mutation,2,2
+Dyshidrotic eczema,2,2
+Echocardiogram abnormal,2,2
+Electrocardiogram QRS complex prolonged,2,2
+Electrocardiogram ST-T segment abnormal,2,2
+Electrocardiogram T wave peaked,2,2
+Electroencephalogram abnormal,2,2
+Embolia cutis medicamentosa,2,2
+Embolic cerebellar infarction,2,2
+Embolic cerebral infarction,2,2
+Encephalitis herpes,2,2
+Encephalitis influenzal,2,2
+Endometrial adenocarcinoma,2,2
+Endometrial cancer metastatic,2,2
+Enterobacter pneumonia,2,2
+Enterobacter sepsis,2,2
+Enterostomy,2,2
+Enterovesical fistula,2,2
+Enzyme abnormality,2,2
+Eosinophilic cholangitis,2,2
+Eosinophilic pneumonia chronic,2,2
+Epidermolysis,2,2
+Epstein-Barr virus associated lymphoproliferative disorder,2,2
+Epstein-Barr virus infection reactivation,2,2
+Erosive oesophagitis,2,2
+Erosive pustular dermatosis,2,2
+Excessive eye blinking,2,2
+Excessive granulation tissue,2,2
+Exposure during pregnancy,2,2
+Exposure to SARS-CoV-2,2,2
+Extraocular muscle disorder,2,2
+Eye oedema,2,2
+Eye symptom,2,2
+Eyelid function disorder,2,2
+Faecal calprotectin abnormal,2,2
+Fanconi syndrome acquired,2,2
+Fat necrosis,2,2
+Fear of death,2,2
+Fear of injection,2,2
+Fibrillary glomerulonephritis,2,2
+Fibrocystic breast disease,2,2
+Fibromyalgia,2,2
+Flap surgery,2,2
+Focal dyscognitive seizures,2,2
+Focal peritonitis,2,2
+Focal segmental glomerulosclerosis,2,2
+Foetal exposure during pregnancy,2,2
+Follicular lymphoma,2,2
+Foreign body sensation in eyes,2,2
+Frontotemporal dementia,2,2
+Full blood count increased,2,2
+Gallbladder fistula,2,2
+Gallbladder oedema,2,2
+Gamma radiation therapy,2,2
+Gastric dilatation,2,2
+Gastric mucosal lesion,2,2
+Gastric neoplasm,2,2
+Gastrointestinal carcinoma,2,2
+Gastrointestinal fistula,2,2
+Gastrointestinal fungal infection,2,2
+Gastrointestinal ischaemia,2,2
+Gastrointestinal microorganism overgrowth,2,2
+Gastrointestinal obstruction,2,2
+Gastrointestinal vascular malformation haemorrhagic,2,2
+General anaesthesia,2,2
+Generalised bullous fixed drug eruption,2,2
+Generalised pustular psoriasis,2,2
+Genital abscess,2,2
+Genital blister,2,2
+Genital herpes,2,2
+Genital infection fungal,2,2
+Genital pain,2,2
+Gingival blister,2,2
+Gingival ulceration,2,2
+Glioma,2,2
+Gliosis,2,2
+Glomerular filtration rate increased,2,2
+Glomerulonephritis acute,2,2
+Glomerulonephritis membranous,2,2
+Graft loss,2,2
+Graft versus host disease in skin,2,2
+Growth hormone deficiency,2,2
+HER2 positive salivary gland cancer,2,2
+Haemangioma of skin,2,2
+Haematocrit abnormal,2,2
+Haematological malignancy,2,2
+Haematology test abnormal,2,2
+Haematoma muscle,2,2
+Haemolytic uraemic syndrome,2,2
+Haemorrhage subcutaneous,2,2
+Haemorrhagic erosive gastritis,2,2
+"Hallucination, auditory",2,2
+Hand-foot-and-mouth disease,2,2
+Heat stroke,2,2
+Helicobacter test positive,2,2
+Hepatic artery thrombosis,2,2
+Hepatic cancer recurrent,2,2
+Hepatic hypertrophy,2,2
+Hepatic vascular thrombosis,2,2
+Hepatic vein thrombosis,2,2
+Hepatitis D,2,2
+Hepatitis alcoholic,2,2
+Hereditary non-polyposis colorectal cancer syndrome,2,2
+Hip surgery,2,2
+Hydrocele,2,2
+Hydroureter,2,2
+Hyperacusis,2,2
+Hyperadrenalism,2,2
+Hyperaesthesia teeth,2,2
+Hyperchlorhydria,2,2
+Hypercreatininaemia,2,2
+Hyperferritinaemia,2,2
+Hyperlipidaemia,2,2
+Hyperplastic cholecystopathy,2,2
+Hypertensive encephalopathy,2,2
+Hypertensive urgency,2,2
+Hypocoagulable state,2,2
+Hypothalamic pituitary adrenal axis suppression,2,2
+Hypothyroid myopathy,2,2
+Hypothyroidic goitre,2,2
+Hypoventilation,2,2
+Hypozincaemia,2,2
+Idiopathic pulmonary fibrosis,2,2
+Ileal perforation,2,2
+Imaging procedure abnormal,2,2
+Immune-mediated polyserositis,2,2
+Implant site necrosis,2,2
+Incision site impaired healing,2,2
+Incisional hernia,2,2
+Increased need for sleep,2,2
+Increased tendency to bruise,2,2
+Infected cyst,2,2
+Infective exacerbation of chronic obstructive airways disease,2,2
+Infective spondylitis,2,2
+Infusion,2,2
+Infusion related hypersensitivity reaction,2,2
+Infusion site cellulitis,2,2
+Infusion site haemorrhage,2,2
+Infusion site vesicles,2,2
+Injection site discharge,2,2
+Injection site erythema,2,2
+Injection site extravasation,2,2
+Injection site necrosis,2,2
+Injection site pruritus,2,2
+Insulin resistance,2,2
+Intellectual disability,2,2
+Intercepted product administration error,2,2
+Intercepted product prescribing error,2,2
+Intercostal neuralgia,2,2
+Internal hernia,2,2
+International normalised ratio abnormal,2,2
+Intervertebral disc compression,2,2
+Intestinal stenosis,2,2
+Intravascular haemolysis,2,2
+Ischaemic cerebral infarction,2,2
+JC virus infection,2,2
+Jaw disorder,2,2
+Joint destruction,2,2
+Joint dislocation,2,2
+Joint injury,2,2
+Joint lock,2,2
+Kaposi's sarcoma,2,2
+Keratouveitis,2,2
+Kidney fibrosis,2,2
+Kidney rupture,2,2
+Klebsiella test positive,2,2
+Kyphosis,2,2
+Labelled drug-drug interaction issue,2,2
+Lambl's excrescences,2,2
+Large cell lung cancer metastatic,2,2
+Laryngeal disorder,2,2
+Laryngeal dyskinesia,2,2
+Laryngeal haematoma,2,2
+Laryngeal inflammation,2,2
+Laryngeal obstruction,2,2
+Laryngeal pain,2,2
+Latent autoimmune diabetes in adults,2,2
+Laziness,2,2
+Leukoplakia,2,2
+Ligament sprain,2,2
+Lip disorder,2,2
+Lip pain,2,2
+Lipase,2,2
+Living alone,2,2
+Lower gastrointestinal perforation,2,2
+Lower urinary tract symptoms,2,2
+Lumbar puncture,2,2
+Lung adenocarcinoma stage III,2,2
+Lung carcinoma cell type unspecified stage IV,2,2
+Lung operation,2,2
+Lung squamous cell carcinoma recurrent,2,2
+Lyme disease,2,2
+Lymphangiopathy,2,2
+Lymphangitis,2,2
+Lymphatic disorder,2,2
+Lymphomatoid papulosis,2,2
+Lymphoproliferative disorder,2,2
+Macular degeneration,2,2
+Macular detachment,2,2
+Major depression,2,2
+Malignant glioma,2,2
+Malignant mesenteric neoplasm,2,2
+Malignant neoplasm of unknown primary site,2,2
+Mean cell haemoglobin concentration decreased,2,2
+Mechanical ileus,2,2
+Mediastinal lymphadenectomy,2,2
+Meniere's disease,2,2
+Meningism,2,2
+Meningitis noninfective,2,2
+Meningoencephalitis viral,2,2
+Menometrorrhagia,2,2
+Merkel cell polyomavirus infection,2,2
+Mesenteric vein thrombosis,2,2
+Metamorphopsia,2,2
+Metaplasia,2,2
+Metastases to abdominal wall,2,2
+Metastases to bone marrow,2,2
+Metastases to heart,2,2
+Metastases to retroperitoneum,2,2
+Metastases to stomach,2,2
+Metastases to the mediastinum,2,2
+Metastatic gastric cancer,2,2
+Micrographic skin surgery,2,2
+Mitral valve thickening,2,2
+Monocyte percentage increased,2,2
+Mononeuritis,2,2
+Mononucleosis syndrome,2,2
+Mucormycosis,2,2
+Mucous stools,2,2
+Multifocal motor neuropathy,2,2
+Multisystem inflammatory syndrome,2,2
+Muscle strain,2,2
+Mydriasis,2,2
+Myelodysplastic syndrome with multilineage dysplasia,2,2
+Myelopathy,2,2
+Myocardial rupture,2,2
+Nasal injury,2,2
+Necrotising colitis,2,2
+Necrotising myositis,2,2
+Neonatal diabetes mellitus,2,2
+Nephrocalcinosis,2,2
+Nephrogenic diabetes insipidus,2,2
+Nervousness,2,2
+Neurodermatitis,2,2
+Neuroendocrine tumour of the lung,2,2
+Neurogenic bowel,2,2
+Neutrophil percentage decreased,2,2
+Neutrophil percentage increased,2,2
+Nikolsky's sign positive,2,2
+Non-Hodgkin's lymphoma,2,2
+Non-cardiogenic pulmonary oedema,2,2
+Nonspecific reaction,2,2
+Normochromic anaemia,2,2
+Normochromic normocytic anaemia,2,2
+Nosocomial infection,2,2
+Occupational exposure to product,2,2
+Oedema due to hepatic disease,2,2
+Oedema mouth,2,2
+Oedema mucosal,2,2
+Oesophageal compression,2,2
+Oesophageal fistula,2,2
+Oesophageal mass,2,2
+Oesophageal pain,2,2
+Oesophageal squamous cell carcinoma,2,2
+Oesophageal squamous cell carcinoma recurrent,2,2
+Oesophageal ulcer haemorrhage,2,2
+Onychalgia,2,2
+Ophthalmic migraine,2,2
+Opsoclonus myoclonus,2,2
+Optic nerve disorder,2,2
+Oral dysaesthesia,2,2
+Oral mucosal roughening,2,2
+Orbital oedema,2,2
+Organ failure,2,2
+Oropharyngeal squamous cell carcinoma,2,2
+Osteitis,2,2
+Osteoporotic fracture,2,2
+Osteoradionecrosis,2,2
+Osteosclerosis,2,2
+Ovarian cancer metastatic,2,2
+Overweight,2,2
+Pachymeningitis,2,2
+Palatal disorder,2,2
+Pancreas infection,2,2
+Pancreatic cyst,2,2
+Pancreatic duct dilatation,2,2
+Pancreatic injury,2,2
+Pancreatic toxicity,2,2
+Pancreatitis chronic,2,2
+Pancreatitis relapsing,2,2
+Paraneoplastic retinopathy,2,2
+Paratracheal lymphadenopathy,2,2
+Paresis,2,2
+Particle therapy,2,2
+Pelvic infection,2,2
+Pelvic inflammatory disease,2,2
+Penile cancer,2,2
+Penile erosion,2,2
+Pericardial disease,2,2
+Periorbital oedema,2,2
+Peripheral blood stem cell apheresis,2,2
+Peripheral vascular disorder,2,2
+Peritoneal thickening,2,2
+Phonophobia,2,2
+Phrenic nerve paralysis,2,2
+Pituitary apoplexy,2,2
+Pituitary enlargement,2,2
+Pleural adhesion,2,2
+Pleural neoplasm,2,2
+Pleuritic pain,2,2
+Pleurodesis,2,2
+Pneumocystis test positive,2,2
+Pneumonia chlamydial,2,2
+Pneumonia cryptococcal,2,2
+Pneumonia necrotising,2,2
+Pneumonitis aspiration,2,2
+Poor quality product administered,2,2
+Portal vein dilatation,2,2
+Portal vein embolism,2,2
+Portosplenomesenteric venous thrombosis,2,2
+Post procedural bile leak,2,2
+Post procedural diarrhoea,2,2
+Post procedural fistula,2,2
+Post procedural inflammation,2,2
+Post procedural pneumonia,2,2
+Post procedural sepsis,2,2
+Post thrombotic syndrome,2,2
+Postoperative care,2,2
+Postural tremor,2,2
+Posture abnormal,2,2
+Prinzmetal angina,2,2
+Procalcitonin abnormal,2,2
+Procalcitonin decreased,2,2
+Procedural complication,2,2
+Proctitis ulcerative,2,2
+Product administered at inappropriate site,2,2
+Product administration error,2,2
+Product colour issue,2,2
+Product container issue,2,2
+Product packaging quantity issue,2,2
+Product physical consistency issue,2,2
+Product size issue,2,2
+Prostatic abscess,2,2
+Prostatic calcification,2,2
+Prostatic specific antigen increased,2,2
+Prosthetic cardiac valve regurgitation,2,2
+Protein deficiency,2,2
+Prothrombin level decreased,2,2
+Pseudopapilloedema,2,2
+Pulmonary arterial pressure increased,2,2
+Pulmonary artery dilatation,2,2
+Pulmonary necrosis,2,2
+Pulmonary pneumatocele,2,2
+Pulmonary tumour thrombotic microangiopathy,2,2
+Pulmonary vascular disorder,2,2
+Pulmonary venous thrombosis,2,2
+Punctate keratitis,2,2
+Pyelocaliectasis,2,2
+Pyoderma,2,2
+Radiation associated pain,2,2
+Radiation fibrosis,2,2
+Radiation fibrosis - lung,2,2
+Radiation hepatitis,2,2
+Radiation mucositis,2,2
+Radiochemotherapy,2,2
+Radioembolisation,2,2
+Radiotherapy to lung,2,2
+Reactive capillary endothelial proliferation,2,2
+Refeeding syndrome,2,2
+Regurgitation,2,2
+Renal abscess,2,2
+Renal colic,2,2
+Renal haemorrhage,2,2
+Renal papillary necrosis,2,2
+Respiratory paralysis,2,2
+Respiratory rate decreased,2,2
+Respiratory symptom,2,2
+Respiratory tract inflammation,2,2
+Respiratory tract irritation,2,2
+Resuscitation,2,2
+Reticulocyte count increased,2,2
+Retinal artery thrombosis,2,2
+Retinal vascular disorder,2,2
+Retinal vein occlusion,2,2
+Retinitis,2,2
+Retinopathy hypertensive,2,2
+Retrograde amnesia,2,2
+Retroperitoneal mass,2,2
+Reversible cerebral vasoconstriction syndrome,2,2
+Rheumatoid factor,2,2
+Rhodococcus infection,2,2
+Sacroiliitis,2,2
+Saliva altered,3,2
+Salivary gland disorder,2,2
+Salmonella sepsis,2,2
+Salmonellosis,2,2
+Sarcoma,2,2
+Scleral haematoma,2,2
+Scleromalacia,2,2
+Screaming,2,2
+Scrotal cellulitis,2,2
+Seborrhoeic dermatitis,2,2
+Sedation,2,2
+Seizure like phenomena,2,2
+Septic embolus,2,2
+Serous retinopathy,2,2
+Shoulder operation,2,2
+Shunt infection,2,2
+Sinus congestion,2,2
+Skin graft detachment,2,2
+Skin haemorrhage,2,2
+Skin hypopigmentation,2,2
+Skin lesion inflammation,2,2
+Skin neoplasm excision,2,2
+Skin oedema,2,2
+Skin squamous cell carcinoma metastatic,2,2
+Skin squamous cell carcinoma recurrent,2,2
+Skin swelling,2,2
+Skin test positive,2,2
+Skin turgor decreased,2,2
+Sleep apnoea syndrome,2,2
+Sleep deficit,2,2
+"Sleep disorder due to general medical condition, insomnia type",2,2
+Slipping rib syndrome,2,2
+Sneezing,2,2
+Soft tissue inflammation,2,2
+Spinal column injury,2,2
+Spinal cord infarction,2,2
+Spinal fusion surgery,2,2
+Spinal laminectomy,2,2
+Splenic haemorrhage,2,2
+Spondylitis,2,2
+Spondylolisthesis,2,2
+Sputum abnormal,2,2
+Squamous cell carcinoma of the oral cavity,2,2
+Squamous cell carcinoma of the vulva,2,2
+Stenotrophomonas test positive,2,2
+Stent malfunction,2,2
+Stiff person syndrome,2,2
+Still's disease,2,2
+Stoma care,2,2
+Stoma creation,2,2
+Stoma prolapse,2,2
+Stoma site haemorrhage,2,2
+Stoma site infection,2,2
+Strongyloidiasis,2,2
+Subclavian artery stenosis,2,2
+Subclavian vein thrombosis,2,2
+Subileus,2,2
+Submaxillary gland enlargement,2,2
+Sudden cardiac death,2,2
+Sunburn,2,2
+Superficial inflammatory dermatosis,2,2
+Supportive care,2,2
+Surfactant protein increased,2,2
+Suspected product quality issue,2,2
+Suspected suicide,2,2
+Suture rupture,2,2
+Symmetrical drug-related intertriginous and flexural exanthema,2,2
+Symptom recurrence,2,2
+Syringe issue,2,2
+Systemic mycosis,2,2
+TP53 gene mutation,2,2
+Temporal lobe epilepsy,2,2
+Tendon pain,2,2
+Tendon rupture,2,2
+Testicular abscess,2,2
+Testicular disorder,2,2
+Thalamic infarction,2,2
+Therapeutic procedure,2,2
+Therapeutic response delayed,2,2
+Therapeutic response shortened,2,2
+Thoracic operation,2,2
+Throat lesion,2,2
+Thymus enlargement,2,2
+Thyroid atrophy,2,2
+Thyroiditis acute,2,2
+Thyroxine abnormal,2,2
+Thyroxine free abnormal,2,2
+Tongue atrophy,2,2
+Tongue coated,2,2
+Tongue discolouration,2,2
+Tongue erosion,2,2
+Tongue neoplasm malignant stage unspecified,2,2
+Tooth fracture,2,2
+Torsade de pointes,2,2
+Toxic neuropathy,2,2
+Toxic nodular goitre,2,2
+Transferrin saturation decreased,2,2
+Traumatic haemorrhage,2,2
+Traumatic haemothorax,2,2
+Tri-iodothyronine free increased,2,2
+Trismus,2,2
+Troponin I abnormal,2,2
+Tuberculous pleurisy,2,2
+Tumour cavitation,2,2
+Tumour compression,2,2
+Tumour fistulisation,2,2
+Tumour inflammation,2,2
+Ultrasound breast abnormal,2,2
+Underweight,2,2
+Unintentional medical device removal,2,2
+Unmasking of previously unidentified disease,2,2
+Upper respiratory tract infection bacterial,3,2
+Upper respiratory tract inflammation,2,2
+Upper-airway cough syndrome,2,2
+Urinary fistula,2,2
+Urinary tract candidiasis,2,2
+Urinary tract infection enterococcal,2,2
+Urine abnormality,2,2
+Urine osmolarity increased,2,2
+Urticaria papular,2,2
+VIth nerve paresis,2,2
+Vaccination site erythema,2,2
+Vaccination site pain,2,2
+Vaccination site swelling,2,2
+Vaginal cancer metastatic,2,2
+Vaginal mucosal blistering,2,2
+Vaginal prolapse,2,2
+Varicocele,2,2
+Vascular fragility,2,2
+Vascular graft infection,2,2
+Vascular insufficiency,2,2
+Vascular neoplasm,2,2
+Vascular purpura,2,2
+Vasodilatation,2,2
+Vestibular neuronitis,2,2
+Viraemia,2,2
+Vital functions abnormal,2,2
+Vocal cord thickening,2,2
+Volvulus,2,2
+Vomiting projectile,2,2
+Vomiting psychogenic,2,2
+Vulval cancer recurrent,2,2
+Vulvovaginal mycotic infection,2,2
+Vulvovaginal swelling,2,2
+Vulvovaginal ulceration,2,2
+Warm autoimmune haemolytic anaemia,2,2
+Wisdom teeth removal,2,2
+Wound haemorrhage,2,2
+X-ray limb abnormal,2,2
+Zinc deficiency,2,2
+ACTH-producing pituitary tumour,1,1
+AST/ALT ratio increased,1,1
+Abdominal cavity drainage,1,1
+Abdominal injury,1,1
+Abdominal operation,1,1
+Abdominal tenderness,1,1
+Abdominal wall abscess,1,1
+Abdominal wall disorder,1,1
+Abdominal wall haematoma,1,1
+Abdominal wall haemorrhage,1,1
+Abdominal wall pain,1,1
+Abdominal wall wound,1,1
+Abdominal wound dehiscence,1,1
+Abnormal clotting factor,1,1
+Abnormal dreams,1,1
+Abortion early,1,1
+Abscess jaw,1,1
+Abscess oral,1,1
+Abscess rupture,1,1
+Abulia,1,1
+Acanthosis,1,1
+Acanthosis nigricans,1,1
+Accident at home,1,1
+Acetabulum fracture,1,1
+Achromobacter infection,1,1
+Acinar cell carcinoma of pancreas,1,1
+Acinetobacter bacteraemia,1,1
+Acinetobacter infection,1,1
+Acquired factor V deficiency,1,1
+Acquired generalised lipodystrophy,1,1
+Acquired hydrocele,1,1
+Acquired oesophageal web,1,1
+Acquired perforating dermatosis,1,1
+Acquired phimosis,1,1
+Acquired syringomyelia,1,1
+Activated partial thromboplastin time ratio decreased,1,1
+Activated partial thromboplastin time shortened,1,1
+Activities of daily living assessment,1,1
+Acute haemorrhagic ulcerative colitis,1,1
+Acute left ventricular failure,1,1
+Acute monocytic leukaemia,1,1
+Adenocarcinoma pancreas,1,1
+Adenosine deaminase increased,2,1
+Adenosis sclerosing,1,1
+Adenosquamous cell lung cancer stage IV,1,1
+Adenoviral conjunctivitis,1,1
+Administration site bruise,1,1
+Administration site reaction,1,1
+Adrenal gland cancer metastatic,1,1
+Adrenal gland injury,1,1
+Adrenal suppression,1,1
+Affective disorder,1,1
+Agnosia,1,1
+Airway compression,1,1
+Akinesia,1,1
+Albumin globulin ratio decreased,1,1
+Albumin urine present,1,1
+Alcohol poisoning,1,1
+Alcohol use,1,1
+Alcohol use disorder,1,1
+Alkalinuria,1,1
+Alkalosis,1,1
+Allergic cough,1,1
+Allergic transfusion reaction,1,1
+Allergy to surgical sutures,1,1
+Allodynia,1,1
+Alopecia universalis,1,1
+Alpha 1 foetoprotein decreased,1,1
+Alternaria infection,1,1
+Amblyopia,1,1
+Amegakaryocytic thrombocytopenia,1,1
+Amino acid level increased,1,1
+Ammonia decreased,1,1
+Amoebic dysentery,1,1
+Amputation,1,1
+Amylase,1,1
+Amylase abnormal,1,1
+Amylase decreased,1,1
+Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits,1,1
+Anaemia folate deficiency,1,1
+Anaemia of chronic disease,1,1
+Anaemic hypoxia,1,1
+Anal infection,1,1
+Anal inflammation,1,1
+Anal pruritus,1,1
+Anal squamous cell carcinoma,1,1
+Analgesic therapy,1,1
+Anaplastic thyroid cancer,1,1
+Anastomotic ulcer,1,1
+Aneurysm ruptured,1,1
+Angiodysplasia,1,1
+Angiopathic neuropathy,1,1
+Angiotensin converting enzyme increased,1,1
+Anion gap decreased,1,1
+Anion gap increased,1,1
+Anisocytosis,1,1
+Anorectal herpes,1,1
+Anorectal varices,1,1
+Anterior chamber disorder,1,1
+Anterior spinal artery syndrome,1,1
+Anti-GAD antibody positive,1,1
+Anti-insulin antibody positive,1,1
+Antibiotic therapy,1,1
+Antibody test abnormal,1,1
+Anticachectic therapy,1,1
+Anticoagulant therapy,1,1
+Antineutrophil cytoplasmic antibody positive,1,1
+Antinuclear antibody positive,1,1
+Antithrombin III decreased,1,1
+Aortic dilatation,1,1
+Aortic valve disease,1,1
+Aorticopulmonary septal defect,1,1
+Appendix disorder,1,1
+Application site cellulitis,1,1
+Application site movement impairment,1,1
+Application site pain,1,1
+Application site swelling,1,1
+Arachnoid cyst,1,1
+Arrhythmia supraventricular,1,1
+Arterial rupture,1,1
+Arterial stent insertion,1,1
+Arterial therapeutic procedure,1,1
+Arterioenteric fistula,1,1
+Arthritis enteropathic,1,1
+Arthritis infective,1,1
+Arthropod bite,1,1
+Arthrotoxicity,1,1
+Ascariasis,1,1
+Aspiration bone marrow abnormal,1,1
+Astrocytoma malignant,1,1
+Atopy,1,1
+Atrial enlargement,1,1
+Atrial tachycardia,1,1
+Atrophic thyroiditis,1,1
+Attention deficit hyperactivity disorder,1,1
+Atypical lymphocytes increased,1,1
+Atypical mycobacterium test positive,1,1
+Autism spectrum disorder,1,1
+Autoantibody positive,1,1
+Autoimmune aplastic anaemia,1,1
+Autoimmune blistering disease,1,1
+Autoimmune cerebellar ataxia,1,1
+Autoimmune endocrine disorder,1,1
+Autoimmune eye disorder,1,1
+Autoimmune pancytopenia,1,1
+Autoimmune uveitis,1,1
+Aversion,1,1
+Axillary mass,1,1
+Axillary vein thrombosis,1,1
+Axonal neuropathy,1,1
+B-cell type acute leukaemia,1,1
+B-lymphocyte count decreased,1,1
+BRAF V600E mutation positive,1,1
+BRAF gene mutation,1,1
+BRCA1 gene mutation,1,1
+BRCA2 gene mutation,1,1
+Bacillus Calmette-Guerin infection,1,1
+Bacillus test positive,1,1
+Bacterial colitis,1,1
+Band neutrophil percentage decreased,1,1
+Barrett's oesophagus,1,1
+Basal cell carcinoma metastatic,1,1
+Basal ganglia stroke,1,1
+Basophil percentage increased,1,1
+Benign breast neoplasm,1,1
+Benign neoplasm of thyroid gland,1,1
+Beta 2 microglobulin increased,1,1
+Bezoar,1,1
+Bile duct necrosis,1,1
+Biliary colic,1,1
+Biliary dyskinesia,1,1
+Biliary sepsis,1,1
+Bilirubin conjugated abnormal,1,1
+Biloma,1,1
+Biopsy,1,1
+Biopsy bone marrow abnormal,1,1
+Bladder adenocarcinoma recurrent,1,1
+Bladder cancer stage II,1,1
+Bladder cancer stage IV,1,1
+Bladder dilatation,1,1
+Bladder injury,1,1
+Bladder neoplasm surgery,1,1
+Bladder obstruction,1,1
+Bladder pain,1,1
+Bladder papilloma,1,1
+Bladder sphincter atony,1,1
+Bladder squamous cell carcinoma stage unspecified,1,1
+Blast cell count increased,1,1
+Blast cells present,1,1
+Blastocystis infection,1,1
+Blindness cortical,1,1
+Blindness transient,1,1
+Blister rupture,1,1
+Blood alkaline phosphatase abnormal,1,1
+Blood antidiuretic hormone abnormal,1,1
+Blood calcium abnormal,1,1
+Blood cholesterol abnormal,1,1
+Blood cortisol,1,1
+Blood creatinine,1,1
+Blood electrolytes increased,1,1
+Blood fibrinogen abnormal,1,1
+Blood fibrinogen decreased,1,1
+Blood follicle stimulating hormone increased,1,1
+Blood homocysteine increased,1,1
+Blood immunoglobulin A increased,1,1
+Blood immunoglobulin E abnormal,1,1
+Blood immunoglobulin G decreased,1,1
+Blood insulin decreased,1,1
+Blood ketone body increased,1,1
+Blood lactic acid,1,1
+Blood lactic acid decreased,1,1
+Blood osmolarity decreased,1,1
+Blood pressure orthostatic increased,1,1
+Blood pressure systolic abnormal,1,1
+Blood prolactin increased,1,1
+Blood testosterone decreased,1,1
+Blood triglycerides abnormal,1,1
+Blood zinc decreased,1,1
+Blue toe syndrome,1,1
+Body dysmorphic disorder,1,1
+Body surface area decreased,1,1
+Body surface area increased,1,1
+Bone cyst,1,1
+Bone density abnormal,1,1
+Bone density decreased,1,1
+Bone infarction,1,1
+Bone marrow infiltration,1,1
+Bone marrow leukaemic cell infiltration,1,1
+Bone marrow transplant,1,1
+Bone marrow tumour cell infiltration,1,1
+Bone sequestrum,1,1
+Borrelia test positive,1,1
+Brachial plexopathy,1,1
+Brachiocephalic vein thrombosis,1,1
+Brachytherapy,1,1
+Brachytherapy to uterus,2,1
+Brain natriuretic peptide,1,1
+Brain neoplasm malignant,1,1
+Breast cancer female,1,1
+Breast cancer stage III,1,1
+Breast discharge,1,1
+Breast dysplasia,1,1
+Breast hyperplasia,1,1
+Breast inflammation,1,1
+Breast oedema,1,1
+Breath sounds absent,1,1
+Brevibacterium infection,1,1
+Bronchial carcinoma,1,1
+Bronchial disorder,1,1
+Bronchial obstruction,1,1
+Bronchial secretion retention,1,1
+Bronchopleural fistula,1,1
+Brucellosis,1,1
+Bullous haemorrhagic dermatosis,1,1
+Bundle branch block bilateral,1,1
+Burkholderia pseudomallei infection,1,1
+Buttock injury,1,1
+C-telopeptide decreased,1,1
+CD4 lymphocytes decreased,1,1
+Calcium metabolism disorder,1,1
+Calculus bladder,1,1
+Campylobacter colitis,1,1
+Cancer in remission,1,1
+Candida endophthalmitis,1,1
+Capillary disorder,1,1
+Capillary nail refill test abnormal,1,1
+Carbon dioxide decreased,1,1
+Carbon dioxide increased,1,1
+Carboxyhaemoglobin decreased,1,1
+Carbuncle,1,1
+Carcinoembryonic antigen decreased,1,1
+Cardiac amyloidosis,1,1
+Cardiac discomfort,1,1
+Cardiac flutter,1,1
+Cardiac index abnormal,1,1
+Cardiac massage,1,1
+Cardiac murmur,1,1
+Cardiac neoplasm malignant,1,1
+Cardiac pacemaker insertion,1,1
+Cardiac sarcoidosis,1,1
+Cardiac septal hypertrophy,1,1
+Cardiac valve disease,1,1
+Cardiac valve thickening,1,1
+Cardiac valve vegetation,1,1
+Cardiac ventriculogram,1,1
+Cardiohepatic syndrome,1,1
+Cardiovascular insufficiency,1,1
+Cardioversion,1,1
+Carotid artery perforation,1,1
+Carotid artery stenosis,1,1
+Catheter site dehiscence,1,1
+Catheter site discharge,1,1
+Catheter site discolouration,1,1
+Catheter site inflammation,1,1
+Catheter site injury,1,1
+Catheter site irritation,1,1
+Catheter site pruritus,1,1
+Cauda equina syndrome,1,1
+Cellulitis staphylococcal,1,1
+Central nervous system necrosis,1,1
+Central nervous system neoplasm,1,1
+Central serous chorioretinopathy,1,1
+Cerebellar tumour,1,1
+Cerebral arteriovenous malformation haemorrhagic,1,1
+Cerebral artery occlusion,1,1
+Cerebral cyst,1,1
+Cerebral haemangioma,1,1
+Cerebral mass effect,1,1
+Cerebral microangiopathy,1,1
+Cerebral ventricle dilatation,1,1
+Cerebrospinal fluid retention,1,1
+Cerebrovascular arteriovenous malformation,1,1
+Cerebrovascular insufficiency,1,1
+Cervical dysplasia,1,1
+Cervical spinal stenosis,1,1
+Cervix neoplasm,1,1
+Change of bowel habit,1,1
+Chemokine increased,1,1
+Chest injury,1,1
+Chest wall tumour,1,1
+Child-Pugh-Turcotte score increased,1,1
+Chloroma,1,1
+Chloropsia,1,1
+Cholangitis chronic,1,1
+Cholesteatoma,1,1
+Cholesterosis,1,1
+Chordoma,1,1
+Chorea,1,1
+Chromosome analysis abnormal,1,1
+Chronic disease decompensation,1,1
+Chronic eosinophilic rhinosinusitis,1,1
+Chronic graft versus host disease oral,1,1
+Chronic hepatitis,1,1
+Chronic left ventricular failure,1,1
+Chronic lymphocytic leukaemia,1,1
+Chronic myocarditis,1,1
+Chronic papillomatous dermatitis,1,1
+Chronic rhinosinusitis with nasal polyps,1,1
+Chronic rhinosinusitis without nasal polyps,1,1
+Ciliary body disorder,1,1
+Cirrhosis alcoholic,1,1
+Claudication of jaw muscles,1,1
+Clinical trial participant,1,1
+Coagulation factor XII level decreased,1,1
+Coagulation factor deficiency,1,1
+Coccydynia,1,1
+Cogan's syndrome,1,1
+Cold dysaesthesia,1,1
+Cold flash,1,1
+Cold type haemolytic anaemia,1,1
+Collagen disorder,1,1
+Colon cancer metastatic,1,1
+Colon cancer recurrent,1,1
+Colon cancer stage III,1,1
+Colon neoplasm,1,1
+Colostomy infection,1,1
+Coma acidotic,1,1
+Coma scale abnormal,1,1
+Combined pulmonary fibrosis and emphysema,1,1
+Compartment syndrome,1,1
+Complement factor increased,1,1
+Completed suicide,1,1
+Complicated appendicitis,1,1
+Complications of transplanted kidney,1,1
+Computerised tomogram abnormal,1,1
+Computerised tomogram pancreas abnormal,1,1
+Concomitant disease aggravated,1,1
+Concussion,1,1
+Conjunctival irritation,1,1
+Conjunctival thinning,1,1
+Conjunctival ulcer,1,1
+Conjunctivitis allergic,1,1
+Conjunctivitis viral,1,1
+Connective tissue disorder,1,1
+Contracted bladder,1,1
+Contraindication to medical treatment,1,1
+Contrast media reaction,1,1
+Corneal abscess,1,1
+Corneal epithelial microcysts,1,1
+Corneal exfoliation,1,1
+Corneal graft rejection,1,1
+Corneal lesion,1,1
+Corneal opacity,1,1
+Corneal transplant,1,1
+Coronary revascularisation,1,1
+Corynebacterium bacteraemia,1,1
+Cough variant asthma,1,1
+Craniofacial fracture,1,1
+Creatinine urine abnormal,1,1
+Crowned dens syndrome,1,1
+Cryptococcosis,1,1
+Crystal arthropathy,1,1
+Culture wound positive,1,1
+Cutaneous nocardiosis,1,1
+Cyclothymic disorder,1,1
+Cystitis escherichia,1,1
+Cystitis glandularis,1,1
+Cystitis-like symptom,1,1
+Cystoid macular oedema,1,1
+Cystoscopy,1,1
+Cytogenetic abnormality,1,1
+Cytomegalovirus duodenitis,1,1
+Cytomegalovirus enteritis,1,1
+Cytomegalovirus gastrointestinal infection,1,1
+Cytomegalovirus oesophagitis,1,1
+Dacryoadenitis acquired,1,1
+Dacryostenosis acquired,1,1
+Dactylitis,1,1
+Dark circles under eyes,1,1
+Decreased gait velocity,1,1
+Deep vein thrombosis postoperative,1,1
+Dehiscence,1,1
+Delirium febrile,1,1
+"Delusional disorder, unspecified type",1,1
+Dengue fever,1,1
+Dependence on respirator,1,1
+Depression suicidal,1,1
+Derealisation,1,1
+Dermatitis contact,1,1
+Dermatophytosis,1,1
+Device deposit issue,1,1
+Device difficult to use,1,1
+Device infusion issue,1,1
+Device mechanical issue,1,1
+Device placement issue,1,1
+Device related bacteraemia,1,1
+Diabetic complication,1,1
+Diabetic hyperglycaemic coma,1,1
+Diabetic neuropathy,1,1
+Diabetic retinopathy,1,1
+Diagnostic aspiration,1,1
+Diaphragmatic hernia,1,1
+Diaphragmatic injury,1,1
+Diet refusal,1,1
+Diffuse alveolar damage,1,1
+Diffuse large B-cell lymphoma refractory,1,1
+Dilatation intrahepatic duct acquired,1,1
+Dilatation ventricular,1,1
+Disability,1,1
+Discharge,1,1
+Disorder of globe,1,1
+Disorganised speech,1,1
+Disseminated cryptococcosis,1,1
+Distal intestinal obstruction syndrome,1,1
+Dose calculation error,1,1
+Drain removal,1,1
+Drug abuse,1,1
+Drug effect faster than expected,1,1
+Drug monitoring procedure not performed,1,1
+Drug specific antibody present,1,1
+Drug tolerance,1,1
+Drug withdrawal syndrome,1,1
+Drug-device incompatibility,1,1
+Drug-disease interaction,1,1
+Drug-genetic interaction,1,1
+Dry age-related macular degeneration,1,1
+Duodenal bulb deformity,1,1
+Duodenal neoplasm,1,1
+Duodenal operation,2,1
+Duodenal polyp,1,1
+Duodenal stump fistula,1,1
+Duodenitis haemorrhagic,1,1
+Duodenogastric reflux,1,1
+Dural arteriovenous fistula,1,1
+Dysania,1,1
+Dysgraphia,1,1
+Dyslipidaemia,1,1
+Dysmenorrhoea,1,1
+Dysmetria,1,1
+Dysphemia,1,1
+Dysphoria,1,1
+Dyspnoea paroxysmal nocturnal,1,1
+Dyspraxia,1,1
+Dystonia,1,1
+EGFR gene mutation,1,1
+Ear disorder,1,1
+Ear injury,1,1
+"Ear, nose and throat disorder",1,1
+Eating disorder symptom,1,1
+Ecthyma,1,1
+Eczema infected,1,1
+Electric shock sensation,1,1
+Electrocardiogram Q wave abnormal,1,1
+Electrocardiogram T wave abnormal,1,1
+Embolic stroke,1,1
+Emergency care,1,1
+Emotional disorder,1,1
+Emphysematous cystitis,1,1
+Empty sella syndrome,1,1
+Encephalitis viral,1,1
+Encephalocele,1,1
+Encephalomalacia,1,1
+Endocrine neoplasm,1,1
+Endodontic procedure,1,1
+Endometrial cancer stage I,1,1
+Endometrial hyperplasia,1,1
+Endoscopy,1,1
+Energy increased,1,1
+Enostosis,1,1
+Enteral nutrition,1,1
+Enterobacter infection,1,1
+Enterobacter test positive,1,1
+Enterocele,1,1
+Enterocolitis bacterial,1,1
+Enterovirus infection,1,1
+Enterovirus test positive,1,1
+Enthesopathy,1,1
+Enuresis,1,1
+Enzyme level decreased,1,1
+Eosinophil count abnormal,1,1
+Eosinophil percentage increased,1,1
+Eosinophilic cellulitis,1,1
+Eosinophilic colitis,1,1
+Eosinophilic myocarditis,1,1
+Eosinophilic otitis media,1,1
+Eosinophilic pneumonia acute,1,1
+Ephelides,1,1
+Epididymal cyst,1,1
+Epigastric discomfort,1,1
+Epileptic encephalopathy,1,1
+Epinephrine decreased,1,1
+Epithelioid sarcoma,1,1
+Epstein-Barr virus test positive,1,1
+Escherichia pyelonephritis,1,1
+Essential tremor,1,1
+Euphoric mood,1,1
+Euthyroid sick syndrome,1,1
+Excessive skin,1,1
+Exercise lack of,1,1
+Exophthalmos,1,1
+Exostosis of jaw,1,1
+Exposure to body fluid,1,1
+Exposure to fungus,1,1
+Exposure to toxic agent,1,1
+Exposure via body fluid,1,1
+Exposure via inhalation,1,1
+Extra dose administered,1,1
+Extradural abscess,1,1
+Extramedullary haemopoiesis,1,1
+Extrapyramidal disorder,1,1
+Extravasation blood,1,1
+Extremity contracture,1,1
+Eye abscess,1,1
+Eye allergy,1,1
+Eye infection,1,1
+Eye infection intraocular,1,1
+Eye ulcer,1,1
+Eyelid cyst,1,1
+FGFR2 gene mutation,1,1
+Facial nerve disorder,1,1
+Factor V inhibition,1,1
+Faecal calprotectin increased,1,1
+Faecal volume increased,1,1
+Failure to anastomose,1,1
+Fallopian tube cancer,1,1
+False positive investigation result,1,1
+Febrile convulsion,1,1
+Feelings of worthlessness,1,1
+Fibrinous bronchitis,1,1
+Fibula fracture,1,1
+Finger amputation,1,1
+Fistula discharge,1,1
+Fluid replacement,1,1
+Food allergy,1,1
+Food craving,1,1
+Food poisoning,1,1
+Food refusal,1,1
+Foot amputation,1,1
+Foot deformity,1,1
+Foot fracture,1,1
+Foreign body,1,1
+Free prostate-specific antigen increased,1,1
+Frostbite,1,1
+Fuchs' syndrome,1,1
+Fungal sepsis,1,1
+Gallbladder abscess,1,1
+Gallbladder adenocarcinoma,1,1
+Gallbladder cancer stage IV,1,1
+Gallbladder hypofunction,1,1
+Gallbladder neoplasm,1,1
+Gallbladder operation,1,1
+Gamma-glutamyltransferase decreased,1,1
+Gas gangrene,1,1
+Gastric cancer recurrent,1,1
+Gastric cancer stage IV,1,1
+Gastric fistula,1,1
+Gastric mucosa erythema,1,1
+Gastric pH decreased,1,1
+Gastric residual increased,1,1
+Gastritis bacterial,1,1
+Gastritis fungal,1,1
+Gastroduodenal haemorrhage,1,1
+Gastroduodenal ulcer,1,1
+Gastroenteritis aeromonas,1,1
+Gastroenteritis clostridial,1,1
+Gastroenteritis eosinophilic,1,1
+Gastroenteritis rotavirus,1,1
+Gastrointestinal angiodysplasia,1,1
+Gastrointestinal bacterial infection,1,1
+Gastrointestinal candidiasis,1,1
+Gastrointestinal erosion,1,1
+Gastrointestinal hypomotility,1,1
+Gastrointestinal mucosal exfoliation,1,1
+Gastrointestinal mucosal necrosis,1,1
+Gastrointestinal stoma necrosis,1,1
+Gastrointestinal tube removal,1,1
+Gastrointestinal ulcer,1,1
+Gastrointestinal ulcer haemorrhage,1,1
+Gastrooesophageal cancer,1,1
+Gastrooesophageal cancer recurrent,1,1
+Gastrooesophageal haemorrhage,1,1
+Gene mutation identification test,1,1
+Generalised anxiety disorder,1,1
+Generalised onset non-motor seizure,1,1
+Genital candidiasis,1,1
+Genital discharge,1,1
+Genital disorder,1,1
+Genital infection male,1,1
+Genital rash,1,1
+Germ cell cancer metastatic,1,1
+Giant cell myocarditis,1,1
+Gingival abscess,1,1
+Glioblastoma,1,1
+Globulins decreased,1,1
+Globulins increased,1,1
+Glomerular vascular disorder,1,1
+Glomerulonephritis chronic,1,1
+Glomerulonephritis minimal lesion,1,1
+Glottis carcinoma,1,1
+Glucose urine present,1,1
+Glycosylated haemoglobin,1,1
+Graft versus host disease in eye,1,1
+Graft versus host disease in gastrointestinal tract,1,1
+Graft versus host disease in liver,1,1
+Graft versus host disease oral,1,1
+Gram stain positive,1,1
+Granular cell tumour,1,1
+Granulocytes abnormal,1,1
+Granuloma skin,1,1
+Granulomatous liver disease,1,1
+Granulomatous lymphadenitis,1,1
+Grief reaction,1,1
+Grip strength decreased,1,1
+Groin infection,1,1
+Guttate psoriasis,1,1
+HER2 positive endometrial cancer,1,1
+HIV infection,1,1
+HRD gene mutation assay positive,1,1
+Haemangioma,1,1
+Haemarthrosis,1,1
+Haemoglobin urine present,1,1
+Haemophilia,1,1
+Haemorrhagic cerebral infarction,1,1
+Haemorrhagic disorder,1,1
+Haemorrhagic infarction,1,1
+Haemorrhagic tumour necrosis,1,1
+Haemorrhagic vasculitis,1,1
+Haemorrhoids thrombosed,1,1
+Haemostasis,1,1
+Hair texture abnormal,1,1
+Hairy cell leukaemia,1,1
+Halo vision,1,1
+Hashimoto's encephalopathy,1,1
+Head and neck cancer stage IV,1,1
+Head deformity,1,1
+Head titubation,1,1
+Hearing disability,1,1
+Heart disease congenital,1,1
+Heart failure with midrange ejection fraction,1,1
+Heart sounds abnormal,1,1
+Heart transplant,1,1
+Heart transplant rejection,1,1
+Heart valve incompetence,1,1
+Heavy menstrual bleeding,1,1
+Helicobacter gastritis,1,1
+Hemianopia,1,1
+Hepatic artery aneurysm,1,1
+Hepatic calcification,1,1
+Hepatic cyst ruptured,1,1
+Hepatic embolisation,1,1
+Hepatic gas gangrene,1,1
+Hepatic hydrothorax,1,1
+Hepatic infarction,1,1
+Hepatic infection fungal,1,1
+Hepatic vein occlusion,1,1
+Hepaticojejunostomy,1,1
+Hepatitis A,1,1
+Hepatitis B DNA assay positive,1,1
+Hepatitis B core antigen positive,1,1
+Hepatitis B surface antigen positive,2,1
+Hepatobiliary cancer,1,1
+Hereditary angioedema,1,1
+Hernia perforation,1,1
+Herpes oesophagitis,1,1
+Herpes ophthalmic,1,1
+Herpes simplex hepatitis,1,1
+Herpes simplex pneumonia,1,1
+Herpes zoster oticus,1,1
+Histiocytic necrotising lymphadenitis,1,1
+Histology abnormal,1,1
+Hormone receptor positive breast cancer,1,1
+Hormone-dependent prostate cancer,1,1
+Horner's syndrome,1,1
+Human herpesvirus 6 encephalitis,1,1
+Human herpesvirus 6 infection,1,1
+Human rhinovirus test positive,1,1
+Hydrocholecystis,1,1
+Hyperaemia,1,1
+Hyperaesthesia eye,1,1
+Hyperbaric oxygen therapy,1,1
+Hyperchloraemia,1,1
+Hyperparathyroidism primary,1,1
+Hyperparathyroidism secondary,1,1
+Hyperphagia,1,1
+Hyperpituitarism,1,1
+Hyperplasia,1,1
+Hyperplasia adrenal,1,1
+Hyperprolactinaemia,1,1
+Hyperproteinaemia,1,1
+Hypersplenism,1,1
+Hypertensive heart disease,1,1
+Hyperthermia malignant,1,1
+Hypertonic bladder,1,1
+Hyperventilation,1,1
+Hypervitaminosis B12,1,1
+Hypochromic anaemia,1,1
+Hypoglossal nerve paralysis,1,1
+Hypoglycaemic coma,1,1
+Hypoglycaemic unconsciousness,1,1
+Hypogonadism male,1,1
+Hypolipidaemia,1,1
+Hypometabolism,1,1
+Hyponatraemic seizure,1,1
+Hypophonesis,1,1
+Hypoprolactinaemia,1,1
+Hyposmia,1,1
+Hyposomnia,1,1
+Hypotony maculopathy,1,1
+Hypotony of eye,1,1
+Hypotrichosis,1,1
+Hypouricaemia,1,1
+Hypovitaminosis,1,1
+Hysterosalpingo-oophorectomy,1,1
+Iatrogenic infection,1,1
+Idiopathic urticaria,1,1
+IgG deficiency,1,1
+Ileal operation,1,1
+Ileal stenosis,1,1
+Ileostomy,1,1
+Iliac artery occlusion,1,1
+Iliac artery rupture,1,1
+Iliac vein occlusion,1,1
+Iliac vein perforation,1,1
+Ilium fracture,1,1
+Immature granulocyte count increased,1,1
+Immune reconstitution inflammatory syndrome associated tuberculosis,1,1
+Impaired driving ability,1,1
+Imperception,1,1
+Implant site extravasation,1,1
+Implantation complication,1,1
+Inadequate analgesia,1,1
+Inappropriate schedule of product discontinuation,1,1
+Incarcerated hernia,1,1
+Incision site discomfort,1,1
+Incision site pruritus,1,1
+Incision site vesicles,1,1
+Incorrect drug administration rate,1,1
+Increased bronchial secretion,1,1
+Indolent systemic mastocytosis,1,1
+Infected intestinal ulcer,1,1
+Infected metastasis,1,1
+Infected skin ulcer,1,1
+Infection reactivation,1,1
+Infection susceptibility increased,1,1
+Infective aneurysm,1,1
+Infective myositis,1,1
+Inferior vena cava dilatation,1,1
+Inferior vena caval occlusion,1,1
+Inflammation of wound,1,1
+Infusion site exfoliation,1,1
+Infusion site injury,1,1
+Infusion site mass,1,1
+Infusion site pruritus,1,1
+Infusion site scab,1,1
+Infusion site urticaria,1,1
+Inguinal mass,1,1
+Injection site bruising,1,1
+Injection site hypersensitivity,1,1
+Injection site induration,1,1
+Injection site infection,1,1
+Injection site oedema,1,1
+Injection site plaque,1,1
+Injection site reaction,1,1
+Injury corneal,1,1
+Inner ear disorder,1,1
+Inner ear inflammation,1,1
+Insulin resistant diabetes,1,1
+Intention tremor,1,1
+Intentional self-injury,1,1
+Intercepted medication error,1,1
+Intercepted product dispensing error,1,1
+Intermittent claudication,1,1
+Interstitial granulomatous dermatitis,1,1
+Interventional procedure,1,1
+Intervertebral disc degeneration,1,1
+Intestinal angioedema,1,1
+Intestinal barrier dysfunction,1,1
+Intestinal fistula,1,1
+Intestinal mass,1,1
+Intestinal resection,1,1
+Intestinal transit time increased,1,1
+Intracranial germ cell tumour,1,1
+Intraductal papillary mucinous neoplasm,1,1
+Intraductal papilloma of breast,1,1
+Intraocular pressure fluctuation,1,1
+Intraocular pressure increased,1,1
+Intrapulmonary lymphadenopathy,1,1
+Intrauterine infection,1,1
+Intraventricular haemorrhage,1,1
+Investigation,1,1
+Isocitrate dehydrogenase gene mutation,1,1
+JC polyomavirus test positive,1,1
+Jaw fracture,1,1
+Jejunal perforation,1,1
+Juvenile idiopathic arthritis,1,1
+K-ras gene mutation,1,1
+Kawasaki's disease,1,1
+Keratitis interstitial,1,1
+Ketosis,1,1
+Ketosis-prone diabetes mellitus,1,1
+Kidney congestion,1,1
+Knee operation,1,1
+Korsakoff's syndrome,1,1
+Labile blood pressure,1,1
+Laboratory test,1,1
+Lacrimal disorder,1,1
+Language disorder,1,1
+Laparoscopic surgery,1,1
+Large intestinal polypectomy,1,1
+Large intestinal ulcer perforation,1,1
+Large intestine operation,1,1
+Large intestine polyp,1,1
+Laryngeal haemorrhage,1,1
+Laryngeal necrosis,1,1
+Laryngeal stenosis,1,1
+Laryngopharyngitis,1,1
+Learning disorder,1,1
+Leclercia bacteraemia,1,1
+Left atrial enlargement,1,1
+Leg amputation,1,1
+Legionella infection,1,1
+Leiomyosarcoma,1,1
+Lenticular opacities,1,1
+Lentigo,1,1
+Libido decreased,1,1
+Libido disorder,1,1
+Lichenification,1,1
+Ligament calcification,1,1
+Light chain analysis abnormal,1,1
+Limb fracture,1,1
+Limbal stem cell deficiency,1,1
+Lip and/or oral cavity cancer,1,1
+Lip erosion,1,1
+Lip exfoliation,1,1
+Lip injury,1,1
+Lip ulceration,1,1
+Lipase abnormal,1,1
+Lipid metabolism disorder,1,1
+Lipoma,1,1
+Liposarcoma,1,1
+Liposarcoma metastatic,1,1
+Liquid product physical issue,1,1
+Listeriosis,1,1
+Lithiasis,1,1
+Liver function test decreased,1,1
+Liver operation,1,1
+Liver scan abnormal,1,1
+Logorrhoea,1,1
+Lordosis,1,1
+Loss of libido,1,1
+Lower respiratory tract infection bacterial,1,1
+Lumbosacral plexopathy,1,1
+Lung assist device therapy,1,1
+Lung carcinoma cell type unspecified stage I,1,1
+Lung diffusion test abnormal,1,1
+Lung induration,1,1
+Lung lobectomy,1,1
+Lung perforation,1,1
+Lung squamous cell carcinoma metastatic,1,1
+Lung squamous cell carcinoma stage III,1,1
+Lymph node calcification,1,1
+Lymph nodes scan abnormal,1,1
+Lymphangiectasia,1,1
+Lymphangioma,1,1
+Lymphatic fistula,1,1
+Lymphocele,1,1
+Lymphocyte percentage abnormal,1,1
+Lymphocytic leukaemia,1,1
+Lymphostasis,1,1
+MET gene amplification,1,1
+Macrophages increased,1,1
+Maculopathy,1,1
+Magnetic resonance imaging abdominal abnormal,1,1
+Magnetic resonance imaging abnormal,1,1
+Magnetic resonance imaging thoracic abnormal,1,1
+Maintenance of anaesthesia,1,1
+Malabsorption,1,1
+Malacoplakia gastrointestinal,1,1
+Malignant connective tissue neoplasm,1,1
+Malignant gastric ulcer,1,1
+Malignant melanoma of eyelid,1,1
+Malignant melanoma stage III,1,1
+Malignant melanoma stage IV,1,1
+Malignant neoplasm of eye,1,1
+Malignant neoplasm of renal pelvis,1,1
+Malignant peritoneal neoplasm,1,1
+Mammoplasty,1,1
+Mandibular mass,1,1
+Mast cell activation syndrome,1,1
+Mastoiditis,1,1
+Maternal drugs affecting foetus,1,1
+Maternal exposure during breast feeding,1,1
+Maternal exposure timing unspecified,1,1
+Maternal exposure via partner during pregnancy,1,1
+Maxillofacial space infection,1,1
+Mean cell haemoglobin concentration increased,1,1
+Mean platelet volume abnormal,1,1
+Mechanical ventilation,1,1
+Mechanical ventilation complication,1,1
+Mediastinal abscess,1,1
+Mediastinal disorder,1,1
+Medical device implantation,1,1
+Medical device pain,1,1
+Medical device site thrombosis,1,1
+Medical device site ulcer,1,1
+Medical induction of coma,1,1
+Medical procedure,1,1
+Medullary thyroid cancer,1,1
+Meningeal disorder,1,1
+Meningitis listeria,1,1
+Meningitis tuberculous,1,1
+Meningoradiculitis,1,1
+Meniscus injury,1,1
+Menstruation delayed,1,1
+Mesangioproliferative glomerulonephritis,1,1
+Mesenteric abscess,1,1
+Mesenteric arterial occlusion,1,1
+Mesenteric artery thrombosis,1,1
+Mesenteric lymphadenitis,1,1
+Mesenteritis,1,1
+Mesothelioma malignant recurrent,1,1
+Metabolic alkalosis,1,1
+Metabolic dysfunction-associated steatohepatitis,1,1
+Metastases to diaphragm,1,1
+Metastases to eye,1,1
+Metastases to gastrointestinal tract,1,1
+Metastases to muscle,1,1
+Metastases to nervous system,1,1
+Metastases to ovary,1,1
+Metastases to pituitary gland,1,1
+Metastases to spinal cord,1,1
+Metastases to spleen,1,1
+Metastases to the respiratory system,1,1
+Metastases to thorax,1,1
+Metastatic lymphoma,1,1
+Microangiopathy,1,1
+Micrococcus infection,1,1
+Micrococcus test positive,1,1
+Microembolism,1,1
+Microsatellite instability cancer,1,1
+Middle ear effusion,1,1
+Mineral deficiency,1,1
+Mineralocorticoid deficiency,1,1
+Minimal residual disease,1,1
+Mitral valve calcification,1,1
+Mitral valve disease,1,1
+Mixed connective tissue disease,1,1
+Mixed hepatocellular cholangiocarcinoma,1,1
+Mole excision,1,1
+Monoclonal B-cell lymphocytosis,1,1
+Monocytosis,1,1
+Mononeuropathy,1,1
+Moraxella infection,1,1
+Morganella infection,1,1
+Morning sickness,1,1
+Motor neurone disease,1,1
+Mouth breathing,1,1
+Mucinous endometrial carcinoma,1,1
+Mucosal exfoliation,1,1
+Mucosal hypertrophy,1,1
+Mucosal ulceration,1,1
+Multimorbidity,1,1
+Multiple allergies,1,1
+Multiple system atrophy,1,1
+Muscle haemorrhage,1,1
+Muscle necrosis,1,1
+Muscle spasticity,1,1
+Muscle swelling,1,1
+Muscle tension dysphonia,1,1
+Muscular dystrophy,1,1
+Mycobacterium abscessus infection,1,1
+Mycotic endophthalmitis,1,1
+Myeloid leukaemia in remission,1,1
+Myocardial calcification,1,1
+Myocardial haemorrhage,1,1
+Myocardial necrosis marker decreased,1,1
+Myocardial strain imaging,1,1
+Myocarditis mycotic,1,1
+Myopia,1,1
+Myositis-like syndrome,1,1
+Myxoedema,1,1
+Nail deformation,1,1
+Nail toxicity,1,1
+Nasal crusting,1,1
+Nasal polyps,1,1
+Nasal septum deviation,1,1
+Nasal septum disorder,1,1
+Nasal vestibulitis,1,1
+Neck dissection,1,1
+Neck injury,1,1
+Necrotising retinitis,1,1
+Neoplasm swelling,1,1
+Nephritis bacterial,1,1
+Nephroblastoma,1,1
+Nephrosclerosis,1,1
+Nephrostomy tube removal,1,1
+Nephroureterectomy,1,1
+Nerve injury,1,1
+Neuritis cranial,1,1
+Neuroendocrine carcinoma metastatic,1,1
+Neuroendocrine carcinoma of prostate,1,1
+Neuroendocrine carcinoma of the cervix,1,1
+Neuroendocrine tumour,1,1
+Neuroendocrine tumour of the lung metastatic,1,1
+Neurogenic shock,1,1
+Neuroleptic malignant syndrome,1,1
+Neuroleukaemiosis,1,1
+Neurosurgery,1,1
+Neutrophil percentage abnormal,1,1
+New onset refractory status epilepticus,1,1
+Nightmare,1,1
+Nocturnal dyspnoea,1,1
+Nodal arrhythmia,1,1
+Nodal osteoarthritis,1,1
+Non-pitting oedema,1,1
+Non-small cell lung cancer stage IIIB,1,1
+Noninfectious peritonitis,1,1
+Noninfective encephalitis,1,1
+Nutritional supplementation,1,1
+Obesity,1,1
+Obstructive defaecation,1,1
+Obstructive nephropathy,1,1
+Ochronosis,1,1
+Ocular cancer metastatic,1,1
+Ocular cyst,1,1
+Ocular icterus,1,1
+Ocular neoplasm,1,1
+Oedema due to cardiac disease,1,1
+Oedema due to renal disease,1,1
+Oedema genital,1,1
+Oesophageal abscess,1,1
+Oesophageal adenocarcinoma stage IV,1,1
+Oesophageal fibrosis,1,1
+Oesophageal motility disorder,1,1
+Oesophageal polyp,1,1
+Oesophagectomy,1,1
+Oesophagitis haemorrhagic,1,1
+Oesophagitis ulcerative,1,1
+Oligoarthritis,1,1
+Oligomenorrhoea,1,1
+Onychomycosis,1,1
+Oocyte harvest,1,1
+Oophorectomy,1,1
+Open angle glaucoma,1,1
+Opsoclonus,1,1
+Optic disc haemorrhage,1,1
+Optic nerve cupping,1,1
+Oral hyperaesthesia,1,1
+Oral mucosal erythema,1,1
+Oral mucosal hypertrophy,1,1
+Oral mucosal scab,1,1
+Oral purpura,1,1
+Oral submucosal fibrosis,1,1
+Oral surgery,1,1
+Orbital haemorrhage,1,1
+Orbital space occupying lesion,1,1
+Organic brain syndrome,1,1
+Orocutaneous fistula,1,1
+Oropharyngeal blistering,1,1
+Oropharyngeal cancer,1,1
+Oropharyngeal candidiasis,1,1
+Oropharyngeal discolouration,1,1
+Oropharyngeal erythema,1,1
+Oropharyngeal oedema,1,1
+Osteomyelitis chronic,1,1
+Ostomy bag placement,1,1
+Otorrhoea,1,1
+Out of specification test results,1,1
+Ovarian adhesion,1,1
+Ovarian cancer,1,1
+Ovarian cancer stage IV,1,1
+Ovarian clear cell carcinoma,1,1
+Ovarian enlargement,1,1
+Ovarian failure,1,1
+Ovarian neoplasm,1,1
+Ovarian vein thrombosis,1,1
+Oxygen consumption decreased,1,1
+Oxygen consumption increased,1,1
+Oxygen saturation immeasurable,1,1
+PO2 decreased,1,1
+Palatal oedema,1,1
+Palatal palsy,1,1
+Palatal swelling,1,1
+Palliative radiation,1,1
+Palmar erythema,1,1
+Palmoplantar keratoderma,1,1
+Palmoplantar pustulosis,1,1
+Pancreas transplant,1,1
+Pancreastatin increased,1,1
+Pancreatic abscess,1,1
+Pancreatic carcinoma recurrent,1,1
+Pancreatic duct obstruction,1,1
+Pancreatic enlargement,1,1
+Pancreatic haemorrhage,1,1
+Pancreatic leak,1,1
+Pancreatic neoplasm,1,1
+Pancreatic pseudocyst,1,1
+Pancreaticobiliary carcinoma,1,1
+Pancreaticosplenectomy,1,1
+Pancreatitis haemorrhagic,1,1
+Pancreatogenous diabetes,1,1
+Panic reaction,1,1
+Papillary urothelial neoplasm of low malignant potential,1,1
+Papilloma,1,1
+Papilloma viral infection,1,1
+Paracentesis,1,1
+Paradoxical psoriatic arthritis,1,1
+Paraganglion neoplasm,1,1
+Parainfluenzae virus infection,1,1
+Paranasal sinus mucosal hypertrophy,1,1
+Paraneoplastic pemphigus,1,1
+Paraneoplastic rash,1,1
+Paranoia,1,1
+Parathyroid tumour malignant,1,1
+Parenteral nutrition,1,1
+Paroxysmal atrioventricular block,1,1
+Pathological tooth fracture,1,1
+Patient dissatisfaction with treatment,1,1
+Pelvic cyst,1,1
+Pelvic fluid collection,1,1
+Pelvic mass,1,1
+Penetrating aortic ulcer,1,1
+Penile abscess,1,1
+Penile necrosis,1,1
+Penis disorder,1,1
+Peptic ulcer perforation,1,1
+Peptostreptococcus infection,1,1
+Peri-implantitis,1,1
+Periarthritis,1,1
+Pericardial decompression syndrome,1,1
+Pericardial effusion malignant,1,1
+Pericardial haemorrhage,1,1
+Pericardial injury,1,1
+Pericarditis constrictive,1,1
+Perineal ulceration,1,1
+Perioral dermatitis,1,1
+Periorbital cellulitis,1,1
+Peripancreatic fluid collection,1,1
+Peripheral embolism,1,1
+Peripheral nerve injury,1,1
+Periportal oedema,1,1
+Perirectal abscess,1,1
+Peritoneal dialysis,1,1
+Peritoneal fibrosis,1,1
+Peritoneal fluid analysis abnormal,1,1
+Peritoneal lesion,1,1
+Peritoneal perforation,1,1
+Peritonsillar abscess,1,1
+Peritumoural oedema,1,1
+Pernicious anaemia,1,1
+Persecutory delusion,1,1
+Personality change due to a general medical condition,1,1
+Pertussis,1,1
+Pharyngeal cancer,1,1
+Pharyngeal disorder,1,1
+Pharyngeal erosion,1,1
+Pharyngeal erythema,1,1
+Pharyngeal necrosis,1,1
+Pharyngeal oedema,1,1
+Pharyngeal paraesthesia,1,1
+Phimosis,1,1
+Phlebitis,1,1
+Physical examination,1,1
+Pigment dispersion syndrome,1,1
+Pigment nephropathy,1,1
+Pituitary tumour benign,1,1
+Plantar fasciitis,1,1
+Plasma cell leukaemia,1,1
+Plasmacytosis,1,1
+Pleomorphic adenoma,1,1
+Pleural calcification,1,1
+Pleural fistula,1,1
+Pleurocutaneous fistula,1,1
+Pleuroparenchymal fibroelastosis,1,1
+Pneumaturia,1,1
+Pneumoconiosis,1,1
+Pneumonia haemophilus,1,1
+Pneumonia legionella,1,1
+Pneumonia moraxella,1,1
+Pneumonia respiratory syncytial viral,1,1
+Pneumonia serratia,1,1
+Pneumonia streptococcal,1,1
+Poikiloderma,1,1
+Poliomyelitis,1,1
+Polyglandular disorder,1,1
+Poor prognosis,1,1
+Poor quality device used,1,1
+Portal vein cavernous transformation,1,1
+Portal vein embolisation,1,1
+Portal vein stenosis,1,1
+Positive airway pressure therapy,1,1
+Post embolisation syndrome,1,1
+Post inflammatory pigmentation change,1,1
+Post procedural cellulitis,1,1
+Post procedural discharge,1,1
+Post procedural hypothyroidism,1,1
+Post procedural urine leak,1,1
+Postictal state,1,1
+Postoperative adhesion,1,1
+Postoperative ileus,1,1
+Postoperative thoracic procedure complication,1,1
+Pouchitis,1,1
+Precancerous skin lesion,1,1
+Premature labour,1,1
+Prepyloric stenosis,1,1
+Prescription drug used without a prescription,1,1
+Primary biliary cholangitis,1,1
+Primary hyperthyroidism,1,1
+Probiotic therapy,1,1
+Procedural anxiety,1,1
+Procedural pancreatitis,1,1
+Procedural pneumothorax,1,1
+Proctectomy,1,1
+Proctitis haemorrhagic,1,1
+Product adhesion issue,1,1
+Product after taste,1,1
+Product closure removal difficult,1,1
+Product coating issue,1,1
+Product container seal issue,1,1
+Product dispensing issue,1,1
+Product ineffective,1,1
+Product leakage,1,1
+Product lot number issue,1,1
+Product monitoring error,1,1
+Product odour abnormal,1,1
+Product packaging difficult to open,1,1
+Product packaging issue,1,1
+Product selection error,1,1
+Product use complaint,1,1
+Product used for unknown indication,1,1
+Product with quality issue administered,1,1
+Prohormone brain natriuretic peptide increased,1,1
+Prostate cancer recurrent,1,1
+Prostatic atrophy,1,1
+Prostatic operation,1,1
+Prostatic pain,1,1
+Proteus test positive,1,1
+Prothrombin level increased,1,1
+Prothrombin time abnormal,1,1
+Prothrombin time ratio increased,1,1
+Proton radiation therapy,1,1
+Pseudo Cushing's syndrome,1,1
+Pseudocirrhosis,1,1
+Pseudohyponatraemia,1,1
+Pseudohypoparathyroidism,1,1
+Psychological trauma,1,1
+Psychomotor skills impaired,1,1
+Pterygium,1,1
+Pulmonary ablation,1,1
+Pulmonary artery occlusion,1,1
+Pulmonary bulla,1,1
+Pulmonary hilum mass,1,1
+Pulmonary imaging procedure abnormal,1,1
+Pulmonary interstitial emphysema syndrome,1,1
+Pulmonary mucormycosis,1,1
+Pulmonary ossification,1,1
+Pulmonary pain,1,1
+Pulmonary radiation injury,1,1
+Pulmonary renal syndrome,1,1
+Pupil fixed,1,1
+Pupillary reflex impaired,1,1
+Purpura fulminans,1,1
+Purulence,1,1
+Purulent discharge,1,1
+Putamen haemorrhage,1,1
+Pyometra,1,1
+Pyopneumothorax,1,1
+QRS axis abnormal,1,1
+Radiation induced encephalopathy,1,1
+Radiation proctitis,1,1
+Radiotherapy to adrenal gland,1,1
+Radiotherapy to bone,1,1
+Radiotherapy to brain,1,1
+Radiotherapy to lymph nodes,1,1
+Reaction to preservatives,1,1
+Reactive gastropathy,1,1
+Reading disorder,1,1
+Recalled product administered,1,1
+Rectal cancer recurrent,1,1
+Rectal discharge,1,1
+Rectal dysplasia,1,1
+Rectal fissure,1,1
+Rectal lesion,1,1
+Rectal neoplasm,1,1
+Rectal prolapse,1,1
+Rectal stenosis,1,1
+Rectal tenesmus,1,1
+Rectal ulcer haemorrhage,1,1
+Rectosigmoid cancer,1,1
+Red blood cell analysis abnormal,1,1
+Red blood cell sedimentation rate abnormal,1,1
+Red blood cells urine,1,1
+Red cell distribution width abnormal,1,1
+Reduced facial expression,1,1
+Regional chemotherapy,1,1
+Rehabilitation therapy,1,1
+Relapsing-remitting multiple sclerosis,1,1
+Renal cell carcinoma stage IV,1,1
+Renal cortical necrosis,1,1
+Renal replacement therapy,1,1
+Renal tuberculosis,1,1
+Renal tubular dysfunction,1,1
+Renal vasculitis,1,1
+Renal vein varices,1,1
+Renal-limited thrombotic microangiopathy,1,1
+Respiratory acidosis,1,1
+Respiratory therapy,1,1
+Respiratory tract haemorrhage,1,1
+Respiratory tract infection bacterial,1,1
+Respiratory tract oedema,1,1
+Restless arm syndrome,1,1
+Restrictive pulmonary disease,1,1
+Reticular erythematous mucinosis,1,1
+Retinal artery embolism,1,1
+Retinal disorder,1,1
+Retinal oedema,1,1
+Retinal white dots syndrome,1,1
+Retracted nipple,1,1
+Retroperitoneal haemorrhage,1,1
+Retroperitoneal oedema,1,1
+Reye's syndrome,1,1
+Rhabdomyosarcoma,1,1
+Rheumatic fever,1,1
+Rheumatoid factor increased,1,1
+Richter's syndrome,1,1
+Right ventricle outflow tract obstruction,1,1
+Right ventricular dysfunction,1,1
+Right ventricular systolic pressure increased,1,1
+Rotavirus infection,1,1
+Routine health maintenance,1,1
+SARS-CoV-2 test negative,1,1
+Salivary gland calculus,1,1
+Salivary gland cancer recurrent,1,1
+Salivary gland pain,1,1
+Salpingectomy,1,1
+Salpingo-oophorectomy,1,1
+Sarcomatoid carcinoma,1,1
+Scalp haematoma,1,1
+Schizoaffective disorder,1,1
+Schwannoma,1,1
+Sciatic nerve injury,1,1
+Sclerema,1,1
+Scleroderma overlap syndrome,1,1
+Scoliosis,1,1
+Scrotal erythema,1,1
+Scrotal infection,1,1
+Scrotal oedema,1,1
+Seborrhoeic keratosis,1,1
+Secondary amyloidosis,1,1
+Secondary hypertension,1,1
+Secondary immunodeficiency,1,1
+Segmented hyalinising vasculitis,1,1
+Self-injurious ideation,1,1
+Sensorimotor disorder,1,1
+Septic cardiomyopathy,1,1
+Septic encephalopathy,1,1
+Serology test,1,1
+Serotonin syndrome,1,1
+Serratia infection,1,1
+Serratia test positive,1,1
+Severe acute respiratory syndrome,1,1
+Sexual dysfunction,1,1
+Shoulder girdle pain,1,1
+Silent myocardial infarction,1,1
+Single functional kidney,1,1
+Sinus arrhythmia,1,1
+Sinus headache,1,1
+Sinus pain,1,1
+Sinus rhythm,1,1
+Skin candida,1,1
+Skin depigmentation,1,1
+Skin discomfort,1,1
+Skin flap necrosis,1,1
+Skin hyperplasia,1,1
+Skin laser therapy,1,1
+Skin odour abnormal,1,1
+Skin sensitisation,1,1
+Skin ulcer haemorrhage,1,1
+Small airways disease,1,1
+Small intestinal resection,1,1
+Small intestine adenocarcinoma,1,1
+Small intestine ulcer,1,1
+Smegma accumulation,1,1
+Social avoidant behaviour,1,1
+Social problem,1,1
+Soft tissue necrosis,1,1
+Soft tissue sarcoma,1,1
+Solar lentigo,1,1
+Somnambulism,1,1
+Spider naevus,1,1
+Spinal compression fracture,1,1
+Spinal cord paralysis,1,1
+Spinal instability,1,1
+Spleen disorder,1,1
+Splenectomy,1,1
+Splenic infection fungal,1,1
+Splenic injury,1,1
+Splenorenal shunt,1,1
+Splenosis,1,1
+Spondyloarthropathy,1,1
+Spontaneous haematoma,1,1
+Squamous cell carcinoma of the tongue,1,1
+Stag horn calculus,1,1
+Staphyloma,1,1
+Starvation,1,1
+Steatohepatitis,1,1
+Stem cell therapy,1,1
+Sterile pyuria,1,1
+Sternal fracture,1,1
+Steroid dependence,1,1
+Stillbirth,1,1
+Stoma obstruction,1,1
+Stoma site inflammation,1,1
+Stomach mass,1,1
+Stomatitis radiation,1,1
+Stress fracture,1,1
+Stress ulcer,1,1
+Stridor,1,1
+Subacute hepatic failure,1,1
+Subconjunctival fibrosis,1,1
+Subcutaneous haematoma,1,1
+Subungual abscess,1,1
+Superinfection fungal,1,1
+Superior mesenteric artery dissection,1,1
+Surgical failure,1,1
+Suspected drug-induced liver injury,1,1
+Sympathomimetic effect,1,1
+Symphysiolysis,1,1
+Syringomyelia,1,1
+Systemic infection,1,1
+Systemic toxicity,1,1
+T-lymphocyte count decreased,1,1
+Tachycardia paroxysmal,1,1
+Tanning,1,1
+Teeth brittle,1,1
+Temperature regulation disorder,1,1
+Tension,1,1
+Teratoma,1,1
+Testicular cyst,1,1
+Tetanus,1,1
+Thalamus haemorrhage,1,1
+Thalassaemia,1,1
+Therapeutic aspiration,1,1
+Therapeutic embolisation,1,1
+Therapeutic product effect increased,1,1
+Therapeutic product effect variable,1,1
+Therapeutic product effective for unapproved indication,1,1
+Therapeutic response increased,1,1
+Throat cancer,1,1
+Thrombophlebitis septic,1,1
+Thrombosed varicose vein,1,1
+Thyroglossal cyst,1,1
+Thyroid calcification,1,1
+Thyroid cyst,1,1
+Thyroid stimulating hormone deficiency,1,1
+Thyroidectomy,1,1
+Thyroiditis chronic,1,1
+Tibia fracture,1,1
+Tinea infection,1,1
+Tongue dry,1,1
+Tongue geographic,1,1
+Tongue neoplasm benign,1,1
+Tongue paralysis,1,1
+Tongue pigmentation,1,1
+Tongue pruritus,1,1
+Tonsillar hypertrophy,1,1
+Tooth infection,1,1
+Tooth injury,1,1
+Tooth pulp haemorrhage,1,1
+Tooth restoration,1,1
+Torticollis,1,1
+Toxic cardiomyopathy,1,1
+Toxic goitre,1,1
+Tracheal aspiration procedure,2,1
+Tracheal inflammation,1,1
+Tracheal oedema,1,1
+Tracheitis,1,1
+Tracheomalacia,1,1
+Transaminases,1,1
+Transformation to acute myeloid leukaemia,1,1
+Transfusion reaction,1,1
+Transfusion-associated dyspnoea,1,1
+Transient global amnesia,1,1
+Transient psychosis,1,1
+Transitional cell cancer of the renal pelvis and ureter recurrent,1,1
+Transplant,1,1
+Transplant dysfunction,1,1
+Transplant failure,1,1
+Transurethral bladder resection,1,1
+Transverse sinus thrombosis,1,1
+Trichoglossia,1,1
+Trichomegaly,1,1
+Trifascicular block,1,1
+Trigeminal nerve disorder,1,1
+Trigeminal neuralgia,1,1
+Troponin,1,1
+Troponin C increased,1,1
+Truncus coeliacus thrombosis,1,1
+Tumour cell mobilisation,1,1
+Tumour exudation,1,1
+Tumour flare,1,1
+Tumour inflammation-associated neurotoxicity,1,1
+Tumour marker decreased,1,1
+Tumour obstruction,1,1
+Tumour thrombectomy,1,1
+Tunnel vision,1,1
+Tympanic membrane perforation,1,1
+Type III immune complex mediated reaction,1,1
+Typhoid fever,1,1
+Typical aura without headache,1,1
+Ulnar nerve injury,1,1
+Ultrasound Doppler abnormal,1,1
+Umbilical haemorrhage,1,1
+Unhealthy lifestyle,1,1
+Unintended pregnancy,1,1
+Upper respiratory fungal infection,1,1
+Upper respiratory tract congestion,1,1
+Ureter abscess,1,1
+Ureteral stent removal,1,1
+Ureteric cancer,1,1
+Ureteric cancer recurrent,1,1
+Ureteric fistula,1,1
+Ureteric haemorrhage,1,1
+Ureteric repair,1,1
+Urethral disorder,1,1
+Urethral obstruction,1,1
+Urethritis,1,1
+Urethritis noninfective,1,1
+Urinary hesitation,1,1
+Urinary retention postoperative,1,1
+Urinary sediment present,1,1
+Urinary tract discomfort,1,1
+Urinary tract infection fungal,1,1
+Urinary tract inflammation,1,1
+Urine analysis abnormal,1,1
+Urine ketone body present,1,1
+Urine magnesium increased,1,1
+Urine output increased,1,1
+Urine sodium increased,1,1
+Urobilinogen urine decreased,1,1
+Urogenital haemorrhage,1,1
+Urticarial vasculitis,1,1
+Uterine leiomyoma,1,1
+Uveitis-glaucoma-hyphaema syndrome,1,1
+VIIIth nerve lesion,1,1
+Vaginal cancer,1,1
+Vaginal cancer recurrent,1,1
+Vaginal fistula,1,1
+Vaginal necrosis,1,1
+Vaginal neoplasm,1,1
+Vaginal perforation,1,1
+Varicella,1,1
+Varicophlebitis,1,1
+Vascular access site complication,1,1
+Vascular access site dissection,1,1
+Vascular access site extravasation,1,1
+Vascular access site infection,1,1
+Vascular access site pain,1,1
+Vascular dementia,1,1
+Vascular device occlusion,1,1
+Vascular graft,1,1
+Vascular pain,1,1
+Vasculitic rash,1,1
+Vasoplegia syndrome,1,1
+Vasospasm,1,1
+Vein rupture,1,1
+Venous ligation,1,1
+Venous occlusion,1,1
+Venous thrombosis limb,1,1
+Ventricular dyskinesia,1,1
+Ventricular hypertrophy,1,1
+Vertebral artery thrombosis,1,1
+Vertebral column mass,1,1
+Vertebral osteophyte,1,1
+Vertebrobasilar stroke,1,1
+Vertebroplasty,1,1
+Vertigo CNS origin,1,1
+Vertigo positional,1,1
+Vestibular disorder,1,1
+Vestibular migraine,1,1
+Vestibulitis,1,1
+Viral diarrhoea,1,1
+Viral hepatitis carrier,1,1
+Viral tonsillitis,1,1
+Visceral oedema,1,1
+Visceral pain,1,1
+Vitamin A deficiency,1,1
+Vitamin B1 decreased,1,1
+Vitamin B12 increased,1,1
+Vitamin K deficiency,1,1
+Vitreous detachment,1,1
+Vitreous opacities,1,1
+Vocal cord atrophy,1,1
+Vocal cord paresis,1,1
+Vocal cord polyp,1,1
+Vocal fold immobility,1,1
+Volume blood decreased,1,1
+Vulval disorder,1,1
+Vulval haemorrhage,1,1
+Vulvovaginal candidiasis,1,1
+Vulvovaginal discomfort,1,1
+Vulvovaginal inflammation,1,1
+Vulvovaginal injury,1,1
+Vulvovaginal pain,1,1
+Vulvovaginal pruritus,1,1
+Vulvovaginal rash,1,1
+Waist circumference increased,1,1
+Weight loss poor,1,1
+West Nile viral infection,1,1
+Wheelchair user,1,1
+White blood cell disorder,1,1
+White blood cells stool positive,1,1
+White blood cells urine abnormal,1,1
+White coat hypertension,1,1
+Withdrawal syndrome,1,1
+Wolff-Parkinson-White syndrome,1,1
+Wound closure,1,1
+Wound infection staphylococcal,1,1
+Wound treatment,3,1
+Wrist fracture,1,1
+Wrong patient received product,1,1
+Wrong schedule,1,1
+Wrong technique in device usage process,1,1
+X-ray abnormal,1,1
+X-ray dental,1,1
+Xanthopsia,1,1

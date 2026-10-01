@@ -1,0 +1,1986 @@
+indication_pt,n_rows,n_cases
+Product used for unknown indication,23102,5991
+Hepatocellular carcinoma,6621,3352
+Non-small cell lung cancer,6265,2481
+Renal cell carcinoma,3896,2022
+Triple negative breast cancer,6629,2000
+Endometrial cancer,3107,1514
+Malignant melanoma,1914,1081
+Lung adenocarcinoma,2728,1035
+Lung neoplasm malignant,1974,963
+Transitional cell carcinoma,1514,831
+Hypertension,1350,795
+Renal cancer,1241,751
+Uterine cancer,1877,738
+Bile duct cancer,1669,703
+Prophylaxis,1887,700
+Metastatic malignant melanoma,1152,649
+Breast cancer,1570,611
+Small cell lung cancer,1293,606
+Gastric cancer,1602,603
+Oesophageal carcinoma,1235,563
+Metastatic renal cell carcinoma,996,526
+Clear cell renal cell carcinoma,1147,510
+Non-small cell lung cancer metastatic,1428,465
+Transitional cell carcinoma metastatic,831,446
+Bladder cancer,715,441
+Lung adenocarcinoma stage IV,1221,430
+Cervix carcinoma,966,390
+Squamous cell carcinoma of lung,1015,367
+Cholangiocarcinoma,802,338
+Neoplasm malignant,692,335
+Pain,494,320
+Endometrial cancer recurrent,674,267
+Non-small cell lung cancer stage IV,587,258
+Hypothyroidism,278,251
+Squamous cell carcinoma,519,251
+Hepatic cancer,455,241
+Small cell lung cancer extensive stage,621,225
+Nausea,307,221
+Non-small cell lung cancer recurrent,512,217
+Endometrial adenocarcinoma,602,213
+Squamous cell carcinoma of skin,288,213
+Oesophageal adenocarcinoma,792,200
+Type 2 diabetes mellitus,282,192
+Adenocarcinoma gastric,736,186
+Constipation,259,183
+Bronchial carcinoma,435,182
+Hodgkin's disease,654,172
+Renal cell carcinoma stage IV,466,168
+Gastrooesophageal reflux disease,191,162
+Diarrhoea,236,161
+Diabetes mellitus,253,160
+Pleural mesothelioma malignant,356,158
+Atrial fibrillation,242,157
+Lung cancer metastatic,386,155
+Premedication,443,152
+Bladder transitional cell carcinoma,280,142
+Chemotherapy,381,142
+Metastases to bone,258,134
+Head and neck cancer,171,131
+Cervix carcinoma recurrent,258,127
+Invasive ductal breast carcinoma,449,126
+Lung carcinoma cell type unspecified stage IV,288,126
+Renal cancer metastatic,233,126
+Dyslipidaemia,161,122
+Metastases to lung,285,122
+Cervix carcinoma stage IV,348,120
+Prophylaxis of nausea and vomiting,196,120
+Oesophageal squamous cell carcinoma,288,116
+Metastases to central nervous system,216,114
+Endometrial cancer metastatic,271,112
+Anxiety,130,111
+Squamous cell carcinoma of head and neck,296,111
+Hypercholesterolaemia,118,109
+Metastases to liver,337,109
+Adenocarcinoma,258,106
+Ovarian cancer,290,105
+Chemotherapy side effect prophylaxis,250,104
+Rash,168,99
+Transitional cell cancer of the renal pelvis and ureter,182,99
+Colon cancer,160,98
+Metastases to lymph nodes,255,98
+Insomnia,115,95
+Malignant neoplasm of renal pelvis,172,93
+Gastric cancer stage IV,262,92
+Benign prostatic hyperplasia,108,89
+Lung squamous cell carcinoma stage IV,238,88
+Metastatic carcinoma of the bladder,160,88
+Squamous cell carcinoma of the cervix,280,87
+PD-L1 positive cancer,181,86
+Non-small cell lung cancer stage III,164,85
+Cancer pain,260,84
+Neoplasm,234,84
+Oesophageal carcinoma recurrent,179,84
+Depression,119,83
+Pulmonary embolism,100,83
+Pyrexia,102,80
+Neuroendocrine carcinoma of the skin,121,79
+Chronic obstructive pulmonary disease,113,78
+Ureteric cancer,128,76
+Lung squamous cell carcinoma stage III,195,75
+Cervix cancer metastatic,222,74
+Prostate cancer,111,73
+Colorectal cancer metastatic,264,70
+Colorectal cancer,158,67
+Infection prophylaxis,109,66
+Microsatellite instability cancer,97,66
+Diffuse large B-cell lymphoma,451,65
+Adenocarcinoma of the cervix,205,63
+Gallbladder cancer,191,63
+Hyperlipidaemia,73,63
+Neuroendocrine carcinoma,170,63
+Immune-mediated enterocolitis,144,62
+Lung adenocarcinoma stage III,156,60
+Breast cancer female,129,59
+Colitis,108,59
+Immunosuppressant drug therapy,148,58
+Breast cancer metastatic,126,57
+Deep vein thrombosis,59,56
+Small cell carcinoma,143,56
+Cervix carcinoma stage III,138,55
+Endometrial cancer stage IV,125,55
+Hyperuricaemia,56,55
+Myocarditis,129,55
+Anaemia,70,54
+Asthma,72,54
+Biliary cancer metastatic,58,54
+Evidence based treatment,132,53
+Off label use,56,52
+Thyroid cancer,110,52
+Myasthenia gravis,136,50
+Thrombosis prophylaxis,53,50
+Adenocarcinoma of colon,73,49
+Pancreatic carcinoma metastatic,423,49
+Pruritus,75,49
+Vomiting,65,49
+Hyperthyroidism,60,47
+Back pain,72,46
+Lung neoplasm,122,46
+Small cell lung cancer limited stage,62,46
+Adrenal insufficiency,51,45
+Cardiovascular event prophylaxis,61,45
+Malignant melanoma stage IV,77,45
+Neutropenia,63,45
+Pleural mesothelioma,120,45
+Prophylaxis against gastrointestinal ulcer,53,45
+Bladder transitional cell carcinoma stage IV,86,44
+Metastatic squamous cell carcinoma,96,44
+Pancreatic carcinoma,91,44
+Vitamin supplementation,57,44
+Myositis,93,43
+Urinary tract infection,56,43
+Arthralgia,61,42
+Cough,53,42
+Osteoporosis,54,42
+Rectal cancer,73,42
+Cervix neoplasm,115,41
+Pneumonia,76,41
+Small cell lung cancer metastatic,98,41
+Adverse event,88,40
+Epilepsy,47,40
+HER2 positive gastric cancer,240,40
+Bladder cancer stage IV,79,39
+Dry eye,76,38
+Dyspepsia,45,38
+Febrile neutropenia,70,38
+Metastatic gastric cancer,123,38
+Neuralgia,45,38
+Oesophageal cancer metastatic,107,38
+Lung squamous cell carcinoma metastatic,94,37
+Biliary neoplasm,49,36
+Psoriasis,49,36
+Analgesic therapy,56,35
+Anaplastic thyroid cancer,73,35
+Bile duct cancer stage IV,79,35
+Hypokalaemia,37,35
+Cardiac failure,63,34
+Hypopharyngeal cancer,68,34
+Immunosuppression,123,34
+Pneumonitis,47,34
+Supplementation therapy,54,33
+Abdominal pain,57,32
+Hepatobiliary cancer,63,32
+Infection,48,32
+Malignant melanoma stage III,48,32
+Pemphigoid,89,32
+Seizure,55,32
+Disease progression,65,31
+Dyspnoea,42,31
+Gastritis,37,31
+Gastrooesophageal reflux prophylaxis,31,31
+Neuroendocrine tumour of the lung,80,31
+Ovarian cancer recurrent,93,31
+Renal cancer stage IV,52,31
+Squamous cell carcinoma of the tongue,56,31
+Anticoagulant therapy,32,30
+HIV infection,51,30
+Haemophagocytic lymphohistiocytosis,172,30
+Invasive breast carcinoma,104,30
+Metastatic uterine cancer,110,30
+Myocarditis-myositis-myasthenia gravis overlap syndrome,108,30
+Rheumatoid arthritis,58,30
+Cancer with a high tumour mutational burden,44,29
+Malignant melanoma stage II,33,29
+Mesothelioma,52,29
+Metastasis,63,29
+Antifungal prophylaxis,30,28
+Arthritis,37,28
+Basal cell carcinoma,28,28
+HER2 negative breast cancer,103,28
+Headache,39,28
+Hepatitis B,37,28
+Immune-mediated hepatitis,64,28
+Immunochemotherapy,35,28
+Metastatic neoplasm,68,28
+Non-small cell lung cancer stage II,61,28
+Tongue neoplasm malignant stage unspecified,46,28
+Antibiotic therapy,62,27
+Computerised tomogram,40,27
+Lip and/or oral cavity cancer,60,27
+Lung carcinoma cell type unspecified stage III,54,27
+Oropharyngeal squamous cell carcinoma,63,27
+Squamous cell carcinoma of the oral cavity,39,27
+Thyroid disorder,27,27
+Abdominal pain upper,32,26
+Colon cancer metastatic,46,26
+Drug eruption,59,26
+Gingival cancer,34,26
+Glaucoma,41,26
+Gout,30,26
+Immune-mediated lung disease,36,26
+Decreased appetite,40,25
+Medication dilution,60,25
+Metastases to peritoneum,81,25
+Prophylaxis against graft versus host disease,86,25
+Soft tissue sarcoma,53,25
+Stomatitis,66,25
+Vehicle solution use,37,25
+Adrenocortical carcinoma,105,24
+Coronary artery disease,45,24
+Dermatitis atopic,24,24
+Epithelioid mesothelioma,53,24
+Hypersensitivity,52,24
+Neuropathy peripheral,31,24
+Oropharyngeal cancer,42,24
+Prostate cancer metastatic,54,24
+Skin cancer,26,24
+Adjuvant therapy,34,23
+Adrenal gland cancer,68,23
+Gastrointestinal disorder,45,23
+Interstitial lung disease,35,23
+Oesophageal squamous cell carcinoma stage IV,67,23
+Papillary renal cell carcinoma,48,23
+Cytokine release syndrome,30,22
+Hodgkin's disease refractory,86,22
+Malignant melanoma of sites other than skin,38,22
+Renal neoplasm,40,22
+Thrombosis,23,22
+Vitamin D deficiency,24,22
+B-cell lymphoma,143,21
+Colitis ulcerative,39,21
+Gallbladder adenocarcinoma,48,21
+HER2 positive biliary tract cancer,29,21
+Metastases to adrenals,59,21
+Angiosarcoma,57,20
+Bronchitis,21,20
+Follicular lymphoma,136,20
+Neoadjuvant therapy,59,20
+Rash maculo-papular,25,20
+Chest pain,54,19
+Chronic lymphocytic leukaemia,40,19
+Colony stimulating factor therapy,22,19
+Endometrial neoplasm,36,19
+Hepatitis,39,19
+Hypercalcaemia,23,19
+Liver disorder,23,19
+Oral candidiasis,20,19
+Thyroidectomy,20,19
+Breast cancer stage II,39,18
+Gastrointestinal disorder prophylaxis,19,18
+Latent tuberculosis,28,18
+Malignant connective tissue neoplasm,31,18
+Mucosal inflammation,30,18
+Nasal sinus cancer,68,18
+Skin disorder,44,18
+Conjunctival melanoma,36,17
+Drug-induced liver injury,45,17
+Erectile dysfunction,17,17
+Gastrooesophageal cancer,63,17
+Hepatic cirrhosis,27,17
+Lung carcinoma cell type unspecified stage 0,21,17
+Peripheral arterial occlusive disease,22,17
+Primary mediastinal large B-cell lymphoma,104,17
+Squamous cell carcinoma of the hypopharynx,38,17
+Transitional cell carcinoma recurrent,36,17
+Adenocarcinoma metastatic,31,16
+Adenocarcinoma pancreas,37,16
+Breast cancer stage III,59,16
+COVID-19 immunisation,16,16
+Cerebrovascular accident,26,16
+Chronic hepatitis B,16,16
+Dermatitis,54,16
+Erythema,21,16
+Gallbladder cancer metastatic,42,16
+Lymphoma,51,16
+Malignant neoplasm of unknown primary site,28,16
+Metastatic bronchial carcinoma,50,16
+Nasopharyngeal cancer,48,16
+Nodular melanoma,26,16
+Oesophageal adenocarcinoma stage IV,57,16
+Pneumocystis jirovecii pneumonia,24,16
+Progressive multifocal leukoencephalopathy,22,16
+Thyroiditis,27,16
+Toxic epidermal necrolysis,31,16
+Ureteric cancer metastatic,26,16
+Adenosquamous cell lung cancer stage IV,43,15
+COVID-19,29,15
+Choroid melanoma,34,15
+Eczema,20,15
+Gallbladder cancer stage IV,29,15
+Gestational trophoblastic tumour,72,15
+Glioblastoma,21,15
+Graves' disease,18,15
+Grey zone lymphoma,95,15
+Immune thrombocytopenia,29,15
+Laryngeal squamous cell carcinoma,37,15
+Myocardial ischaemia,30,15
+Neuroendocrine carcinoma metastatic,29,15
+Non-small cell lung cancer stage IIIA,31,15
+Oesophageal squamous cell carcinoma metastatic,41,15
+Palliative care,33,15
+Pancreatic neuroendocrine tumour,95,15
+Prophylaxis against transplant rejection,65,15
+Pulmonary tuberculosis,53,15
+Adenocarcinoma gastric stage IV,79,14
+Arrhythmia,17,14
+Bone marrow conditioning regimen,55,14
+Cellulitis,17,14
+Diuretic therapy,27,14
+Endometrial cancer stage III,34,14
+Hyperglycaemia,20,14
+Lung squamous cell carcinoma stage II,28,14
+Mineral supplementation,16,14
+Myocardial infarction,25,14
+Neuroendocrine tumour,31,14
+Prostatitis,14,14
+Sarcomatoid carcinoma of the lung,42,14
+Thymic carcinoma,35,14
+Vaginal cancer metastatic,52,14
+Bladder transitional cell carcinoma metastatic,30,13
+Blood cholesterol increased,14,13
+Carcinoid tumour pulmonary,56,13
+Dry skin,14,13
+HER2 positive breast cancer,32,13
+Hepatic function abnormal,41,13
+Iron deficiency anaemia,14,13
+Lung carcinoma cell type unspecified recurrent,19,13
+Metastases to ovary,44,13
+Metastatic choriocarcinoma,13,13
+Palmar-plantar erythrodysaesthesia syndrome,15,13
+Pancreatic failure,13,13
+Pleural mesothelioma malignant recurrent,25,13
+Prophylactic chemotherapy,26,13
+Renal cell carcinoma recurrent,29,13
+Sarcoma,29,13
+Uveal melanoma,24,13
+Adenosquamous cell lung cancer,25,12
+Angiocentric lymphoma,43,12
+Antibiotic prophylaxis,15,12
+Biliary tract disorder,12,12
+Clear cell endometrial carcinoma,26,12
+Colon cancer stage IV,13,12
+Drug toxicity prophylaxis,13,12
+Dry mouth,12,12
+Gastric cancer recurrent,34,12
+Gastric ulcer,15,12
+Head and neck cancer stage IV,16,12
+Hyperkalaemia,12,12
+Immune-mediated myocarditis,24,12
+Malignant neoplasm of thorax,53,12
+Non-clear cell renal cell carcinoma,31,12
+Non-small cell lung cancer stage IIIB,29,12
+Plasma cell myeloma,24,12
+Pulmonary arterial hypertension,27,12
+Renal disorder,20,12
+Staphylococcal bacteraemia,26,12
+Tubulointerstitial nephritis,12,12
+Acute coronary syndrome,30,11
+Adenoid cystic carcinoma,19,11
+Allergy prophylaxis,20,11
+Antiemetic supportive care,15,11
+Bladder cancer recurrent,20,11
+Blood pressure increased,18,11
+Brain cancer metastatic,25,11
+Cardiac disorder,18,11
+Cardiovascular disorder,22,11
+Chronic kidney disease,15,11
+Crohn's disease,16,11
+Dermatomyositis,34,11
+Diffuse large B-cell lymphoma stage IV,81,11
+Gastrointestinal pain,18,11
+Gastrointestinal stromal tumour,19,11
+Hepatotoxicity,18,11
+Hypotension,23,11
+Lung squamous cell carcinoma recurrent,28,11
+Lymphodepletion,22,11
+Malignant neoplasm progression,21,11
+Metastases to pleura,23,11
+Metastatic ocular melanoma,23,11
+Nutritional supplementation,18,11
+Oedema peripheral,13,11
+Ovarian cancer metastatic,37,11
+Ovarian cancer stage IV,32,11
+Ovarian clear cell carcinoma,24,11
+Renal cell carcinoma stage III,13,11
+Schizophrenia,14,11
+Skin squamous cell carcinoma metastatic,25,11
+Stevens-Johnson syndrome,20,11
+Supportive care,56,11
+Thymoma,22,11
+Transitional cell cancer of renal pelvis and ureter metastatic,16,11
+Adult T-cell lymphoma/leukaemia,22,10
+Antiallergic therapy,10,10
+Arteriosclerosis,11,10
+BRAF gene mutation,22,10
+Bone cancer,15,10
+Brain neoplasm,13,10
+Brain neoplasm malignant,17,10
+Brain oedema,10,10
+Breast cancer recurrent,34,10
+Cachexia,10,10
+Cushing's syndrome,22,10
+Endocarditis,12,10
+Enterocolitis,13,10
+Epiglottic cancer,17,10
+Gastritis prophylaxis,10,10
+Hepatitis C,11,10
+Hormone receptor positive breast cancer,46,10
+Imaging procedure,10,10
+Immune-mediated myasthenia gravis,18,10
+Immunomodulatory therapy,18,10
+Large cell lung cancer stage IV,31,10
+Laryngeal cancer recurrent,10,10
+Lung adenocarcinoma stage II,36,10
+Malignant urinary tract neoplasm,15,10
+Melanoma recurrent,17,10
+Oesophageal squamous cell carcinoma recurrent,22,10
+Osteoarthritis,10,10
+PIK3CA-activated mutation,20,10
+Polymyalgia rheumatica,10,10
+Primary progressive multiple sclerosis,11,10
+Recurrent cancer,30,10
+Renal impairment,41,10
+Salivary gland cancer,32,10
+Sleep disorder,10,10
+Transient ischaemic attack,16,10
+Vitiligo,10,10
+Weight decreased,14,10
+Adrenal gland cancer metastatic,24,9
+Anal squamous cell carcinoma,23,9
+Antiviral treatment,9,9
+Autoimmune hypothyroidism,9,9
+Bladder transitional cell carcinoma recurrent,16,9
+Blood pressure measurement,14,9
+Breakthrough pain,17,9
+Bronchial neoplasm,31,9
+Catheter site infection,17,9
+Cerebral infarction,12,9
+Constipation prophylaxis,10,9
+Diabetic ketoacidosis,12,9
+Gastrointestinal melanoma,15,9
+Haemoptysis,9,9
+Haemorrhoids,12,9
+Hodgkin's disease recurrent,48,9
+Hypomagnesaemia,10,9
+Intraductal proliferative breast lesion,20,9
+Metastases to meninges,27,9
+Pain in extremity,17,9
+Parkinson's disease,14,9
+Pulmonary mass,9,9
+Rectal adenocarcinoma,14,9
+Secondary adrenocortical insufficiency,21,9
+Septic shock,24,9
+Staphylococcal infection,11,9
+Tumour lysis syndrome,13,9
+Type 1 diabetes mellitus,32,9
+Vulval cancer,15,9
+Wheezing,11,9
+Ascites,14,8
+Candida infection,17,8
+Chemotherapy cytokine prophylaxis,8,8
+Cholangitis,8,8
+EGFR gene mutation,33,8
+Embolism,8,8
+Epstein-Barr virus infection,86,8
+Follicular lymphoma stage IV,50,8
+Gastric cancer stage III,21,8
+General physical health deterioration,8,8
+Genital neoplasm malignant female,12,8
+HER2 mutant non-small cell lung cancer,22,8
+Head and neck cancer metastatic,12,8
+Hepatic neoplasm,13,8
+Hidradenitis,28,8
+Hypocalcaemia,10,8
+Immune enhancement therapy,8,8
+Immune-mediated hepatic disorder,12,8
+Inflammation,8,8
+Invasive lobular breast carcinoma,19,8
+Jugular vein thrombosis,8,8
+Lung adenocarcinoma recurrent,17,8
+Melaena,10,8
+Metaplastic breast carcinoma,32,8
+Metastatic bone disease prophylaxis,8,8
+Muscle spasms,9,8
+Oedema,17,8
+Osteoporosis prophylaxis,8,8
+Pain prophylaxis,11,8
+Pancreatitis,8,8
+Paraneoplastic dermatomyositis,29,8
+Pollakiuria,8,8
+Psoriatic arthropathy,8,8
+Pulmonary nocardiosis,48,8
+Restless legs syndrome,8,8
+Rhinitis allergic,10,8
+Sedation,8,8
+Sinus tachycardia,8,8
+Steroid therapy,10,8
+Systemic lupus erythematosus,16,8
+Targeted cancer therapy,9,8
+Thrombocytopenia,10,8
+Thyrotoxic crisis,22,8
+Tonsil cancer,15,8
+Tuberculosis,16,8
+Acute hepatic failure,28,7
+Acute myocardial infarction,9,7
+Adenosquamous cell lung cancer stage III,11,7
+Autoimmune thyroiditis,9,7
+BRAF V600E mutation positive,18,7
+Bladder cancer stage III,12,7
+Blood disorder prophylaxis,7,7
+Breast neoplasm,14,7
+Capillary leak syndrome,22,7
+Cardiac failure chronic,16,7
+Central nervous system lesion,8,7
+Cholangitis sclerosing,16,7
+Cutaneous T-cell lymphoma,20,7
+Desmoplastic small round cell tumour,38,7
+Diagnostic procedure,8,7
+Fungal infection,7,7
+Gastrointestinal carcinoma,18,7
+Hepatic cancer metastatic,15,7
+Hormone receptor positive HER2 negative breast cancer,17,7
+Hyponatraemia,9,7
+Immune system disorder,8,7
+Immune-mediated hypothyroidism,7,7
+Immune-mediated pancreatitis,18,7
+Intervertebral discitis,14,7
+Joint swelling,11,7
+K-ras gene mutation,20,7
+Kaposi's sarcoma,14,7
+Leiomyosarcoma metastatic,20,7
+Lung disorder,7,7
+Mesothelioma malignant,16,7
+Metastatic lymphoma,22,7
+Myasthenic syndrome,11,7
+Myelodysplastic syndrome with single lineage dysplasia,7,7
+Myoclonus,7,7
+Nasal polyps,7,7
+Nasopharyngitis,9,7
+Neurodermatitis,9,7
+Neurotrophic keratopathy,7,7
+Oligodendroglioma,9,7
+Oropharyngeal cancer recurrent,21,7
+Pancytopenia,15,7
+Prophylaxis against diarrhoea,7,7
+Seasonal allergy,8,7
+Sepsis,13,7
+Throat cancer,7,7
+Transitional cell carcinoma urethra,10,7
+Urethral cancer,10,7
+Abdominal distension,6,6
+Acute kidney injury,9,6
+Adverse drug reaction,12,6
+Alcoholism,7,6
+Allergy alert test,12,6
+Angina pectoris,8,6
+Astrocytoma malignant,15,6
+Atrial thrombosis,6,6
+Autoimmune hepatitis,11,6
+Bile duct adenocarcinoma,12,6
+Bipolar disorder,10,6
+Blood uric acid increased,6,6
+Bone pain,9,6
+Brain abscess,13,6
+Bronchopulmonary aspergillosis,11,6
+Colon cancer recurrent,9,6
+Colorectal adenocarcinoma,15,6
+Conjunctivitis,6,6
+Dermo-hypodermitis,13,6
+Desmoplastic melanoma,7,6
+Diabetic neuropathy,6,6
+Epistaxis,9,6
+Erythema multiforme,13,6
+Glioma,10,6
+Hepatic enzyme increased,6,6
+Herpes zoster,6,6
+Immune effector cell-associated neurotoxicity syndrome,13,6
+Immunisation,6,6
+Immunoglobulin therapy,6,6
+Lymphoma transformation,64,6
+Malnutrition,8,6
+Marginal zone lymphoma,24,6
+Mental disorder,10,6
+Metastases to biliary tract,7,6
+Metastases to spine,12,6
+Migraine,8,6
+Mixed adenoneuroendocrine carcinoma,31,6
+Myalgia,6,6
+Mycobacterium tuberculosis complex test positive,10,6
+Neck pain,8,6
+Neutrophil count decreased,10,6
+Non-Hodgkin's lymphoma,12,6
+Oesophagitis,7,6
+Oropharyngeal pain,6,6
+Osteosarcoma,25,6
+Ovarian epithelial cancer,23,6
+Pericardial effusion,16,6
+Pleural effusion,7,6
+Pneumonia aspiration,7,6
+Polyneuropathy,8,6
+Portal vein thrombosis,8,6
+Product use in unapproved indication,6,6
+Renal cancer recurrent,13,6
+Respiratory tract infection,11,6
+Sarcomatoid carcinoma,11,6
+Sclerosing epithelioid fibrosarcoma,12,6
+Septic embolus,6,6
+Smoking cessation therapy,6,6
+Steroid diabetes,9,6
+Surgery,11,6
+Thyroid cancer metastatic,12,6
+Tumour pain,13,6
+Tumour thrombosis,6,6
+Vanishing bile duct syndrome,8,6
+Adenocarcinoma of appendix,23,5
+Adenosquamous carcinoma of the cervix,17,5
+Allogenic stem cell transplantation,17,5
+Anal cancer,12,5
+Angiosarcoma metastatic,9,5
+Antiinflammatory therapy,6,5
+Antiviral prophylaxis,5,5
+Aspergillus infection,7,5
+Atrioventricular block complete,9,5
+Autoimmune colitis,16,5
+Autoimmune haemolytic anaemia,11,5
+Bacterial infection,5,5
+Basal cell carcinoma metastatic,5,5
+Bile duct cancer recurrent,10,5
+Bladder neoplasm,6,5
+Bladder transitional cell carcinoma stage III,8,5
+Blepharitis,5,5
+Blood cholesterol,6,5
+Blood potassium decreased,5,5
+Bone disorder,5,5
+Breast cancer stage IV,12,5
+Chemotherapy toxicity attenuation,13,5
+Chronic myelomonocytic leukaemia,12,5
+Coagulopathy,5,5
+Delirium,17,5
+Drug therapy,5,5
+Gallbladder cancer recurrent,11,5
+Gastritis haemorrhagic,23,5
+Gastroenteritis,5,5
+Gastrointestinal adenocarcinoma,15,5
+Generalised oedema,21,5
+Glioblastoma multiforme,8,5
+Hepatic failure,11,5
+Human epidermal growth factor receptor negative,15,5
+Hypertonic bladder,5,5
+Hypoaesthesia,9,5
+Hypoglycaemia,17,5
+Hypophosphataemia,6,5
+Immune-mediated adrenal insufficiency,5,5
+Immunodeficiency common variable,6,5
+Intestinal metastasis,12,5
+Leiomyosarcoma,10,5
+Lip squamous cell carcinoma,8,5
+Liver transplant,5,5
+Lower urinary tract symptoms,6,5
+Lymphadenopathy,14,5
+Malignant ossifying fibromyxoid tumour,24,5
+Malignant peritoneal neoplasm,13,5
+Mania,17,5
+Meningioma,5,5
+Mesenteric panniculitis,10,5
+Metabolic dysfunction-associated steatohepatitis,7,5
+Metastases to skin,13,5
+Mixed hepatocellular cholangiocarcinoma,17,5
+Musculoskeletal chest pain,8,5
+NUT midline carcinoma,13,5
+Neoplasm recurrence,11,5
+Neuroendocrine cancer of the prostate metastatic,10,5
+Neuroendocrine carcinoma of prostate,10,5
+Non-renal cell carcinoma of kidney,8,5
+Odynophagia,5,5
+Osteolysis,5,5
+Papillary serous endometrial carcinoma,10,5
+Paraesthesia,7,5
+Peripheral T-cell lymphoma unspecified refractory,15,5
+Peripheral swelling,5,5
+Peritoneal mesothelioma malignant,12,5
+Portal hypertension,8,5
+Productive cough,6,5
+Prostatic adenoma,7,5
+Prostatic urothelial carcinoma,7,5
+Pseudomonas infection,8,5
+Psychotic disorder,7,5
+Pulmonary toxicity,7,5
+Radiotherapy,5,5
+Rhabdoid tumour,13,5
+Rhodococcus infection,36,5
+Sarcoma uterus,8,5
+Sinusitis,8,5
+Skin angiosarcoma,15,5
+T-cell lymphoma,16,5
+Transitional cell cancer of the renal pelvis and ureter recurrent,14,5
+Ureteric cancer recurrent,7,5
+Varices oesophageal,5,5
+Vision blurred,5,5
+White blood cell count decreased,8,5
+Abdominal discomfort,4,4
+Acral lentiginous melanoma,11,4
+Acral lentiginous melanoma stage IV,8,4
+Acute myeloid leukaemia,7,4
+Adenosquamous cell carcinoma,10,4
+Adjustment disorder with depressed mood,4,4
+Adrenal disorder,12,4
+Aesthesioneuroblastoma,13,4
+Alcohol abuse,5,4
+Alveolar soft part sarcoma,7,4
+Alveolar soft part sarcoma metastatic,12,4
+Anti-glomerular basement membrane disease,5,4
+Anti-infective therapy,4,4
+Appetite disorder,4,4
+B-cell small lymphocytic lymphoma,4,4
+Bacteraemia,13,4
+Bile duct cancer stage II,10,4
+Bile duct cancer stage III,13,4
+Blood pressure abnormal,5,4
+Blood thyroid stimulating hormone increased,4,4
+Bone cancer metastatic,8,4
+Bone giant cell tumour malignant,5,4
+Breast angiosarcoma,8,4
+Bronchitis chronic,4,4
+Cellulite,7,4
+Cerebrospinal fluid leakage,4,4
+Cerebrovascular accident prophylaxis,4,4
+Cholecystitis,7,4
+Chondrocalcinosis,5,4
+Chordoma,5,4
+Clostridium difficile colitis,4,4
+Cytomegalovirus infection,4,4
+Dysphagia,5,4
+Encephalitis autoimmune,6,4
+Encephalopathy,8,4
+Eosinophilic oesophagitis,7,4
+Fibrin D dimer increased,4,4
+Fluid retention,6,4
+Folate deficiency,4,4
+Gallbladder cancer stage III,16,4
+Gastroenteropancreatic neuroendocrine tumour disease,9,4
+Gene mutation,11,4
+Germ cell neoplasm,28,4
+Gingivitis,5,4
+Glomerulonephritis membranous,5,4
+Hereditary non-polyposis colorectal cancer syndrome,5,4
+Hodgkin's disease nodular sclerosis recurrent,4,4
+Hormone-refractory prostate cancer,23,4
+Hypertensive heart disease,6,4
+Hypoalbuminaemia,4,4
+Hypophysitis,9,4
+Hypopituitarism,7,4
+Immune-mediated adverse reaction,7,4
+Immune-mediated arthritis,6,4
+Infusion related reaction,10,4
+Intravesical immunotherapy,4,4
+Iron deficiency,5,4
+Keratoacanthoma,13,4
+Laryngeal cancer,6,4
+Laxative supportive care,4,4
+Lichenoid keratosis,10,4
+Liver injury,5,4
+Local anaesthesia,4,4
+Loss of consciousness,6,4
+Lung abscess,6,4
+Magnesium deficiency,4,4
+Malignant neoplasm of ampulla of Vater,13,4
+Malignant pleural effusion,9,4
+Mediastinum neoplasm,10,4
+Metastases to muscle,13,4
+Metastases to pancreas,10,4
+Metastases to the mediastinum,22,4
+Muscular weakness,4,4
+Neuroendocrine carcinoma of the cervix,23,4
+Neuroendocrine carcinoma of the oesophagus,19,4
+Orthostatic hypotension,4,4
+Ovarian endometrioid carcinoma,29,4
+Oxygen therapy,4,4
+Pancreatic carcinoma stage IV,22,4
+Pancreatic neuroendocrine tumour metastatic,14,4
+Paraneoplastic syndrome,14,4
+Penile cancer,5,4
+Peripheral vein thrombosis,4,4
+Plasma cell myeloma refractory,4,4
+Prolactin-producing pituitary tumour,12,4
+Rash pruritic,10,4
+Renal failure,6,4
+Renal hypertension,4,4
+Respiratory failure,10,4
+Rhinitis,4,4
+Sialoadenitis,4,4
+Skin toxicity,8,4
+Small cell lung cancer recurrent,10,4
+Status epilepticus,13,4
+Superficial spreading melanoma stage IV,6,4
+Thymoma malignant,12,4
+Thyroid cyst,6,4
+Tongue cancer metastatic,4,4
+Tooth extraction,5,4
+Toxicity to various agents,4,4
+Transitional cell cancer of the renal pelvis and ureter localised,9,4
+Upper respiratory tract infection,7,4
+Uveitis,4,4
+Vaginal neoplasm,19,4
+Ventricular tachycardia,4,4
+Abnormal behaviour,3,3
+Adenosquamous cell lung cancer stage II,3,3
+Adrenocortical steroid therapy,3,3
+Agitation,4,3
+Alcohol withdrawal syndrome,3,3
+Anaemia folate deficiency,3,3
+Antiplatelet therapy,3,3
+Arrhythmia prophylaxis,3,3
+Asthenia,3,3
+Atypical mycobacterial infection,9,3
+Autologous haematopoietic stem cell transplant,14,3
+B-cell lymphoma refractory,7,3
+B-cell type acute leukaemia,10,3
+BRCA1 gene mutation,8,3
+Barrett's oesophagus,5,3
+Bladder cancer stage II,5,3
+Blister,10,3
+Blood glucose increased,5,3
+Blood potassium,3,3
+Blood pressure decreased,4,3
+Blood test,5,3
+Body tinea,5,3
+Brain operation,3,3
+Brain stem glioma,12,3
+Bronchospasm,6,3
+C-reactive protein increased,3,3
+Central nervous system lymphoma,6,3
+Cervix carcinoma stage II,9,3
+Chest discomfort,3,3
+Cholelithiasis,3,3
+Choriocarcinoma,8,3
+Chromophobe renal cell carcinoma,7,3
+Chronic hepatitis C,3,3
+Cirrhosis alcoholic,8,3
+Colon cancer stage III,3,3
+Cystitis,3,3
+Cytomegalovirus colitis,4,3
+Dehydration,3,3
+Dementia,4,3
+Dental care,3,3
+Device related thrombosis,3,3
+Dilated cardiomyopathy,3,3
+Duodenal ulcer,4,3
+Dysbiosis,3,3
+Ectopic ACTH syndrome,6,3
+Enanthema,5,3
+Escherichia infection,3,3
+Essential hypertension,5,3
+Factor V Leiden mutation,3,3
+Factor VIII deficiency,3,3
+Flatulence,3,3
+Fluid replacement,5,3
+Gingival bleeding,6,3
+Glottis carcinoma,11,3
+Graft versus host disease,7,3
+HER2 protein overexpression,3,3
+Haematological neoplasm,6,3
+Haematopoietic stem cell mobilisation,6,3
+Haemoglobin decreased,3,3
+"Hallucination, visual",6,3
+Herpes simplex,4,3
+Herpes simplex encephalitis,5,3
+Hodgkin's disease nodular sclerosis,4,3
+Hodgkin's disease nodular sclerosis stage III,40,3
+Homologous recombination deficiency positive advanced ovarian cancer,6,3
+Hormone receptor negative HER2 positive breast cancer,10,3
+Hormone-dependent prostate cancer,21,3
+Hypercalcaemia of malignancy,3,3
+Hypertrophy,5,3
+Hypopharyngeal cancer stage IV,4,3
+Idiopathic pulmonary fibrosis,5,3
+Ill-defined disorder,6,3
+Immune-mediated thyroiditis,8,3
+Intertrigo,7,3
+Intestinal adenocarcinoma,5,3
+Intracranial pressure increased,3,3
+Large cell lung cancer metastatic,13,3
+Large intestine infection,3,3
+Lung adenocarcinoma stage I,7,3
+Lymph node tuberculosis,5,3
+Malignant fibrous histiocytoma,6,3
+Malignant glioma,5,3
+Malignant neoplasm of conjunctiva,6,3
+Mantle cell lymphoma,4,3
+Metastases to eye,5,3
+Mucosal disorder,3,3
+Musculoskeletal pain,3,3
+Mycobacterium avium complex infection,10,3
+Myelosuppression,3,3
+Myopericarditis,4,3
+Nasal cavity cancer,8,3
+Nasal dryness,5,3
+Neoplasm progression,3,3
+Neuritis,4,3
+Neutropenic sepsis,10,3
+Ocular melanoma,5,3
+Oral pain,3,3
+Oropharyngeal cancer stage IV,3,3
+Orthosis user,3,3
+Osteonecrosis of jaw,6,3
+Ovarian cancer stage III,7,3
+Ovarian granulosa cell tumour,10,3
+Ovarian neoplasm,3,3
+Overlap syndrome,8,3
+Pain management,3,3
+Papillary thyroid cancer,4,3
+Papilloma viral infection,7,3
+Pericardial mesothelioma malignant,6,3
+Periodontitis,5,3
+Peripheral T-cell lymphoma unspecified,9,3
+Peritoneal neoplasm,4,3
+Pharyngeal cancer,6,3
+Pituitary tumour benign,5,3
+Platelet count decreased,4,3
+Polycythaemia vera,5,3
+Polymyositis,3,3
+Poorly differentiated thyroid carcinoma,7,3
+Post-traumatic stress disorder,3,3
+Primary hypothyroidism,3,3
+Primary pulmonary melanoma,4,3
+Prostate cancer recurrent,3,3
+Prostate cancer stage III,3,3
+Prostate cancer stage IV,6,3
+Pulmonary fibrosis,3,3
+Pyelonephritis,5,3
+Radiation necrosis,3,3
+Radioimmunotherapy,3,3
+Rectosigmoid cancer,6,3
+Rheumatic disorder,10,3
+Rib fracture,6,3
+Salvage therapy,6,3
+Sarcoidosis,5,3
+Sarcoma metastatic,5,3
+Sarcomatoid mesothelioma,6,3
+Self-medication,3,3
+Seronegative arthritis,5,3
+Skin infection,3,3
+Skin squamous cell carcinoma recurrent,3,3
+Small cell carcinoma of the cervix,10,3
+Solvent sensitivity,4,3
+Spinal fracture,5,3
+Squamous cell carcinoma of pharynx,5,3
+Squamous cell carcinoma of the vagina,3,3
+Squamous cell carcinoma of the vulva,6,3
+Superficial spreading melanoma stage unspecified,7,3
+Supraventricular tachycardia,4,3
+Taste disorder,3,3
+Therapeutic product effect increased,3,3
+Thrombocytosis,3,3
+Thymic cancer metastatic,5,3
+Tumour associated fever,3,3
+Tumour invasion,8,3
+Type I hypersensitivity,8,3
+Ureteral neoplasm,7,3
+Urticaria,4,3
+Venous thrombosis,5,3
+Viral hepatitis carrier,3,3
+Viral infection,3,3
+Vitamin B12 deficiency,4,3
+Wound complication,5,3
+Acinar cell carcinoma of pancreas,16,2
+Acinic cell carcinoma of salivary gland,3,2
+Acne,2,2
+Acromegaly,2,2
+Actinic keratosis,3,2
+Adenoid cystic carcinoma of salivary gland,3,2
+Adenosquamous cell lung cancer recurrent,4,2
+Adrenal neoplasm,11,2
+Alopecia scarring,2,2
+Ameloblastic carcinoma,2,2
+Amnesia,2,2
+Anaesthesia,3,2
+Anal cancer metastatic,9,2
+Anaplastic large cell lymphoma T- and null-cell types,10,2
+Antidepressant therapy,2,2
+Antinuclear antibody positive,2,2
+Antipyresis,2,2
+Anxiety disorder,2,2
+Aortic aneurysm,2,2
+Aplasia pure red cell,6,2
+Appendix cancer,2,2
+Arrhythmia supraventricular,2,2
+Arthritis infective,2,2
+Astrocytoma,5,2
+Atelectasis,2,2
+Autoimmune arthritis,4,2
+Autoimmune dermatitis,2,2
+Autoimmune lung disease,4,2
+B-cell lymphoma unclassifiable,17,2
+Basal cell naevus syndrome,2,2
+Biopsy endometrium,2,2
+Biopsy kidney,2,2
+Biotherapy,2,2
+Biphasic mesothelioma,6,2
+Bladder squamous cell carcinoma stage III,2,2
+Blood creatinine increased,2,2
+Blood glucose abnormal,3,2
+Blood iron decreased,2,2
+Blood phosphorus decreased,2,2
+Bone lesion,3,2
+Bone marrow oedema,2,2
+Bone metabolism disorder,2,2
+Breast angiosarcoma metastatic,4,2
+Breast pain,4,2
+Bronchiectasis,6,2
+Bronchopulmonary disease,2,2
+Bulbospinal muscular atrophy congenital,2,2
+COVID-19 prophylaxis,2,2
+COVID-19 treatment,2,2
+Calcium deficiency,3,2
+Carcinoid syndrome,3,2
+Carcinoid tumour,3,2
+Carcinoma in situ,2,2
+Cardiac failure congestive,2,2
+Cardiac neoplasm malignant,17,2
+Cataract,7,2
+Catheter management,3,2
+Cerebral venous sinus thrombosis,2,2
+Cervicobrachial syndrome,2,2
+Cholestasis,2,2
+Chondrosarcoma,2,2
+Chronic gastritis,2,2
+Chronic graft versus host disease,15,2
+Chronic pigmented purpura,9,2
+Claustrophobia,2,2
+Clear cell sarcoma of soft tissue,4,2
+Clostridium difficile infection,2,2
+Cogan's syndrome,3,2
+Computerised tomogram head,2,2
+Confusional state,3,2
+Coronary arterial stent insertion,6,2
+Coronary artery bypass,3,2
+Coronavirus infection,2,2
+Creatinine renal clearance decreased,2,2
+Cytomegalovirus duodenitis,2,2
+Cytotoxic lesions of corpus callosum,2,2
+Deficiency anaemia,3,2
+Depressive symptom,2,2
+Dermatitis acneiform,2,2
+Dermatitis allergic,3,2
+Dermatitis bullous,3,2
+Dermatitis exfoliative generalised,3,2
+Dermatitis psoriasiform,2,2
+Device occlusion,2,2
+Diffuse large B-cell lymphoma refractory,12,2
+Disease recurrence,6,2
+Diverticulitis,3,2
+Dizziness,7,2
+Drug dependence,2,2
+Duodenitis,4,2
+Dysphonia,2,2
+Dysuria,2,2
+Electrolyte substitution therapy,4,2
+Encephalitis,2,2
+Endometrial cancer stage I,4,2
+Endometrial cancer stage II,3,2
+Endometrial sarcoma recurrent,4,2
+Endometriosis,3,2
+Enterococcal infection,3,2
+Epithelioid sarcoma,2,2
+Ewing's sarcoma,4,2
+Extrasystoles,2,2
+Extravasation,3,2
+Eye disorder prophylaxis,2,2
+Eye pruritus,2,2
+Fallopian tube cancer,3,2
+Fatigue,2,2
+Fibromyalgia,5,2
+Follicular dendritic cell sarcoma,16,2
+Follicular lymphoma recurrent,6,2
+Follicular lymphoma stage III,14,2
+Follicular thyroid cancer,6,2
+Foot fracture,3,2
+Fracture pain,2,2
+Fusarium infection,6,2
+Gallbladder neoplasm,5,2
+Gastric haemorrhage,2,2
+Gastric mucosal lesion,4,2
+Gastrointestinal neoplasm,3,2
+Generalised tonic-clonic seizure,2,2
+Giant cell arteritis,2,2
+Glucose tolerance impaired,4,2
+Goitre,2,2
+Granulocyte-colony stimulating factor test,2,2
+Groin pain,6,2
+Guillain-Barre syndrome,3,2
+Guttate psoriasis,2,2
+HER2 low breast cancer,5,2
+HER2 positive salivary gland cancer,4,2
+Haemarthrosis,2,2
+Haematochezia,2,2
+Haematuria,3,2
+Hepatic encephalopathy,3,2
+Hepatic lesion,3,2
+Hiatus hernia,2,2
+Hiccups,2,2
+Histiocytic sarcoma,12,2
+Hodgkin's disease nodular sclerosis refractory,3,2
+Hodgkin's disease nodular sclerosis stage II,4,2
+Hodgkin's disease nodular sclerosis stage IV,11,2
+Hodgkin's disease stage IV,6,2
+Hormone suppression therapy,2,2
+Hyperadrenocorticism,4,2
+Hyperbilirubinaemia,3,2
+Hyperchlorhydria,2,2
+Hyperhidrosis,2,2
+Hyperparathyroidism,2,2
+Hypokalaemic syndrome,2,2
+Illness,9,2
+Immune-mediated cholangitis,2,2
+Immune-mediated dermatitis,5,2
+Immune-mediated gastritis,3,2
+Immunoadsorption therapy,2,2
+Immunodeficiency,2,2
+Impaired healing,2,2
+Increased appetite,2,2
+Infectious pleural effusion,2,2
+Influenza like illness,3,2
+Infusion site extravasation,2,2
+Initial insomnia,2,2
+Irritable bowel syndrome,5,2
+Ischaemic cardiomyopathy,4,2
+Isocitrate dehydrogenase gene mutation,8,2
+Keratinising squamous cell carcinoma of nasopharynx,2,2
+Kidney transplant rejection,5,2
+Large cell lung cancer,6,2
+Laryngeal cancer metastatic,15,2
+Laryngitis,2,2
+Lentigo maligna,2,2
+Lichen planus pemphigoides,4,2
+Lipid management,3,2
+Liver function test increased,2,2
+Localised melanoma,2,2
+Lung squamous cell carcinoma stage I,4,2
+Lymphadenitis,3,2
+Lymphadenopathy mediastinal,4,2
+Major depression,3,2
+Malaise,2,2
+Malignant airway obstruction,3,2
+Malignant neoplasm of thymus,5,2
+Medical device site thrombosis,2,2
+Mesenteric arteriosclerosis,2,2
+Mesenteric vein thrombosis,2,2
+Metabolic disorder,3,2
+Metastases to bone marrow,5,2
+Metastases to gastrointestinal tract,3,2
+Metastases to pelvis,4,2
+Metastases to stomach,6,2
+Metastases to vagina,4,2
+Metastatic salivary gland cancer,3,2
+Mitral valve disease,2,2
+Mixed anxiety and depressive disorder,2,2
+Morphoea,7,2
+Mucoepidermoid carcinoma,8,2
+Mucolytic treatment,2,2
+Mucous membrane pemphigoid,2,2
+Multifocal motor neuropathy,2,2
+Multiple sclerosis,2,2
+Musculoskeletal disorder prophylaxis,2,2
+Myasthenia gravis crisis,6,2
+Mycobacterium abscessus infection,10,2
+Myelitis transverse,2,2
+Naevoid melanoma,2,2
+Nasal congestion,2,2
+Nasopharyngeal cancer metastatic,9,2
+Nephrolithiasis,2,2
+Neuroendocrine tumour of the lung metastatic,4,2
+Neurofibrosarcoma,2,2
+Nocardiosis,3,2
+Nodule,5,2
+Non-small cell lung cancer stage I,4,2
+Obesity,3,2
+Oedema due to renal disease,3,2
+Oesophageal neoplasm,3,2
+Oesophageal squamous cell carcinoma stage III,10,2
+Osteogenesis imperfecta,2,2
+Osteomalacia,2,2
+Otitis media,6,2
+Pallor,2,2
+Pancreaticobiliary carcinoma,4,2
+Parenteral nutrition,3,2
+Parkinson's disease psychosis,2,2
+Parkinsonism,2,2
+Partial seizures,5,2
+Pelvic neoplasm,12,2
+Pelvic pain,3,2
+Peripheral sensory neuropathy,3,2
+Phaeochromocytoma,4,2
+Phlebitis,2,2
+Phyllodes tumour,2,2
+Pleomorphic liposarcoma,5,2
+Pleurisy bacterial,3,2
+Pneumonia bacterial,3,2
+Polyarthritis,3,2
+Polyuria,2,2
+Post procedural infection,4,2
+Post procedural oedema,2,2
+Post-traumatic epilepsy,2,2
+Postoperative care,3,2
+Procedural pain,4,2
+Pulmonary alveolar haemorrhage,2,2
+Pulmonary artery thrombosis,3,2
+Pulmonary histoplasmosis,2,2
+Pulmonary resection,5,2
+Pulmonary tuberculoma,2,2
+Radioisotope therapy,2,2
+Rash erythematous,2,2
+Raynaud's phenomenon,4,2
+Reduction of increased intracranial pressure,2,2
+Relapsing-remitting multiple sclerosis,2,2
+Renal cancer stage II,2,2
+Renal colic,3,2
+Renal transplant,7,2
+Retinopathy,4,2
+Richter's syndrome,14,2
+SARS-CoV-2 test positive,2,2
+SJS-TEN overlap,7,2
+Sacral pain,2,2
+Salivary gland cancer recurrent,10,2
+Scan,2,2
+Secondary immunodeficiency,2,2
+Sedative therapy,3,2
+Serositis,5,2
+Shock,3,2
+Short-bowel syndrome,2,2
+Skin erosion,2,2
+Skin exfoliation,4,2
+Skin lesion,2,2
+Spinal stenosis,2,2
+Splenic marginal zone lymphoma,8,2
+Stent placement,2,2
+Stomach dilation procedure,2,2
+Streptococcal bacteraemia,2,2
+Strongyloidiasis,4,2
+Superficial spreading melanoma stage III,2,2
+Superinfection,2,2
+Superior vena cava syndrome,4,2
+Synovial sarcoma,12,2
+Tachycardia,3,2
+Tendon disorder,2,2
+Testis cancer,7,2
+Thrombophlebitis migrans,2,2
+Thrombotic thrombocytopenic purpura,5,2
+Thymoma malignant recurrent,2,2
+Tongue cancer recurrent,4,2
+Tongue carcinoma stage IV,2,2
+Tonsil cancer metastatic,6,2
+Tooth abscess,2,2
+Tooth disorder,2,2
+Toxic skin eruption,2,2
+Transaminases increased,2,2
+Transplant rejection,5,2
+Troponin increased,2,2
+Ulcer,2,2
+Undifferentiated sarcoma,4,2
+Upper gastrointestinal haemorrhage,2,2
+Urethral cancer metastatic,4,2
+Urinary retention,2,2
+Urinary tract disorder,2,2
+Urinary tract pain,2,2
+Urosepsis,2,2
+Vasculitis,2,2
+Ventricular extrasystoles,2,2
+Vulval cancer recurrent,8,2
+Vulvovaginal dryness,2,2
+ALK gene rearrangement positive,1,1
+Abdominal infection,2,1
+Abdominal pain lower,1,1
+Abdominal symptom,1,1
+Acquired amegakaryocytic thrombocytopenia,4,1
+Acquired gene mutation,1,1
+Acquired haemophilia,3,1
+Acquired immunodeficiency syndrome,2,1
+Acral lentiginous melanoma stage III,1,1
+Acrokeratosis paraneoplastica,1,1
+Acute lung injury,1,1
+Acute myeloid leukaemia recurrent,1,1
+Acute pulmonary oedema,1,1
+Acute respiratory failure,1,1
+Adenocarcinoma gastric stage III,3,1
+Adjustment disorder,1,1
+Adrenal mass,1,1
+Adrenocortical insufficiency acute,1,1
+Adrenocorticotropic hormone deficiency,1,1
+Advanced systemic mastocytosis,2,1
+African trypanosomiasis,1,1
+Agitated depression,2,1
+Agranulocytosis,1,1
+Airway secretion clearance therapy,1,1
+Alopecia,1,1
+Anaemia of chronic disease,1,1
+Anaemia prophylaxis,2,1
+Anal cancer stage IV,1,1
+Anal fistula,1,1
+Anal haemorrhage,6,1
+Analgesic intervention supportive therapy,1,1
+Anaphylactic reaction,2,1
+Anaplastic lymphoma kinase gene mutation,2,1
+Angiocentric lymphoma recurrent,1,1
+Angiopathic neuropathy,2,1
+Angiosarcoma recurrent,1,1
+Ankylosing spondylitis,1,1
+Antacid therapy,1,1
+Anticonvulsant drug level therapeutic,1,1
+Antidiarrhoeal supportive care,1,1
+Antifungal treatment,3,1
+Antioxidant therapy,1,1
+Antipsychotic therapy,1,1
+Antisynthetase syndrome,1,1
+Anxiolytic therapy,1,1
+Aortic stenosis,1,1
+Aortic valve replacement,1,1
+Aortitis,1,1
+Aplastic anaemia,1,1
+Arrhythmia induced cardiomyopathy,2,1
+Arteriospasm coronary,1,1
+Arteritis,1,1
+Arthropod bite,1,1
+Arthropod infestation,1,1
+Aspartate aminotransferase increased,1,1
+Asthma prophylaxis,2,1
+Atrial flutter,1,1
+Atrial tachycardia,2,1
+Autoimmune myocarditis,1,1
+Autoimmune myositis,2,1
+Autoimmune pancreatitis,1,1
+Autoinflammatory disease,2,1
+Bacillus Calmette-Guerin infection,5,1
+Bankart lesion,1,1
+Behaviour disorder,3,1
+Benign bone neoplasm,1,1
+Benign neoplasm of skin,1,1
+Benign vaginal neoplasm,1,1
+Bile duct adenosquamous carcinoma,3,1
+Bile duct cancer stage 0,1,1
+Bile duct cancer stage I,3,1
+Biliary tract infection,1,1
+Biopsy bone marrow,2,1
+Bladder adenocarcinoma stage unspecified,2,1
+"Bladder cancer stage 0, with cancer in situ",1,1
+Bladder disorder,1,1
+Bladder pain,2,1
+Blood antidiuretic hormone,1,1
+Blood beta-D-glucan increased,1,1
+Blood glucose,1,1
+Blood lactate dehydrogenase increased,1,1
+Blood magnesium decreased,1,1
+Blood pressure fluctuation,1,1
+Blood pressure management,2,1
+Blood thyroid stimulating hormone,1,1
+Blood triglycerides increased,1,1
+Bone sarcoma,1,1
+Bowel movement irregularity,1,1
+Brachytherapy,1,1
+Brain radiation necrosis,2,1
+Brain stem infarction,1,1
+Brain stem syndrome,1,1
+Breast cancer in situ,1,1
+Breast cancer male,1,1
+Breast disorder,1,1
+Breast mass,3,1
+Bronchial disorder,1,1
+Bronchial neoplasm benign,1,1
+Bronchial obstruction,1,1
+Bronchiolitis,5,1
+Broncholithiasis,1,1
+Burkitt's lymphoma refractory,2,1
+Burnout syndrome,2,1
+CSF pressure,1,1
+CSF test abnormal,1,1
+Campylobacter colitis,2,1
+Campylobacter infection,1,1
+Cancer hormonal therapy,1,1
+Cardiac amyloidosis,3,1
+Cardiac fibrillation,1,1
+Cardiac resynchronisation therapy,1,1
+Cardiogenic shock,1,1
+Cardiomyopathy,1,1
+Cardiotoxicity,1,1
+Carotid artery stenosis,2,1
+Carpal tunnel decompression,1,1
+Carpal tunnel syndrome,1,1
+Catheter site pain,1,1
+Cell death,2,1
+Central hypothyroidism,1,1
+Central nervous system lupus,1,1
+Cerebellar ataxia,1,1
+Cerebral artery embolism,2,1
+Cervical radiculopathy,1,1
+Cervix carcinoma stage 0,3,1
+Cervix carcinoma stage I,4,1
+Cervix disorder,1,1
+Chemotherapy single agent systemic,1,1
+Child-Pugh-Turcotte score abnormal,1,1
+Chills,1,1
+Cholangiosarcoma,1,1
+Cholestatic liver injury,6,1
+Chondroma,2,1
+Chondrosarcoma metastatic,1,1
+Chorioretinal folds,6,1
+Choroidal detachment,6,1
+Chronic cutaneous lupus erythematosus,1,1
+Chronic eosinophilic rhinosinusitis,1,1
+Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids,1,1
+Chronic lymphocytic leukaemia transformation,7,1
+Chronic myeloid leukaemia,1,1
+Chronic rhinosinusitis with nasal polyps,2,1
+Clear cell carcinoma of cervix,2,1
+Clear cell papillary renal cell carcinoma,2,1
+Clostridium colitis,2,1
+Coagulation factor deficiency,1,1
+Cognitive disorder,2,1
+Colectomy,1,1
+Colitis microscopic,2,1
+Colon neoplasm,1,1
+Colorectal cancer recurrent,2,1
+Compression fracture,1,1
+Condition aggravated,2,1
+Congenital aplasia,1,1
+Congenital cystic kidney disease,5,1
+Connective tissue disorder,1,1
+Connective tissue neoplasm,1,1
+Corticosteroid binding globulin normal,1,1
+Costochondritis,1,1
+Cutaneous lupus erythematosus,1,1
+Cutaneous lymphoma,2,1
+Cutaneous vasculitis,2,1
+Cytokine storm,1,1
+Cytomegalovirus enteritis,1,1
+Cytomegalovirus test positive,1,1
+Cytomegalovirus viraemia,1,1
+Cytoreductive surgery,2,1
+DNA mismatch repair protein gene mutation,1,1
+Decubitus ulcer,3,1
+Dedifferentiated liposarcoma,6,1
+Deficiency of bile secretion,1,1
+Denture stomatitis,1,1
+Dermatitis contact,5,1
+Dermatosis,2,1
+Device issue,1,1
+Diabetes insipidus,1,1
+Diabetes mellitus management,1,1
+Diabetic dyslipidaemia,1,1
+Diffuse large B-cell lymphoma recurrent,1,1
+Diffuse large B-cell lymphoma stage I,4,1
+Diplopia,1,1
+Disease complication,2,1
+Disseminated aspergillosis,2,1
+Diverticulum intestinal,1,1
+Drainage,2,1
+Drug titration,1,1
+Drug use disorder,1,1
+Dry skin prophylaxis,1,1
+Echocardiogram,1,1
+Eczema asteatotic,2,1
+Effusion,1,1
+Electrocardiogram QT interval,1,1
+Electrocardiogram QT prolonged,1,1
+Embolic stroke,1,1
+Embolism arterial,1,1
+Embolism venous,2,1
+Encephalomyelitis,2,1
+End stage renal disease,5,1
+Endocrine pancreatic disorder,1,1
+Endometritis,1,1
+Enteritis,1,1
+Enterococcus test positive,2,1
+Enterocolitis infectious,2,1
+Enteropathy-associated T-cell lymphoma,1,1
+Eosinophilia,2,1
+Eosinophilic fasciitis,1,1
+Eosinophilic granulomatosis with polyangiitis,4,1
+Epidermal necrosis,2,1
+Epidermolysis bullosa,2,1
+Epididymal cancer,1,1
+Epstein-Barr viraemia,2,1
+Epstein-Barr virus associated lymphoma,20,1
+Erysipelas,2,1
+Erythrasma,2,1
+Escherichia urinary tract infection,2,1
+Essential tremor,3,1
+Ex-tobacco user,1,1
+External ear neoplasm malignant,2,1
+Extramammary Paget's disease,1,1
+Extrapyramidal disorder,1,1
+Extraskeletal chondrosarcoma metastatic,1,1
+Extremity necrosis,2,1
+Eye pain,1,1
+Faeces pale,1,1
+Fallopian tube cancer metastatic,2,1
+Febrile bone marrow aplasia,1,1
+Female reproductive neoplasm,2,1
+Fibrosarcoma metastatic,2,1
+Fine motor skill dysfunction,1,1
+Flushing,5,1
+Follicle centre lymphoma diffuse small cell lymphoma,1,1
+Fracture,1,1
+Frequent bowel movements,1,1
+Frontal lobe epilepsy,1,1
+Functional gastrointestinal disorder,1,1
+Fungaemia,1,1
+Fungal foot infection,1,1
+Gallbladder disorder,3,1
+Gallbladder squamous cell carcinoma,2,1
+Gangrene,1,1
+Gastric neuroendocrine carcinoma,3,1
+Gastric pH decreased,1,1
+Gastric pH increased,1,1
+Gastritis erosive,1,1
+Gastrointestinal cancer metastatic,1,1
+Gastrointestinal haemorrhage,2,1
+Gastrointestinal hypermotility,1,1
+Gastrointestinal infection,1,1
+Gastrointestinal motility disorder,1,1
+Gene sequencing,1,1
+General physical condition,2,1
+General symptom,1,1
+Germ cell cancer,3,1
+Glomerulonephritis,2,1
+Glossitis,1,1
+Gouty arthritis,2,1
+Granuloma,1,1
+Granulomatosis with polyangiitis,4,1
+HER2 positive bladder cancer,1,1
+HER2 positive endometrial cancer,2,1
+Haematemesis,1,1
+Haematological malignancy,3,1
+Haemorrhage prophylaxis,1,1
+Haemorrhoidal haemorrhage,3,1
+Haemostasis,1,1
+Hallucination,1,1
+Heart failure with preserved ejection fraction,1,1
+Heart rate irregular,1,1
+Hepatic cyst,1,1
+Hepatic mass,3,1
+Hepatic steatosis,2,1
+Hepatitis B reactivation,1,1
+Hepatitis B surface antigen,1,1
+Hepatitis D,1,1
+Hepatitis acute,1,1
+Hepatitis fulminant,3,1
+Hepatobiliary disease,1,1
+Hepatocellular injury,6,1
+Hereditary angioedema,2,1
+Hereditary leiomyomatosis renal cell carcinoma,7,1
+Herpetic radiculopathy,3,1
+Histiocytosis,2,1
+Hodgkin's disease mixed cellularity stage IV,1,1
+Hodgkin's disease stage III,2,1
+Hormone replacement therapy,1,1
+Hospitalisation,1,1
+Hot flush,2,1
+Huerthle cell carcinoma,3,1
+Human epidermal growth factor receptor positive,3,1
+Hydraemia,1,1
+Hyper IgM syndrome,3,1
+Hyperaesthesia,1,1
+Hyperammonaemia,1,1
+Hypercoagulation,1,1
+Hyperparathyroidism secondary,1,1
+Hyperphosphataemia,1,1
+Hypertonia,1,1
+Hypertransaminasaemia,1,1
+Hypertrophic cardiomyopathy,1,1
+Hypogammaglobulinaemia,1,1
+Hypogonadism male,1,1
+Hypopharyngeal neoplasm,3,1
+Hypotonia,1,1
+Hypotony maculopathy,6,1
+Hypotony of eye,2,1
+Hypovitaminosis,2,1
+Hypovolaemia,1,1
+Hypoxia,1,1
+Hysterectomy,1,1
+Iatrogenic injury,1,1
+IgG deficiency,1,1
+Immune tolerance induction,1,1
+Immune-mediated encephalitis,1,1
+Immune-mediated endocrinopathy,1,1
+Immune-mediated hypophysitis,1,1
+Immune-mediated oesophagitis,1,1
+Immunoassay,1,1
+Incision site impaired healing,1,1
+Infection parasitic,1,1
+Inflammatory carcinoma of breast stage IV,2,1
+Inflammatory carcinoma of the breast,5,1
+Influenza,1,1
+Influenza immunisation,1,1
+Infusion site vesicles,1,1
+Injection site discharge,1,1
+Injection site pain,2,1
+Injection site pruritus,1,1
+Insulin-like growth factor abnormal,3,1
+Intermittent positive pressure breathing,1,1
+International normalised ratio abnormal,1,1
+Intestinal fistula,1,1
+Intestinal pseudo-obstruction,1,1
+Intestinal resection,1,1
+Intracranial meningioma malignant,1,1
+Intraocular pressure increased,1,1
+Investigation,1,1
+Ischaemic heart disease prophylaxis,1,1
+Joint stiffness,1,1
+Keratitis,1,1
+Kidney infection,1,1
+Klebsiella infection,3,1
+Labyrinthitis,1,1
+Lacrimation increased,1,1
+Langerhans cell sarcoma,1,1
+Large intestine benign neoplasm,1,1
+Laryngeal cancer stage 0,1,1
+Laryngeal cancer stage IV,1,1
+Left ventricular failure,1,1
+Leriche syndrome,1,1
+Leukaemia,1,1
+Lichen planus,3,1
+Limb injury,1,1
+Lip and/or oral cavity cancer recurrent,1,1
+Lip infection,2,1
+Lip neoplasm malignant stage unspecified,3,1
+Lipid metabolism disorder,1,1
+Lipids abnormal,1,1
+Liposarcoma,3,1
+Liver function test abnormal,8,1
+Liver transplant rejection,2,1
+Lower respiratory tract infection,1,1
+Lumbar spinal stenosis,1,1
+Lung adenocarcinoma stage 0,1,1
+Lung carcinoma cell type unspecified stage I,1,1
+Lung infiltration,4,1
+Lung squamous cell carcinoma stage 0,2,1
+Lymphadenectomy,1,1
+Lymphangiosis carcinomatosa,1,1
+Lymphatic mapping,1,1
+Lymphocyte adoptive therapy,4,1
+Lymphocytic lymphoma,1,1
+Lymphopenia,1,1
+Magnetic resonance imaging,1,1
+Magnetic resonance imaging head,1,1
+Malabsorption,1,1
+Malignant ascites,1,1
+Malignant blue naevus,3,1
+Malignant hydatidiform mole,4,1
+Malignant melanoma stage I,1,1
+Malignant neoplasm of choroid,1,1
+Malignant neoplasm of eye,2,1
+Malignant palate neoplasm,2,1
+Malignant pituitary tumour,1,1
+Malignant splenic neoplasm,1,1
+Malignant transformation,1,1
+Mass,2,1
+Mastitis,2,1
+Mastoid disorder,4,1
+Medullary thyroid cancer,1,1
+Memory impairment,1,1
+Meniere's disease,1,1
+Meningococcal immunisation,1,1
+Menopause,2,1
+Menstruation irregular,1,1
+Metabolic acidosis,1,1
+Metabolic dysfunction-associated liver disease,2,1
+Metastases to abdominal cavity,6,1
+Metastases to bladder,2,1
+Metastases to diaphragm,1,1
+Metastases to heart,2,1
+Metastases to neck,3,1
+Metastases to nervous system,1,1
+Metastases to soft tissue,2,1
+Metastases to spleen,4,1
+Metastases to the respiratory system,2,1
+Metastases to thyroid,2,1
+Metastatic mesothelioma,2,1
+Microscopic polyangiitis,2,1
+Micturition urgency,1,1
+Miliaria,1,1
+Miller Fisher syndrome,4,1
+Mismatch repair cancer syndrome,3,1
+Mitral valve incompetence,1,1
+Mitral valve replacement,1,1
+Mixed connective tissue disease,1,1
+Monocytosis,1,1
+Mood altered,1,1
+Mouth ulceration,1,1
+Mucinous endometrial carcinoma,3,1
+Mucocutaneous disorder,1,1
+Mucormycosis,2,1
+Muscle disorder,4,1
+Muscle relaxant therapy,1,1
+Muscle spasticity,1,1
+Myelin oligodendrocyte glycoprotein antibody-associated disease,3,1
+Myelodysplastic syndrome,1,1
+Myelofibrosis,1,1
+Myopathy,1,1
+Myopericytoma,1,1
+NTRK gene fusion cancer,2,1
+Narcolepsy,1,1
+Nasopharyngeal cancer stage IV,1,1
+Necrotising oesophagitis,1,1
+Neoplasm prophylaxis,1,1
+Neoplasm prostate,1,1
+Neoplasm skin,1,1
+Neovascular age-related macular degeneration,2,1
+Nephritis,1,1
+Nephrogenic anaemia,1,1
+Nephropathy,2,1
+Nephroprotective therapy,1,1
+Nephrosclerosis,1,1
+Nephrotic syndrome,1,1
+Nervous system disorder,1,1
+Nervous system disorder prophylaxis,1,1
+Neuroblastoma recurrent,4,1
+Neurodegenerative disorder,1,1
+Neuroendocrine breast tumour,3,1
+Neuroendocrine carcinoma of the bladder,1,1
+Neurofibroma,1,1
+Neurofibromatosis,1,1
+Neurogenic bladder,1,1
+Neurolysis,1,1
+Neurotoxicity,1,1
+Neutrophil count,1,1
+Neutrophil count abnormal,4,1
+No adverse event,2,1
+Nonkeratinising carcinoma of nasopharynx,1,1
+Nutritional condition abnormal,3,1
+Ocular discomfort,1,1
+Ocular hypertension,1,1
+Ocular myasthenia,6,1
+Ocular surface disease,1,1
+Oesophageal adenocarcinoma recurrent,3,1
+Oesophageal adenocarcinoma stage 0,7,1
+Oesophageal adenocarcinoma stage III,3,1
+Ophthalmoplegia,1,1
+Optic ischaemic neuropathy,1,1
+Optic neuropathy,1,1
+Oral bacterial infection,1,1
+Oral cavity cancer metastatic,1,1
+Oral discomfort,1,1
+Oral herpes,1,1
+Organising pneumonia,2,1
+Oropharyngeal candidiasis,2,1
+Osteopenia,1,1
+Osteoporotic fracture,1,1
+Osteosarcoma metastatic,1,1
+Otitis externa,5,1
+Ovarian epithelial cancer metastatic,1,1
+Ovarian epithelial cancer stage IV,1,1
+Overdose,1,1
+Oxygen saturation decreased,1,1
+PD-L1 protein expression,1,1
+Palpitations,2,1
+Pancoast's tumour,3,1
+Pancreatic disorder,1,1
+Pancreatic mass,1,1
+Pancreatic neoplasm,1,1
+Pancreatitis acute,4,1
+Pancreatogenous diabetes,1,1
+Paraganglion neoplasm malignant,2,1
+Paralysis,1,1
+Paranasal sinus and nasal cavity malignant neoplasm,3,1
+Paraneoplastic neurological syndrome,1,1
+Paraparesis,1,1
+Paronychia,3,1
+Pathological fracture,1,1
+Pathological fracture prophylaxis,1,1
+Pelvic fracture,1,1
+Pelvic venous thrombosis,1,1
+Penis carcinoma recurrent,3,1
+Peptic ulcer,1,1
+Periarthritis,1,1
+Pericarditis,2,1
+Peripheral artery bypass,1,1
+Peripheral artery occlusion,1,1
+Peripheral artery thrombosis,1,1
+Pernicious anaemia,1,1
+Pharyngeal cancer recurrent,3,1
+Pharyngeal inflammation,1,1
+Philadelphia positive acute lymphocytic leukaemia,1,1
+Photosensitivity reaction,2,1
+Pigmentation disorder,1,1
+Pilomatrix carcinoma,5,1
+Pineocytoma,2,1
+Pituitary tumour removal,1,1
+Plaque shift,2,1
+Pleomorphic leiomyosarcoma,2,1
+Pleuritic pain,1,1
+Pneumocystis jirovecii infection,1,1
+Pneumomediastinum,2,1
+Pneumonia fungal,3,1
+Pneumonia klebsiella,8,1
+Pneumonia necrotising,2,1
+Polycystic ovarian syndrome,1,1
+Polyomavirus-associated nephropathy,1,1
+Porcelain gallbladder,1,1
+Porocarcinoma,1,1
+Post procedural hypothyroidism,1,1
+Postoperative analgesia,1,1
+Premature menopause,1,1
+Presenile dementia,1,1
+Primary immunodeficiency syndrome,1,1
+Primary mediastinal large B-cell lymphoma stage IV,14,1
+Probiotic therapy,1,1
+Procedural nausea,1,1
+Procoagulant therapy,1,1
+Product substitution,2,1
+Prostatic atrophy,1,1
+Prostatism,1,1
+Protein induced by vitamin K absence or antagonist II increased,1,1
+Pruritus allergic,2,1
+Pseudocellulitis,6,1
+Pulmonary hypertension,2,1
+Pulmonary pain,4,1
+Pulse abnormal,1,1
+Pure white cell aplasia,3,1
+Pustular psoriasis,6,1
+Pyoderma gangrenosum,3,1
+RET gene fusion positive,3,1
+Radiation oesophagitis,2,1
+Radiation pneumonitis,2,1
+Radiation skin injury,2,1
+Radiochemotherapy,1,1
+Rash vesicular,1,1
+Reactive infectious mucocutaneous eruption,1,1
+Reactive perforating collagenosis,1,1
+Rectal cancer metastatic,1,1
+Rectal cancer recurrent,1,1
+Rectal cancer stage IV,1,1
+Rectal haemorrhage,2,1
+Rectal spasm,1,1
+Rectosigmoid cancer recurrent,1,1
+Red blood cell sedimentation rate abnormal,1,1
+Reflux gastritis,1,1
+Refractory cancer,2,1
+Relapsing multiple sclerosis,4,1
+Renal cancer stage III,1,1
+Renal lithiasis prophylaxis,1,1
+Renal mass,1,1
+Renal vein thrombosis,1,1
+Respiratory papilloma,1,1
+Respiratory symptom,2,1
+Retinal disorder,1,1
+Retinal oedema,2,1
+Retinitis pigmentosa,3,1
+Retroperitoneal cancer,3,1
+Retroperitoneal fibrosis,1,1
+Retroperitoneal lymphadenopathy,3,1
+Rhabdoid tumour of the kidney,2,1
+Rhabdomyosarcoma,1,1
+Rosacea,1,1
+Rotator cuff syndrome,1,1
+Sacroiliitis,2,1
+Salivary gland cyst,1,1
+Salivary gland neoplasm,1,1
+Salmonellosis,3,1
+Scan with contrast,1,1
+Schizoaffective disorder bipolar type,4,1
+Sebaceous carcinoma,1,1
+Seborrhoeic dermatitis,1,1
+Second primary malignancy,2,1
+Secondary cerebellar degeneration,3,1
+Seizure prophylaxis,1,1
+Sensory disturbance,1,1
+Silent thyroiditis,1,1
+Sinus cancer metastatic,1,1
+Sinus disorder,1,1
+Sjogren's syndrome,1,1
+Skeletal injury,1,1
+Skin cancer metastatic,1,1
+Skin fragility,1,1
+Skin irritation,1,1
+Skin mass,1,1
+Skin reaction,1,1
+Skin test,2,1
+Skin ulcer,1,1
+Skin wrinkling,1,1
+Sleep disorder therapy,1,1
+Small intestine adenocarcinoma,1,1
+Small intestine carcinoma,1,1
+Small intestine carcinoma metastatic,2,1
+Soft tissue neoplasm,1,1
+Solid pseudopapillary tumour of the pancreas,5,1
+Somnolence,1,1
+Spindle cell sarcoma,11,1
+Spondylitis,1,1
+Spondylolisthesis,1,1
+Spontaneous haematoma,1,1
+Squamous cell carcinoma of the parotid gland,1,1
+Stasis dermatitis,1,1
+Steatohepatitis,2,1
+Stenotrophomonas infection,1,1
+Still's disease,1,1
+Streptococcal endocarditis,1,1
+Stress,1,1
+Subacute inflammatory demyelinating polyneuropathy,1,1
+Subcorneal pustular dermatosis,1,1
+Superficial vein thrombosis,1,1
+Supraventricular extrasystoles,2,1
+Symptomatic treatment,5,1
+Synovial sarcoma metastatic,2,1
+T-cell lymphoma refractory,2,1
+Tachyarrhythmia,3,1
+Teething,1,1
+Temporal lobe epilepsy,2,1
+Temporomandibular pain and dysfunction syndrome,1,1
+Thyroid neoplasm,2,1
+Thyroid therapy,1,1
+Thyroiditis subacute,1,1
+Thyroxine free decreased,2,1
+Thyroxine increased,1,1
+Tobacco withdrawal symptoms,1,1
+Tooth infection,2,1
+Toothache,2,1
+Transcatheter arterial chemoembolisation,2,1
+Transfusion reaction,1,1
+Transient acantholytic dermatosis,2,1
+Tremor,1,1
+Trigeminal neuralgia,1,1
+Tumour haemorrhage,2,1
+Tumour inflammation-associated neurotoxicity,2,1
+Tumour marker increased,1,1
+Tumour treating fields therapy,2,1
+Typical aura without headache,1,1
+Ulcerative keratitis,3,1
+Undifferentiated nasopharyngeal carcinoma,1,1
+Urachal abnormality,5,1
+Ureteral disorder,1,1
+Ureteric cancer regional,1,1
+Urethral melanoma metastatic,1,1
+Uterine leiomyosarcoma,1,1
+Uterine neoplasm,3,1
+VIth nerve paresis,1,1
+Vaginal cancer,1,1
+Varicella virus test positive,1,1
+Varicose vein,1,1
+Vascular device infection,1,1
+Vasomotor rhinitis,1,1
+Vertebroplasty,1,1
+Vertigo positional,1,1
+Viral diarrhoea,1,1
+Vitamin B12,1,1
+Vitamin D decreased,1,1
+Vogt-Koyanagi-Harada disease,1,1
+Von Willebrand's disease,1,1
+Vulvar basal cell carcinoma,1,1
+Weight control,1,1
+Weight fluctuation,1,1
+Weight increased,1,1
+Wernicke's encephalopathy,1,1
+Wound,1,1
+Wound infection,1,1
+Xeroderma,3,1
+Xeroderma pigmentosum,1,1

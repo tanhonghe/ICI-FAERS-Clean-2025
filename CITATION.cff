@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "ICI-FAERS-Clean-2025"
+message: "If you use this project, please cite it using the metadata in this file."
+type: software
+authors:
+  - family-names: "ICI-FAERS Research Pipeline contributors"
+version: "1.0.0"
+date-released: "2026-10-01"
+repository-code: "https://github.com/your-username/ICI-FAERS-Clean-2025"
+abstract: "A reproducible 2025 FAERS data-cleaning pipeline for immune checkpoint inhibitor pharmacovigilance research."
+keywords:
+  - FAERS
+  - pharmacovigilance
+  - immune checkpoint inhibitors
+  - reproducible research
+license: MIT

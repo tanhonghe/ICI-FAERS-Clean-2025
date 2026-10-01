@@ -1,0 +1,9 @@
+table,file_prefix,primary_keys,description,stage_output
+DEMO,DEMO,primaryid; caseid,Patient and report-level information,data/processed/2025/cases.csv.gz
+DRUG,DRUG,primaryid; caseid; drug_seq,Drug records including suspect and concomitant drugs,data/processed/2025/drugs.csv.gz
+REAC,REAC,primaryid; caseid; pt,Reported MedDRA Preferred Terms,data/processed/2025/reactions.csv.gz
+OUTC,OUTC,primaryid; caseid; outc_cod,Reported outcomes,data/processed/2025/outcomes.csv.gz
+INDI,INDI,primaryid; caseid; indi_drug_seq,Drug indications,data/processed/2025/indications.csv.gz
+THER,THER,primaryid; caseid; dsg_drug_seq,Therapy start and end dates,data/processed/2025/therapy.csv.gz
+RPSR,RPSR,primaryid; caseid,Report source table,intermediate only in v1.0.0
+DELETE,DELETE,caseid,Deleted cases file from FDA,intermediate only in v1.0.0

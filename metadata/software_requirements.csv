@@ -1,0 +1,7 @@
+software_or_package,minimum_version,purpose
+R,4.2,Pipeline runtime
+data.table,1.14,Fast ASCII table reading and aggregation
+ggplot2,3.4,QC figure generation
+scales,1.2,Figure axis formatting
+yaml,2.3,Reserved for future machine-readable configuration
+unzip,system,Streaming files from FDA zip archives

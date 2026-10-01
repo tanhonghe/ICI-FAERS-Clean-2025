@@ -1,0 +1,6 @@
+metric,value
+raw_demo_reports,1617444
+unique_caseid_before_deduplication,1469305
+caseids_with_multiple_versions,133643
+reports_removed_by_caseversion_deduplication,148139
+final_latest_caseid_reports,1469305

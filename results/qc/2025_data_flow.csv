@@ -1,0 +1,5 @@
+step_order,step,n_records
+1,Raw DEMO reports,1617444
+2,Unique CASEID before deduplication,1469305
+3,Latest CASEVERSION per CASEID,1469305
+4,ICI-associated case-level dataset,39388

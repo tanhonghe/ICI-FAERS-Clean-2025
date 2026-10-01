@@ -1,0 +1,9 @@
+standard_name,ici_class,target,n_drug_rows,n_cases
+pembrolizumab,PD-1,PD-1,23371,18924
+nivolumab,PD-1,PD-1,11932,8765
+durvalumab,PD-L1,PD-L1,5358,5185
+atezolizumab,PD-L1,PD-L1,5967,5148
+ipilimumab,CTLA-4,CTLA-4,3676,3328
+dostarlimab,PD-1,PD-1,943,771
+cemiplimab,PD-1,PD-1,774,696
+avelumab,PD-L1,PD-L1,390,370
